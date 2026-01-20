@@ -1,0 +1,4006 @@
+INGREDIENT LINKING ISSUES REPORT
+================================================================================
+
+Total cocktail files analyzed: 595
+Files with issues: 429
+
+Issue breakdown:
+  - missing_file: 636
+  - unlinked_ingredient: 409
+
+================================================================================
+DETAILED ISSUES BY FILE
+================================================================================
+
+3 Dots and a Dash.md:
+  Line 10: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+3-10 to Yuzu Cocktail.md:
+  Line 5: missing_file
+    Content: - 0.75 oz [[Green Tea Syrup]]
+    Linked: [[Green Tea Syrup]]
+
+Affogato Martini.md:
+  Line 4: unlinked_ingredient
+    Content: - 0.5 to 1.5 oz [[Vodka]] (or [[White Rum]])
+    Potential unlinked: to   (or )
+  Line 5: unlinked_ingredient
+    Content: - 1 scoop [[Vanilla Ice Cream]] or [[Gelato]]
+    Potential unlinked: scoop  or
+  Line 5: missing_file
+    Content: - 1 scoop [[Vanilla Ice Cream]] or [[Gelato]]
+    Linked: [[Vanilla Ice Cream]]
+  Line 5: missing_file
+    Content: - 1 scoop [[Vanilla Ice Cream]] or [[Gelato]]
+    Linked: [[Gelato]]
+
+Aka Nui.md:
+  Line 9: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Aku Aku.md:
+  Line 7: unlinked_ingredient
+    Content: -   6-8 Fresh [[Fresh Mint]]
+    Potential unlinked: Fresh
+
+Americano.md:
+  Line 5: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Ante Up.md:
+  Line 8: unlinked_ingredient
+    Content: -   5 drops [[Saline Solution]] (20%)
+    Potential unlinked: s  (%)
+
+Argentina.md:
+  Line 8: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Au Revoir MH.md:
+  Line 10: missing_file
+    Content: - [[Wildberry]]
+    Linked: [[Wildberry]]
+
+Bahama Mama.md:
+  Line 4: missing_file
+    Content: - 0.75 [[Overproof]] [[Jamaican Rum]] [[White Rum]]
+    Linked: [[Overproof]]
+  Line 5: missing_file
+    Content: - 0.25 [[Bananenlikör]]
+    Linked: [[Bananenlikör]]
+
+Bamboo.md:
+  Line 5: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Banana Pineapple Daiquiri.md:
+  Line 5: missing_file
+    Content: -   1 [[Banana]] (sliced)
+    Linked: [[Banana]]
+  Line 6: missing_file
+    Content: -   1 tsp [[Sugar]]
+    Linked: [[Sugar]]
+  Line 7: unlinked_ingredient
+    Content: -   1 cup [[Crushed Ice]]
+    Potential unlinked: cup
+  Line 7: missing_file
+    Content: -   1 cup [[Crushed Ice]]
+    Linked: [[Crushed Ice]]
+
+Bananavardier.md:
+  Line 3: missing_file
+    Content: -   1 oz [[Bourbon Whiskey]]
+    Linked: [[Bourbon Whiskey]]
+  Line 5: missing_file
+    Content: -   0.5 oz [[Italian Red Bitter Liqueur]]
+    Linked: [[Italian Red Bitter Liqueur]]
+
+Basil Gimlet.md:
+  Line 6: missing_file
+    Content: - 6 [[Basilikum Blätter]]
+    Linked: [[Basilikum Blätter]]
+
+Bitter Bee.md:
+  Line 4: missing_file
+    Content: - 1 [[Spoon Brown Sugar]]
+    Linked: [[Spoon Brown Sugar]]
+  Line 6: missing_file
+    Content: - 1/2 [[frischer Lime Juice]]
+    Linked: [[frischer Lime Juice]]
+  Line 8: unlinked_ingredient
+    Content: - Heavy [[Top Angostura Bitters]]
+    Potential unlinked: Heavy
+  Line 8: missing_file
+    Content: - Heavy [[Top Angostura Bitters]]
+    Linked: [[Top Angostura Bitters]]
+
+Black Manhattan.md:
+  Line 3: missing_file
+    Content: - 2 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 3: missing_file
+    Content: - 2 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 4: missing_file
+    Content: - 1 [[Ramazotti]]
+    Linked: [[Ramazotti]]
+  Line 5: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Black Russian.md:
+  Line 4: missing_file
+    Content: - 1 [[Coffee Liquor]]
+    Linked: [[Coffee Liquor]]
+
+Blackberry Smash.md:
+  Line 3: missing_file
+    Content: -   2 oz [[Bourbon]] (or other [[Whiskey]])
+    Linked: [[Whiskey]]
+  Line 4: unlinked_ingredient
+    Content: -   0.75 oz Fresh [[Lemon Juice]]
+    Potential unlinked: Fresh
+  Line 6: unlinked_ingredient
+    Content: -   4-6 Fresh [[Blackberries]]
+    Potential unlinked: Fresh
+  Line 6: missing_file
+    Content: -   4-6 Fresh [[Blackberries]]
+    Linked: [[Blackberries]]
+  Line 7: unlinked_ingredient
+    Content: -   4-6 Fresh [[Fresh Mint]]
+    Potential unlinked: Fresh
+
+Blannibal Sour.md:
+  Line 3: missing_file
+    Content: - 2 [[Haitischer]] [[White Rum]]
+    Linked: [[Haitischer]]
+  Line 4: missing_file
+    Content: - 0.25 [[Absinth]]
+    Linked: [[Absinth]]
+  Line 7: missing_file
+    Content: - 0,5 [[Heidelbeersirup]]
+    Linked: [[Heidelbeersirup]]
+
+Boston Sour.md:
+  Line 3: missing_file
+    Content: - 2 [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Bramble.md:
+  Line 6: unlinked_ingredient
+    Content: - Top [[1/2 Creme de Mure]]
+    Potential unlinked: Top
+  Line 6: missing_file
+    Content: - Top [[1/2 Creme de Mure]]
+    Linked: [[1/2 Creme de Mure]]
+
+Brandy Crusta.md:
+  Line 7: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Brandy Flip.md:
+  Line 6: missing_file
+    Content: - 1 [[ganzes Ei]]
+    Linked: [[ganzes Ei]]
+
+Brandy Julep.md:
+  Line 5: unlinked_ingredient
+    Content: - 4 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Brown Derby.md:
+  Line 3: missing_file
+    Content: - 2 [[Bourbon]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 4: missing_file
+    Content: - 1 [[Grapefruitsaft]]
+    Linked: [[Grapefruitsaft]]
+
+Caipirinha.md:
+  Line 4: unlinked_ingredient
+    Content: - 1 lime quarters
+    Potential unlinked: lime quarters
+  Line 5: unlinked_ingredient
+    Content: - 1 superfine sugar (Barspoon, ca. 0.5 tsp)
+    Potential unlinked: superfine sugar (Barspoon, ca. )
+
+Campari Shakerato.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Lime Juice]]
+    Potential unlinked: dashes
+  Line 3: unlinked_ingredient
+    Content: - 1 1/2-1 3/4 [[Campari]]
+    Potential unlinked: /-/
+  Line 4: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Canchanchara.md:
+  Line 4: missing_file
+    Content: - 1/2 [[Agricole rhum]]
+    Linked: [[Agricole rhum]]
+  Line 5: missing_file
+    Content: - 3/4 [[3:1 Honey syrup]]
+    Linked: [[3:1 Honey syrup]]
+
+Cannonball.md:
+  Line 7: unlinked_ingredient
+    Content: - 3 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Carabinieri.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 4: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 6: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 8: missing_file
+    Content: - 2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Cardinal.md:
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Carl Josef.md:
+  Line 4: unlinked_ingredient
+    Content: -   1 oz Fresh [[Lemon Juice]]
+    Potential unlinked: Fresh
+
+Casablanca.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Advocaat]]
+    Linked: [[Advocaat]]
+  Line 4: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Champagne Cocktail.md:
+  Line 3: missing_file
+    Content: - 1 [[Sugar Cube]]
+    Linked: [[Sugar Cube]]
+  Line 4: unlinked_ingredient
+    Content: - 6-8 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Champs-Elysees.md:
+  Line 7: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Cherry Fizz.md:
+  Line 6: missing_file
+    Content: - [[Cherry Juice]]
+    Linked: [[Cherry Juice]]
+
+Cherry Flip.md:
+  Line 2: missing_file
+    Content: - 1 [[Egg Yolk]]
+    Linked: [[Egg Yolk]]
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Chi Chi.md:
+  Line 6: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 6: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+  Line 7: unlinked_ingredient
+    Content: - amarelle [[Cherry]]
+    Potential unlinked: amarelle
+
+Chicago Fizz.md:
+  Line 3: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 5: missing_file
+    Content: - 3/4 [[Ruby Port]]
+    Linked: [[Ruby Port]]
+
+Choco Colada.md:
+  Line 6: missing_file
+    Content: -   0.5 oz [[Chocolate Liqueur]]
+    Linked: [[Chocolate Liqueur]]
+  Line 7: unlinked_ingredient
+    Content: -   1 cup [[Crushed Ice]]
+    Potential unlinked: cup
+  Line 7: missing_file
+    Content: -   1 cup [[Crushed Ice]]
+    Linked: [[Crushed Ice]]
+
+Clamato Cocktail.md:
+  Line 2: unlinked_ingredient
+    Content: - 2 [[Tomato Juice]] spiced
+    Potential unlinked: spiced
+  Line 3: unlinked_ingredient
+    Content: - 2 [[Clam Juice]] spiced
+    Potential unlinked: spiced
+  Line 3: missing_file
+    Content: - 2 [[Clam Juice]] spiced
+    Linked: [[Clam Juice]]
+
+Claridge.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Apricot Liqueur]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Triple Sec]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+
+Clover Club.md:
+  Line 6: missing_file
+    Content: - 1/4 [[Simple Sirup]]
+    Linked: [[Simple Sirup]]
+
+Cobbler.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Gin (or any other spirit)]]
+    Linked: [[Gin (or any other spirit)]]
+  Line 4: missing_file
+    Content: - 1 [[Curacao]]
+    Linked: [[Curacao]]
+  Line 5: missing_file
+    Content: - 1 [[Lemon,Lime and Orange Wedge]]
+    Linked: [[Lemon,Lime and Orange Wedge]]
+  Line 6: missing_file
+    Content: - 1 [[Strawberry]]
+    Linked: [[Strawberry]]
+  Line 7: missing_file
+    Content: - 1 [[Cherry (pitted)]]
+    Linked: [[Cherry (pitted)]]
+
+Cobras Fang.md:
+  Line 8: missing_file
+    Content: - 6 [[Drops Absinthe]]
+    Linked: [[Drops Absinthe]]
+  Line 9: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+
+Coco Choco.md:
+  Line 4: missing_file
+    Content: -   1 oz [[Creme de Cacao]] (Dark)
+    Linked: [[Creme de Cacao]]
+
+Coconut Banana.md:
+  Line 6: missing_file
+    Content: -   0.5 [[Frozen Banana]]
+    Linked: [[Frozen Banana]]
+
+Coconut Dream.md:
+  Line 4: missing_file
+    Content: -   1 oz [[Coconut Liqueur]]
+    Linked: [[Coconut Liqueur]]
+  Line 7: unlinked_ingredient
+    Content: -   0.25 oz Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+
+Coconut Kiss.md:
+  Line 3: missing_file
+    Content: -   2 oz [[Hard Truth Toasted Coconut Rum]]
+    Linked: [[Hard Truth Toasted Coconut Rum]]
+  Line 7: unlinked_ingredient
+    Content: -   1 Medium [[Strawberry]]
+    Potential unlinked: Medium
+  Line 7: missing_file
+    Content: -   1 Medium [[Strawberry]]
+    Linked: [[Strawberry]]
+
+Coffee Margarita.md:
+  Line 4: missing_file
+    Content: -   1 oz [[Kahlúa]]
+    Linked: [[Kahlúa]]
+  Line 5: unlinked_ingredient
+    Content: -   0.5 oz Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+  Line 6: missing_file
+    Content: -   0.5 oz [[Cold Brew Coffee]]
+    Linked: [[Cold Brew Coffee]]
+  Line 7: missing_file
+    Content: -   0.25 oz [[Agave Nectar]]
+    Linked: [[Agave Nectar]]
+
+Corpse Reviver #1.md:
+  Line 6: missing_file
+    Content: - 2 [[Dashes Angostura bitters]]
+    Linked: [[Dashes Angostura bitters]]
+
+Corpse Reviver #2.md:
+  Line 7: unlinked_ingredient
+    Content: - Absinthe [[Rinse]]
+    Potential unlinked: Absinthe
+  Line 7: missing_file
+    Content: - Absinthe [[Rinse]]
+    Linked: [[Rinse]]
+
+Cosmopolitan 1934.md:
+  Line 5: missing_file
+    Content: - 0.75 [[Himbeersirup]]
+    Linked: [[Himbeersirup]]
+
+Cosmopolitan.md:
+  Line 3: missing_file
+    Content: -   40 ml [[Vodka Citron]]
+    Linked: [[Vodka Citron]]
+  Line 5: unlinked_ingredient
+    Content: -   15 ml Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+
+Cruel Summer.md:
+  Line 4: missing_file
+    Content: -   0.75 oz [[Strawberry Syrup]]
+    Linked: [[Strawberry Syrup]]
+  Line 6: missing_file
+    Content: -   2 oz [[Coconut Sparkling Water]]
+    Linked: [[Coconut Sparkling Water]]
+
+Cuba Libre.md:
+  Line 4: unlinked_ingredient
+    Content: - 2 lime wedges
+    Potential unlinked: lime wedges
+
+Cucumber Basil Gimlet.md:
+  Line 4: unlinked_ingredient
+    Content: -   0.75 oz Fresh [[Cucumber Juice]]
+    Potential unlinked: Fresh
+  Line 4: missing_file
+    Content: -   0.75 oz Fresh [[Cucumber Juice]]
+    Linked: [[Cucumber Juice]]
+  Line 5: missing_file
+    Content: -   0.75 oz [[Basil Simple Syrup]]
+    Linked: [[Basil Simple Syrup]]
+  Line 6: unlinked_ingredient
+    Content: -   0.25 oz Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+
+Cucumber Greek Yogurt Cocktail.md:
+  Line 2: missing_file
+    Content: - 1.75 oz [[London Dry Gin]]
+    Linked: [[London Dry Gin]]
+  Line 5: missing_file
+    Content: - 0.50 oz [[Cucumber Simple Syrup]]
+    Linked: [[Cucumber Simple Syrup]]
+  Line 6: unlinked_ingredient
+    Content: - 2 heaping bar-spoonfuls [[Greek Yogurt]]
+    Potential unlinked: heaping bar-spoonfuls
+  Line 6: missing_file
+    Content: - 2 heaping bar-spoonfuls [[Greek Yogurt]]
+    Linked: [[Greek Yogurt]]
+
+Cynar Cocktail.md:
+  Line 4: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+
+Daiquiri Natural.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-1/2 [[Simple Syrup]]
+    Potential unlinked: /-/
+
+Death Flip.md:
+  Line 4: missing_file
+    Content: - 0.5 [[Jagermeister]]
+    Linked: [[Jagermeister]]
+  Line 6: unlinked_ingredient
+    Content: - 1 bar spoon [[Simple Syrup]]
+    Potential unlinked: bar spoon
+  Line 7: missing_file
+    Content: - 1 [[ganzes Ei]]
+    Linked: [[ganzes Ei]]
+
+Deauville.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - 1/4-3/4 [[Triple Sec]]
+    Potential unlinked: /-/
+
+Deep South.md:
+  Line 5: missing_file
+    Content: - 1/4 [[Southern Comfort]]
+    Linked: [[Southern Comfort]]
+
+Deep-Sea Diver.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Lime Syrup]]
+    Linked: [[Lime Syrup]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Derby Daiquiri.md:
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Derby.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Peychaud's Bitters]]
+    Potential unlinked: dash
+
+Desk Job.md:
+  Line 5: unlinked_ingredient
+    Content: -   0.75 oz Aged [[Jamaican Rum]]
+    Potential unlinked: Aged
+
+Devil.md:
+  Line 3: missing_file
+    Content: - 1 [[Tawny Port]]
+    Linked: [[Tawny Port]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Diplomat.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Maraschino Liqueur]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 6: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Dirty Mother.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Kahlua]]
+    Linked: [[Kahlua]]
+
+Dirty White Mother.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Kahlua]]
+    Linked: [[Kahlua]]
+
+Don the Beachcomber Navy Grog.md:
+  Line 5: missing_file
+    Content: - 1 [[Jamaican Dark Rum]]
+    Linked: [[Jamaican Dark Rum]]
+  Line 6: missing_file
+    Content: - 1 [[Honey Syrup (2:1)]]
+    Linked: [[Honey Syrup (2:1)]]
+  Line 7: missing_file
+    Content: - 3/4 [[Fresh Lime Juice]]
+    Linked: [[Fresh Lime Juice]]
+  Line 8: missing_file
+    Content: - 3/4 [[Fresh Grapefruit Juice]]
+    Linked: [[Fresh Grapefruit Juice]]
+  Line 9: unlinked_ingredient
+    Content: - Top [[1 Soda Water]]
+    Potential unlinked: Top
+  Line 9: missing_file
+    Content: - Top [[1 Soda Water]]
+    Linked: [[1 Soda Water]]
+
+Don the Beachcomber Planters Punch.md:
+  Line 3: missing_file
+    Content: - 1 [[Gold Virgin Islands Rum]]
+    Linked: [[Gold Virgin Islands Rum]]
+  Line 5: missing_file
+    Content: - 1/2 [[Gold Jamaican Rum]]
+    Linked: [[Gold Jamaican Rum]]
+  Line 6: missing_file
+    Content: - 1 [[Barspoon Velvet Falernum]]
+    Linked: [[Barspoon Velvet Falernum]]
+  Line 9: missing_file
+    Content: - 1 [[Barspoon Grendaine]]
+    Linked: [[Barspoon Grendaine]]
+  Line 10: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+
+Don's Own Grog.md:
+  Line 4: missing_file
+    Content: -   0.5 oz [[Lightly Aged Rum]]
+    Linked: [[Lightly Aged Rum]]
+  Line 7: missing_file
+    Content: -   0.5 oz [[Demerara Syrup]]
+    Linked: [[Demerara Syrup]]
+  Line 9: missing_file
+    Content: -   0.25 oz [[Blackberry Liqueur]]
+    Linked: [[Blackberry Liqueur]]
+  Line 10: unlinked_ingredient
+    Content: -   1 Dash [[Angostura Bitters]]
+    Potential unlinked: Dash
+
+Dry Daiquiri.md:
+  Line 7: missing_file
+    Content: - 1 [[Maracujasirup]]
+    Linked: [[Maracujasirup]]
+
+Dubonnet Cassis.md:
+  Line 2: missing_file
+    Content: - 1 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Dubonnet Cocktail.md:
+  Line 2: missing_file
+    Content: - 1 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Dubonnet Fizz.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 5: missing_file
+    Content: - 1 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+
+Dubonnet Highball.md:
+  Line 2: missing_file
+    Content: - 1 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 4: unlinked_ingredient
+    Content: - [[Zitronenzeste]] spiral
+    Potential unlinked: spiral
+  Line 4: missing_file
+    Content: - [[Zitronenzeste]] spiral
+    Linked: [[Zitronenzeste]]
+
+Due Campari.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Cordial Campari]]
+    Linked: [[Cordial Campari]]
+
+Duke of Marlboro.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - [[Orangenzeste]]
+    Linked: [[Orangenzeste]]
+
+Eclipse.md:
+  Line 7: unlinked_ingredient
+    Content: - Top [[1/4 mezcal]]
+    Potential unlinked: Top
+  Line 7: missing_file
+    Content: - Top [[1/4 mezcal]]
+    Linked: [[1/4 mezcal]]
+
+Eeyore’s Requiem.md:
+  Line 8: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+  Line 9: missing_file
+    Content: - 1 [[Dash Orange Bitters]]
+    Linked: [[Dash Orange Bitters]]
+
+El Burro.md:
+  Line 7: missing_file
+    Content: - 0.25 [[Absinth]]
+    Linked: [[Absinth]]
+
+El Diablo.md:
+  Line 7: unlinked_ingredient
+    Content: - 3 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+El Pepino.md:
+  Line 4: unlinked_ingredient
+    Content: -   0.75 oz Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+  Line 5: missing_file
+    Content: -   0.5 oz [[Agave Nectar]]
+    Linked: [[Agave Nectar]]
+  Line 6: unlinked_ingredient
+    Content: -   3-4 slices [[Cucumber]]
+    Potential unlinked: slices
+  Line 7: unlinked_ingredient
+    Content: -   1-2 slices [[Jalapeño]]
+    Potential unlinked: slices
+  Line 7: missing_file
+    Content: -   1-2 slices [[Jalapeño]]
+    Linked: [[Jalapeño]]
+
+El Presidente.md:
+  Line 6: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+  Line 7: unlinked_ingredient
+    Content: - 1 bar spoon [[Grenadine]]
+    Potential unlinked: bar spoon
+
+Espresso Martini.md:
+  Line 4: missing_file
+    Content: - 0.75 [[Kaffeelikör]]
+    Linked: [[Kaffeelikör]]
+
+Ferrari.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Amaretto]]
+    Potential unlinked: dash
+
+Fiesta.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Lime Juice]]
+    Potential unlinked: dash
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Fino Martini.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Fino Sherry]]
+    Potential unlinked: dashes
+  Line 4: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+
+Fireman's Sour.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Fish House Punch No 1.md:
+  Line 2: unlinked_ingredient
+    Content: - 5 liters water
+    Potential unlinked: liters water
+  Line 3: unlinked_ingredient
+    Content: - 500 grams [[Brown Sugar]]
+    Potential unlinked: grams
+  Line 3: missing_file
+    Content: - 500 grams [[Brown Sugar]]
+    Linked: [[Brown Sugar]]
+  Line 4: unlinked_ingredient
+    Content: - 3 liters [[Dark Rum]]
+    Potential unlinked: liters
+  Line 5: unlinked_ingredient
+    Content: - 1 liter [[Brandy]]
+    Potential unlinked: liter
+  Line 6: unlinked_ingredient
+    Content: - 1/4 liter [[Southern Comfort]]
+    Potential unlinked: /liter
+  Line 6: missing_file
+    Content: - 1/4 liter [[Southern Comfort]]
+    Linked: [[Southern Comfort]]
+  Line 8: unlinked_ingredient
+    Content: - [[Lime]] peels
+    Potential unlinked: peels
+
+Fish House Punch No 2.md:
+  Line 2: unlinked_ingredient
+    Content: - 2 liters [[Water]]
+    Potential unlinked: liters
+  Line 2: missing_file
+    Content: - 2 liters [[Water]]
+    Linked: [[Water]]
+  Line 3: unlinked_ingredient
+    Content: - 3 liters [[Black Tea]]
+    Potential unlinked: liters
+  Line 3: missing_file
+    Content: - 3 liters [[Black Tea]]
+    Linked: [[Black Tea]]
+  Line 4: missing_file
+    Content: - [[Honey]]
+    Linked: [[Honey]]
+  Line 6: unlinked_ingredient
+    Content: - 2 liters [[Dark Rum]]
+    Potential unlinked: liters
+  Line 7: unlinked_ingredient
+    Content: - 1/2 liter [[Brandy]]
+    Potential unlinked: /liter
+  Line 9: unlinked_ingredient
+    Content: - [[Lime]] peels
+    Potential unlinked: peels
+
+Flamingo.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+
+Flight of Passion.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 6: missing_file
+    Content: - 0.5 [[Maracujasirup]]
+    Linked: [[Maracujasirup]]
+
+Florida Daiquiri.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Sugar]]
+    Linked: [[Sugar]]
+
+Florida Sling.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 7: unlinked_ingredient
+    Content: - 1/4-3/4 [[Cherry Brandy]]
+    Potential unlinked: /-/
+  Line 8: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Florodora Reconstructed.md:
+  Line 3: missing_file
+    Content: -   2 oz [[London Dry Gin]]
+    Linked: [[London Dry Gin]]
+  Line 4: unlinked_ingredient
+    Content: -   1 oz Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+  Line 5: missing_file
+    Content: -   0.5 oz [[Raspberry Syrup]] (or [[Chambord]])
+    Linked: [[Chambord]]
+  Line 6: unlinked_ingredient
+    Content: -   [[Ginger Beer]] or [[Ginger Ale]] (chilled, to top)
+    Potential unlinked: or  (chilled, to top)
+
+Fog Cutter.md:
+  Line 7: missing_file
+    Content: - 1/2 [[Fresh Lemon Juice]]
+    Linked: [[Fresh Lemon Juice]]
+  Line 8: missing_file
+    Content: - 3/4 [[Fresh Orange Juice]]
+    Linked: [[Fresh Orange Juice]]
+
+French 68.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Simple Syrup]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+French Colada.md:
+  Line 6: missing_file
+    Content: - 1.5 [[Kokosnusscreme]]
+    Linked: [[Kokosnusscreme]]
+
+French Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Creme de Cassis]]
+    Potential unlinked: dashes
+
+French Manhattan.md:
+  Line 6: unlinked_ingredient
+    Content: -   1 Dash [[Orange Bitters]]
+    Potential unlinked: Dash
+
+French Martini.md:
+  Line 4: missing_file
+    Content: - 0.5 [[schwarzer Himbeerlikör]]
+    Linked: [[schwarzer Himbeerlikör]]
+
+French Pearl.md:
+  Line 7: missing_file
+    Content: - 1 [[Absinth]]
+    Linked: [[Absinth]]
+
+Gas Reagans Ultimate Negroni.md:
+  Line 4: missing_file
+    Content: - 1 [[Jagermeister]]
+    Linked: [[Jagermeister]]
+
+Gauguin.md:
+  Line 4: missing_file
+    Content: - 1/4 [[Cherimoya]]
+    Linked: [[Cherimoya]]
+
+Gene Tunney.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+
+Gentle Suicide.md:
+  Line 6: missing_file
+    Content: - 0.25 [[Waldmeistersirup]]
+    Linked: [[Waldmeistersirup]]
+  Line 8: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Gibson.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Dry Vermouth]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - pearl [[Onion]]
+    Potential unlinked: pearl
+  Line 4: missing_file
+    Content: - pearl [[Onion]]
+    Linked: [[Onion]]
+
+Gin & Bitters.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+  Line 3: unlinked_ingredient
+    Content: - 1 1/4-1 3/4 [[Gin]]
+    Potential unlinked: /-/
+
+Gin & It.md:
+  Line 4: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+
+Gin Basil Smash.md:
+  Line 6: missing_file
+    Content: - 4-6 [[Basil Leaves]]
+    Linked: [[Basil Leaves]]
+
+Gin Fizz.md:
+  Line 8: unlinked_ingredient
+    Content: - Top [[Soda Water]]
+    Potential unlinked: Top
+
+Gin Rickey.md:
+  Line 5: unlinked_ingredient
+    Content: - optional: 0.25 [[Simple Syrup]]
+    Potential unlinked: optional:
+  Line 6: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Gin Sour.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+God's Child.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Golden Cadillac.md:
+  Line 3: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Golden Colada.md:
+  Line 5: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 9: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 9: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+
+Golden Fizz.md:
+  Line 3: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 6: missing_file
+    Content: - 1/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Golden Nail.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Southern Comfort]]
+    Linked: [[Southern Comfort]]
+
+Golden Rye Fizz.md:
+  Line 4: missing_file
+    Content: - 1/4 [[Advocaat]]
+    Linked: [[Advocaat]]
+  Line 5: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Green Banana.md:
+  Line 3: unlinked_ingredient
+    Content: -   Green [[Banana Liqueur]]
+    Potential unlinked: Green
+  Line 4: missing_file
+    Content: -   [[Green Curacao]]
+    Linked: [[Green Curacao]]
+
+Green Spider.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Peppermint Syrup]]
+    Linked: [[Peppermint Syrup]]
+  Line 4: missing_file
+    Content: - [[Tonic Water]]
+    Linked: [[Tonic Water]]
+  Line 5: unlinked_ingredient
+    Content: - [[Fresh Mint]] sprig
+    Potential unlinked: sprig
+
+Greenback.md:
+  Line 4: missing_file
+    Content: - [[Limette]]
+    Linked: [[Limette]]
+
+Habana Libre.md:
+  Line 2: missing_file
+    Content: - [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+  Line 5: unlinked_ingredient
+    Content: - 3/4 [[White Rum]] extra aged
+    Potential unlinked: /extra aged
+
+Happy New Year.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Ruby Port]]
+    Linked: [[Ruby Port]]
+  Line 4: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Harvard.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+
+Hazelnut Chocolate Matcha Cocktail.md:
+  Line 3: missing_file
+    Content: - 1 oz [[White Creme de Cacao]]
+    Linked: [[White Creme de Cacao]]
+  Line 4: missing_file
+    Content: - 0.5 oz [[Hazelnut Liqueur]]
+    Linked: [[Hazelnut Liqueur]]
+  Line 5: missing_file
+    Content: - 0.25 tsp [[Matcha Powder]]
+    Linked: [[Matcha Powder]]
+  Line 6: missing_file
+    Content: - 0.5 oz [[Vanilla Simple Syrup]]
+    Linked: [[Vanilla Simple Syrup]]
+
+Hemingway Special.md:
+  Line 5: missing_file
+    Content: - 1 [[Grapefruitsaft]]
+    Linked: [[Grapefruitsaft]]
+
+Hole in the Cup.md:
+  Line 4: missing_file
+    Content: - 0.25 [[Absinth]]
+    Linked: [[Absinth]]
+  Line 8: missing_file
+    Content: - 2 [[Gurkenscheiben]]
+    Linked: [[Gurkenscheiben]]
+
+Honey Deuce Cocktail.md:
+  Line 3: missing_file
+    Content: - 0.5 oz [[Raspberry Liqueur]]
+    Linked: [[Raspberry Liqueur]]
+  Line 4: missing_file
+    Content: - 3 oz [[Lemonade]]
+    Linked: [[Lemonade]]
+  Line 5: missing_file
+    Content: - [[Honeydew Melon Balls]] (for garnish)
+    Linked: [[Honeydew Melon Balls]]
+
+Honey Deuce.md:
+  Line 3: missing_file
+    Content: -   1.5 oz [[Vodka]] ([[Grey Goose]])
+    Linked: [[Grey Goose]]
+  Line 4: missing_file
+    Content: -   3 oz [[Lemonade]]
+    Linked: [[Lemonade]]
+  Line 5: missing_file
+    Content: -   0.5 oz [[Raspberry Liqueur]] ([[Chambord]])
+    Linked: [[Raspberry Liqueur]]
+  Line 5: missing_file
+    Content: -   0.5 oz [[Raspberry Liqueur]] ([[Chambord]])
+    Linked: [[Chambord]]
+
+Honolulu Juicer.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 6: missing_file
+    Content: - 1 1/2 [[Southern Comfort]]
+    Linked: [[Southern Comfort]]
+  Line 8: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 8: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+
+Horse's Neck.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Bourbon]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 4: unlinked_ingredient
+    Content: - 3 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Hot Buttered Rum.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 4: unlinked_ingredient
+    Content: - boiling water
+    Potential unlinked: boiling water
+  Line 5: unlinked_ingredient
+    Content: - butter
+    Potential unlinked: butter
+
+Hot Frenchman.md:
+  Line 2: unlinked_ingredient
+    Content: - 1/8 liter (4 oz) [[Red Wine]]
+    Potential unlinked: /liter ()
+  Line 2: missing_file
+    Content: - 1/8 liter (4 oz) [[Red Wine]]
+    Linked: [[Red Wine]]
+  Line 3: missing_file
+    Content: - 3/4 [[Grand Marnier]]
+    Linked: [[Grand Marnier]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Sugar]]
+    Linked: [[Sugar]]
+  Line 5: missing_file
+    Content: - 1/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 7: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+  Line 8: missing_file
+    Content: - [[Orangenzeste]]
+    Linked: [[Orangenzeste]]
+
+Hot Jamaican.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+  Line 5: unlinked_ingredient
+    Content: - boiling water
+    Potential unlinked: boiling water
+  Line 6: missing_file
+    Content: - 2 [[Cloves]]
+    Linked: [[Cloves]]
+  Line 7: missing_file
+    Content: - 1 [[Limette]]
+    Linked: [[Limette]]
+
+Hot M.M.M..md:
+  Line 3: missing_file
+    Content: - 1 1/2 [[Milk]]
+    Linked: [[Milk]]
+  Line 4: missing_file
+    Content: - 3/4 [[Tia Maria]]
+    Linked: [[Tia Maria]]
+  Line 6: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+  Line 7: missing_file
+    Content: - [[Orangenzeste]]
+    Linked: [[Orangenzeste]]
+
+Hot MMM.md:
+  Line 3: missing_file
+    Content: - 1 1/2 [[Milk]]
+    Linked: [[Milk]]
+  Line 4: missing_file
+    Content: - 3/4 [[Tia Maria]]
+    Linked: [[Tia Maria]]
+  Line 6: unlinked_ingredient
+    Content: - [[Lemon]] and [[Orange]] peel
+    Potential unlinked: and  peel
+  Line 6: missing_file
+    Content: - [[Lemon]] and [[Orange]] peel
+    Linked: [[Orange]]
+
+Hot Marie.md:
+  Line 4: missing_file
+    Content: - 1/4 [[Tia Maria]]
+    Linked: [[Tia Maria]]
+  Line 5: unlinked_ingredient
+    Content: - 1 cup hot [[Espresso]]
+    Potential unlinked: cup hot
+  Line 6: missing_file
+    Content: - [[Sugar]]
+    Linked: [[Sugar]]
+
+Hurricane.md:
+  Line 6: missing_file
+    Content: - 1 [[Fresh Lemon Juice]]
+    Linked: [[Fresh Lemon Juice]]
+
+I like em fucked up.md:
+  Line 4: missing_file
+    Content: - 1/2 [[Tequila]]
+    Linked: [[Tequila]]
+  Line 7: missing_file
+    Content: - 1/2 [[Jagermeister]]
+    Linked: [[Jagermeister]]
+  Line 10: unlinked_ingredient
+    Content: - Top [[Ginger Ale]]
+    Potential unlinked: Top
+
+I.B.F..md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Fernet Branca]]
+    Potential unlinked: dashes
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Triple Sec]]
+    Potential unlinked: dashes
+
+I.B.U..md:
+  Line 3: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Iced Tea.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 7: unlinked_ingredient
+    Content: - 3/4-1 1/4 [[Cola]]
+    Potential unlinked: /-/
+  Line 8: unlinked_ingredient
+    Content: - 1 cup cold tea
+    Potential unlinked: cup cold tea
+
+Illegal.md:
+  Line 4: missing_file
+    Content: - 0.5 [[Jamaican Rum]] [[Overproof]] [[White Rum]]
+    Linked: [[Overproof]]
+
+Imperial.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Maraschino Liqueur]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Improved Whiskey Cocktail.md:
+  Line 4: missing_file
+    Content: - 1 [[Bar Spoon Maraschino Liqueur]]
+    Linked: [[Bar Spoon Maraschino Liqueur]]
+  Line 5: missing_file
+    Content: - 1 [[Dash Absinthe]]
+    Linked: [[Dash Absinthe]]
+  Line 6: missing_file
+    Content: - 1 [[Dash Peychaud's Bitters]]
+    Linked: [[Dash Peychaud's Bitters]]
+  Line 7: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+  Line 8: missing_file
+    Content: - 1 [[Sugar Cube]]
+    Linked: [[Sugar Cube]]
+
+Income Tax Cocktail.md:
+  Line 2: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 6: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+
+Infante.md:
+  Line 5: missing_file
+    Content: - 0.75 [[Mandelsirup]]
+    Linked: [[Mandelsirup]]
+
+Intro To Aperol.md:
+  Line 7: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Irish Coffee.md:
+  Line 3: missing_file
+    Content: - 1 [[1/4oz (37.5ml) Irish Whiskey]]
+    Linked: [[1/4oz (37.5ml) Irish Whiskey]]
+  Line 4: missing_file
+    Content: - 1/4oz [[(7.5ml) Cinnamon Syrup]]
+    Linked: [[(7.5ml) Cinnamon Syrup]]
+  Line 5: unlinked_ingredient
+    Content: - Top [[4-5oz (120-150ml) Hot Coffee]]
+    Potential unlinked: Top
+  Line 5: missing_file
+    Content: - Top [[4-5oz (120-150ml) Hot Coffee]]
+    Linked: [[4-5oz (120-150ml) Hot Coffee]]
+  Line 6: unlinked_ingredient
+    Content: - Top [[Cold Heavy Cream]]
+    Potential unlinked: Top
+  Line 6: missing_file
+    Content: - Top [[Cold Heavy Cream]]
+    Linked: [[Cold Heavy Cream]]
+
+Italian Coffee.md:
+  Line 4: unlinked_ingredient
+    Content: - 1 cup hot [[Espresso]]
+    Potential unlinked: cup hot
+  Line 5: unlinked_ingredient
+    Content: - brown [[Sugar]]
+    Potential unlinked: brown
+  Line 5: missing_file
+    Content: - brown [[Sugar]]
+    Linked: [[Sugar]]
+
+Jade.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Sugar]]
+    Linked: [[Sugar]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Triple Sec]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Creme de Menthe Green]]
+    Potential unlinked: dash
+
+Jamaica Fever.md:
+  Line 7: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 7: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+
+James Bond.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+
+Japanese Cocktail.md:
+  Line 4: missing_file
+    Content: - 0.5 [[Mandelsirup]]
+    Linked: [[Mandelsirup]]
+  Line 5: unlinked_ingredient
+    Content: - 3 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Jean Gabin.md:
+  Line 4: unlinked_ingredient
+    Content: - 1 tablespoon [[Maple Syrup]]
+    Potential unlinked: tablespoon
+  Line 4: missing_file
+    Content: - 1 tablespoon [[Maple Syrup]]
+    Linked: [[Maple Syrup]]
+  Line 5: unlinked_ingredient
+    Content: - hot [[Milk]]
+    Potential unlinked: hot
+  Line 5: missing_file
+    Content: - hot [[Milk]]
+    Linked: [[Milk]]
+  Line 6: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Jean Lafitte.md:
+  Line 2: unlinked_ingredient
+    Content: - 1/4-3/4 [[Lemon Juice]]
+    Potential unlinked: /-/
+  Line 3: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 7: unlinked_ingredient
+    Content: - dash [[Pernod]]
+    Potential unlinked: dash
+
+Jogging Flip.md:
+  Line 2: unlinked_ingredient
+    Content: - various juices (such as lemon, orange, and grapefruit juice)
+    Potential unlinked: various juices (such as lemon, orange, and grapefruit juice)
+  Line 3: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+
+John Collins - Tom Collins.md:
+  Line 6: unlinked_ingredient
+    Content: - Top [[Soda Water]]
+    Potential unlinked: Top
+
+John Morris.md:
+  Line 10: missing_file
+    Content: - 0.25 [[Kokossirup]]
+    Linked: [[Kokossirup]]
+  Line 11: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Journalist.md:
+  Line 5: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - dash [[Triple Sec]]
+    Potential unlinked: dash
+  Line 7: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+
+Jäger Buck.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Jagermeister]]
+    Linked: [[Jagermeister]]
+  Line 4: missing_file
+    Content: - 0.75 [[Ingwersirup]]
+    Linked: [[Ingwersirup]]
+
+Jägerita.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Jagermeister]]
+    Linked: [[Jagermeister]]
+  Line 5: missing_file
+    Content: - 3/4 [[Fresh Lime Juice]]
+    Linked: [[Fresh Lime Juice]]
+
+Kentucky Maid.md:
+  Line 3: missing_file
+    Content: - 8 [[mint leaves]]
+    Linked: [[mint leaves]]
+  Line 4: missing_file
+    Content: - 2 [[cucumber slices]]
+    Linked: [[cucumber slices]]
+  Line 5: missing_file
+    Content: - 2 [[bourbon whiskey]]
+    Linked: [[bourbon whiskey]]
+
+Kill Devil.md:
+  Line 3: missing_file
+    Content: - 2 [[Agricole]] [[White Rum]]
+    Linked: [[Agricole]]
+  Line 6: unlinked_ingredient
+    Content: - 3 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Kingston Negroni.md:
+  Line 3: missing_file
+    Content: - 1 [[Overproof Jamaican Rum]]
+    Linked: [[Overproof Jamaican Rum]]
+
+Kir.md:
+  Line 4: unlinked_ingredient
+    Content: - Top [[Champage]]
+    Potential unlinked: Top
+  Line 4: missing_file
+    Content: - Top [[Champage]]
+    Linked: [[Champage]]
+
+Knickerbocker Cocktail.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Sweet Vermouth]]
+    Potential unlinked: dashes
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Knockout Cocktail.md:
+  Line 5: unlinked_ingredient
+    Content: - dash [[Creme de Menthe White]]
+    Potential unlinked: dash
+
+La Floridita Cocktail.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Creme de Cacao White]]
+    Potential unlinked: dashes
+
+La Floridita Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of a [[Limette]]
+    Potential unlinked: juice of a
+  Line 2: missing_file
+    Content: - juice of a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - 1 barspoon [[Puderzucker]] or sugar syrup
+    Potential unlinked: or sugar syrup
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]] or sugar syrup
+    Linked: [[Puderzucker]]
+
+Ladies Sidecar.md:
+  Line 4: missing_file
+    Content: - 1 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Last Man Standing.md:
+  Line 3: missing_file
+    Content: - 0.75 [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Late Mistral.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Ricard]]
+    Linked: [[Ricard]]
+  Line 4: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Latin Lover.md:
+  Line 2: unlinked_ingredient
+    Content: - 1/4-3/4 [[Lemon Juice]]
+    Potential unlinked: /-/
+  Line 3: missing_file
+    Content: - 3/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 7: missing_file
+    Content: - [[Pineapple]]
+    Linked: [[Pineapple]]
+
+Leap Year.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Grand Marnier]]
+    Linked: [[Grand Marnier]]
+  Line 5: unlinked_ingredient
+    Content: - dashes [[Lemon Juice]]
+    Potential unlinked: dashes
+
+Leave It to Me.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Lemon Juice]]
+    Potential unlinked: dashes
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Maraschino Liqueur]]
+    Potential unlinked: dashes
+  Line 6: unlinked_ingredient
+    Content: - dashes [[Apricot Liqueur]]
+    Potential unlinked: dashes
+
+Left Hand.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Bourbon]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Lemon Squash.md:
+  Line 2: missing_file
+    Content: - [[Zitrone]] or [[Limette]]
+    Linked: [[Zitrone]]
+  Line 2: missing_file
+    Content: - [[Zitrone]] or [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 2-3 barspoons [[Sugar]]
+    Linked: [[Sugar]]
+
+Lemon on the Beach.md:
+  Line 4: missing_file
+    Content: - 0.5 [[Pfirsichlikör]]
+    Linked: [[Pfirsichlikör]]
+  Line 5: missing_file
+    Content: - 0.25 [[Mandelsirup]]
+    Linked: [[Mandelsirup]]
+
+Lemonade Golden.md:
+  Line 3: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 4: missing_file
+    Content: - [[Simple Syrup]] or [[Sugar]]
+    Linked: [[Sugar]]
+
+Lemonade.md:
+  Line 3: missing_file
+    Content: - [[Simple Syrup]] or [[Sugar]]
+    Linked: [[Sugar]]
+
+Lemondrive Mai Tai.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Havana]]
+    Linked: [[Havana]]
+  Line 4: missing_file
+    Content: - 1 [[Dry Orange]]
+    Linked: [[Dry Orange]]
+  Line 8: unlinked_ingredient
+    Content: - Crushed [[Eis]]
+    Potential unlinked: Crushed
+  Line 8: missing_file
+    Content: - Crushed [[Eis]]
+    Linked: [[Eis]]
+
+Lemondrive Martinez.md:
+  Line 5: missing_file
+    Content: - 1 [[bar Spoon Maraschino Liqueur]]
+    Linked: [[bar Spoon Maraschino Liqueur]]
+  Line 6: missing_file
+    Content: - 2 [[Dashes Angustrora Bitters]]
+    Linked: [[Dashes Angustrora Bitters]]
+
+Lemondrive Zombie.md:
+  Line 5: missing_file
+    Content: - 3/4 [[Tripple Sec]]
+    Linked: [[Tripple Sec]]
+  Line 9: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+
+Lemondrive.md:
+  Line 4: missing_file
+    Content: - 1 [[Kokosrum]]
+    Linked: [[Kokosrum]]
+  Line 5: missing_file
+    Content: - 1 [[Rose's Lime Cordial]]
+    Linked: [[Rose's Lime Cordial]]
+
+Liberty Cocktail.md:
+  Line 2: missing_file
+    Content: - [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 5: unlinked_ingredient
+    Content: - 3/4 [[White Rum]] or [[Dark Rum]]
+    Potential unlinked: /or
+
+Little Wing.md:
+  Line 3: missing_file
+    Content: - 1 [[Bourbon]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Loftus Special.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of 1 1/2 [[Limette]]
+    Potential unlinked: juice of /
+  Line 2: missing_file
+    Content: - juice of 1 1/2 [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+  Line 9: missing_file
+    Content: - 1 1/2 [[Overproof Dark Rum]]
+    Linked: [[Overproof Dark Rum]]
+
+London Maid.md:
+  Line 3: missing_file
+    Content: - 8 [[mint leaves]]
+    Linked: [[mint leaves]]
+  Line 4: missing_file
+    Content: - 2 [[cucumber slices]]
+    Linked: [[cucumber slices]]
+
+Lone Tree.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+
+Long Distance Runner.md:
+  Line 2: unlinked_ingredient
+    Content: - [[Pineapple]] slice
+    Potential unlinked: slice
+  Line 2: missing_file
+    Content: - [[Pineapple]] slice
+    Linked: [[Pineapple]]
+  Line 3: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 3: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+
+Love & Murder.md:
+  Line 7: missing_file
+    Content: - 5 [[Tropfen]] [[Salzlösung]]
+    Linked: [[Tropfen]]
+  Line 7: missing_file
+    Content: - 5 [[Tropfen]] [[Salzlösung]]
+    Linked: [[Salzlösung]]
+
+Lynchburg Lemonade.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Bourbon]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Macaroni.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Pernod]]
+    Potential unlinked: dash
+
+Mai Tai.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of a [[Limette]]
+    Potential unlinked: juice of a
+  Line 2: missing_file
+    Content: - juice of a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 1 1/2 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orgeat]]
+    Potential unlinked: dash
+  Line 6: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 8: missing_file
+    Content: - 3/4 [[Overproof Dark Rum]]
+    Linked: [[Overproof Dark Rum]]
+  Line 9: missing_file
+    Content: - [[Limette]]
+    Linked: [[Limette]]
+
+Malcolm Lowry.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Triple Sec]]
+    Potential unlinked: /-/
+
+Mandeville.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Pernod]]
+    Potential unlinked: dash
+
+Manhattan Dry.md:
+  Line 2: missing_file
+    Content: - 1 1/2 [[Canadian Whisky]]
+    Linked: [[Canadian Whisky]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Manhattan Perfect.md:
+  Line 2: missing_file
+    Content: - 1 1/2 [[Canadian Whisky]]
+    Linked: [[Canadian Whisky]]
+  Line 5: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+
+Manhattan Sweet.md:
+  Line 2: missing_file
+    Content: - 1 1/2 [[Canadian Whisky]]
+    Linked: [[Canadian Whisky]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+
+Manhattan.md:
+  Line 5: unlinked_ingredient
+    Content: - 4-6 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Maradona.md:
+  Line 2: missing_file
+    Content: - 1 1/2 [[Milk]]
+    Linked: [[Milk]]
+
+Martin's Rum-Orange Punch.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 5: unlinked_ingredient
+    Content: - dashes [[Simple Syrup]]
+    Potential unlinked: dashes
+  Line 6: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 7: missing_file
+    Content: - 1/4 [[Southern Comfort]]
+    Linked: [[Southern Comfort]]
+  Line 9: missing_file
+    Content: - 1/4 [[Overproof Dark Rum]]
+    Linked: [[Overproof Dark Rum]]
+  Line 10: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+  Line 11: missing_file
+    Content: - [[Orangenzeste]]
+    Linked: [[Orangenzeste]]
+
+Martinez Cocktail.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Triple Sec]]
+    Potential unlinked: dash
+  Line 6: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Martinez.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Old Tom]] [[Gin]]
+    Linked: [[Old Tom]]
+  Line 5: unlinked_ingredient
+    Content: - 1 bar spoon [[Maraschino Liqueur]]
+    Potential unlinked: bar spoon
+
+Maurice Chevalier.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Noilly Prat Dry Vermouth]]
+    Linked: [[Noilly Prat Dry Vermouth]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Merry Widow No 1.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Benedictine]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Anisette]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - dash [[Anisette]]
+    Linked: [[Anisette]]
+  Line 7: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+
+Merry Widow No 2.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 5: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+
+Merry Widow No. 1.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Benedictine]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Pernod]]
+    Potential unlinked: dash
+  Line 7: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Merry Widow No. 2.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 5: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+  Line 6: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Mexican Coffee.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Kahlua]]
+    Linked: [[Kahlua]]
+  Line 4: unlinked_ingredient
+    Content: - 1 barspoon brown [[Sugar]]
+    Potential unlinked: brown
+  Line 4: missing_file
+    Content: - 1 barspoon brown [[Sugar]]
+    Linked: [[Sugar]]
+  Line 5: unlinked_ingredient
+    Content: - 1 cup strong hot [[Espresso]]
+    Potential unlinked: cup strong hot
+  Line 6: unlinked_ingredient
+    Content: - lightly whipped [[Heavy Cream]]
+    Potential unlinked: lightly whipped
+
+Mexican Colada.md:
+  Line 5: missing_file
+    Content: - 1/4 [[Kahlua]]
+    Linked: [[Kahlua]]
+
+Mexican Firing Squad Special.md:
+  Line 6: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+  Line 7: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Mexicana.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Midnight Stinger.md:
+  Line 3: missing_file
+    Content: - 1 [[Bourbon Whiskey]]
+    Linked: [[Bourbon Whiskey]]
+
+Millionaire.md:
+  Line 3: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 5: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+
+Mimosa.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 1/2 [[Orangensaft]] fresh
+    Potential unlinked: /fresh
+  Line 2: missing_file
+    Content: - 1 1/2 [[Orangensaft]] fresh
+    Linked: [[Orangensaft]]
+
+Mint Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - a few [[Fresh Mint]] leaves
+    Potential unlinked: a few  leaves
+  Line 3: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 3: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Mint Julep Georgia Style.md:
+  Line 2: unlinked_ingredient
+    Content: - [[Fresh Mint]] leaves and sprigs
+    Potential unlinked: leaves and sprigs
+  Line 3: unlinked_ingredient
+    Content: - 2 sugar cubes
+    Potential unlinked: sugar cubes
+  Line 4: missing_file
+    Content: - 1/4 [[Peach Brandy]]
+    Linked: [[Peach Brandy]]
+
+Mint Julep.md:
+  Line 3: missing_file
+    Content: - 2 [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 5: missing_file
+    Content: - 1 [[Zuckerwürfel]]
+    Linked: [[Zuckerwürfel]]
+
+Mojito.md:
+  Line 6: unlinked_ingredient
+    Content: - 10 [[Fresh Mint]] leaves
+    Potential unlinked: leaves
+  Line 7: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Monkey Gland.md:
+  Line 6: missing_file
+    Content: - 1 [[Absinth]]
+    Linked: [[Absinth]]
+
+Montana.md:
+  Line 3: missing_file
+    Content: -   1.5 oz [[Sloe Gin]]
+    Linked: [[Sloe Gin]]
+  Line 4: missing_file
+    Content: -   1.5 oz [[French Vermouth]]
+    Linked: [[French Vermouth]]
+  Line 5: unlinked_ingredient
+    Content: -   2 Dashes [[Orange Bitters]]
+    Potential unlinked: Dashes
+  Line 6: unlinked_ingredient
+    Content: -   1 Dash [[Anisette]]
+    Potential unlinked: Dash
+  Line 6: missing_file
+    Content: -   1 Dash [[Anisette]]
+    Linked: [[Anisette]]
+
+Monte Carlo Imperial.md:
+  Line 2: unlinked_ingredient
+    Content: - 1/4-3/4 [[Lemon Juice]]
+    Potential unlinked: /-/
+
+Monte Carlo.md:
+  Line 3: missing_file
+    Content: - 3-4 [[dashes Angostura Bitters]]
+    Linked: [[dashes Angostura Bitters]]
+
+Monte Cassino.md:
+  Line 4: missing_file
+    Content: - 0.75 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 4: missing_file
+    Content: - 0.75 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Morning Glory Fizz.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+  Line 4: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 5: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 6: unlinked_ingredient
+    Content: - dash [[Pernod]]
+    Potential unlinked: dash
+
+Mr Brown.md:
+  Line 5: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+  Line 6: missing_file
+    Content: - 1 [[Barspoon Vanilla Syrup]]
+    Linked: [[Barspoon Vanilla Syrup]]
+
+Muddy River.md:
+  Line 2: missing_file
+    Content: - 1 1/4 [[Kahlua]]
+    Linked: [[Kahlua]]
+
+Mulata.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 1/4 [[Creme de Cacao Brown]]
+    Linked: [[Creme de Cacao Brown]]
+
+Neptuns Wrath.md:
+  Line 8: unlinked_ingredient
+    Content: - Top [[1/4 Green Chartreuse lit on fire]]
+    Potential unlinked: Top
+  Line 8: missing_file
+    Content: - Top [[1/4 Green Chartreuse lit on fire]]
+    Linked: [[1/4 Green Chartreuse lit on fire]]
+
+New Orleans Fizz.md:
+  Line 3: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 5: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+  Line 6: unlinked_ingredient
+    Content: - dash [[Orange Flower Water]]
+    Potential unlinked: dash
+  Line 6: missing_file
+    Content: - dash [[Orange Flower Water]]
+    Linked: [[Orange Flower Water]]
+
+New Orleans Sazerac.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 3: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+  Line 6: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+New York Flip.md:
+  Line 2: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 6: missing_file
+    Content: - 3/4 [[Tawny Port]]
+    Linked: [[Tawny Port]]
+  Line 7: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+New York Sour.md:
+  Line 7: unlinked_ingredient
+    Content: - Top [[1/4 Red Wine]]
+    Potential unlinked: Top
+  Line 7: missing_file
+    Content: - Top [[1/4 Red Wine]]
+    Linked: [[1/4 Red Wine]]
+
+New Yorker.md:
+  Line 3: missing_file
+    Content: - [[Limette]]
+    Linked: [[Limette]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+
+Ohio.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Canadian Whisky]]
+    Linked: [[Canadian Whisky]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Triple Sec]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+
+Old Cuban.md:
+  Line 6: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Old Fashioned.md:
+  Line 4: unlinked_ingredient
+    Content: - 4 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+  Line 5: unlinked_ingredient
+    Content: - 1 Sugar Cube
+    Potential unlinked: Sugar Cube
+
+Olympic.md:
+  Line 2: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 5: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+
+Opal.md:
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Pernod]]
+    Potential unlinked: dashes
+
+Opera.md:
+  Line 2: missing_file
+    Content: - 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Maraschino Liqueur]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Orange Blossom.md:
+  Line 3: missing_file
+    Content: - 1 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Orange Flower Water]]
+    Potential unlinked: dashes
+  Line 4: missing_file
+    Content: - dashes [[Orange Flower Water]]
+    Linked: [[Orange Flower Water]]
+
+Orangeade.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of 2 [[Orange]]
+    Potential unlinked: juice of
+  Line 2: missing_file
+    Content: - juice of 2 [[Orange]]
+    Linked: [[Orange]]
+  Line 4: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+  Line 5: missing_file
+    Content: - [[Zitrone]]
+    Linked: [[Zitrone]]
+
+Ordinary Seaman.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 7: missing_file
+    Content: - [[Limette]]
+    Linked: [[Limette]]
+
+Outlander.md:
+  Line 5: unlinked_ingredient
+    Content: -   2 Dashes [[Peychaud's Bitters]]
+    Potential unlinked: Dashes
+  Line 6: unlinked_ingredient
+    Content: -   2 Dashes [[Absinthe]]
+    Potential unlinked: Dashes
+
+Paddington.md:
+  Line 7: missing_file
+    Content: - 1 [[Bar Spoon Orange Marmalade]]
+    Linked: [[Bar Spoon Orange Marmalade]]
+
+Painkiller.md:
+  Line 7: unlinked_ingredient
+    Content: - Optional: [[Grated Nutmeg]]
+    Potential unlinked: Optional:
+  Line 7: missing_file
+    Content: - Optional: [[Grated Nutmeg]]
+    Linked: [[Grated Nutmeg]]
+
+Palmer.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+  Line 3: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - [[Zitrone]]
+    Linked: [[Zitrone]]
+
+Paperplane.md:
+  Line 4: missing_file
+    Content: - 0.75 [[Bourbon]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Parasol.md:
+  Line 5: missing_file
+    Content: - 0.75 [[Bananenlikör]]
+    Linked: [[Bananenlikör]]
+
+Parisienne.md:
+  Line 2: missing_file
+    Content: - 3/4 [[Noilly Prat Dry Vermouth]]
+    Linked: [[Noilly Prat Dry Vermouth]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Creme de Cassis]]
+    Potential unlinked: dashes
+
+Park Avenue.md:
+  Line 5: unlinked_ingredient
+    Content: - 1/4 [[Pineapple Juice]] unsweetened
+    Potential unlinked: /unsweetened
+
+Park Lane.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 4: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Passionfruit Paradise Punch.md:
+  Line 4: missing_file
+    Content: - 1 oz [[Passionfruit Puree]] (Fresh or good quality juice)
+    Linked: [[Passionfruit Puree]]
+  Line 6: missing_file
+    Content: - 0.5 oz [[Orgeat Syrup]]
+    Linked: [[Orgeat Syrup]]
+  Line 8: unlinked_ingredient
+    Content: - Dash of [[Angostura Bitters]]
+    Potential unlinked: Dash of
+
+Peach Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - piece of [[Peach]]
+    Potential unlinked: piece of
+  Line 2: missing_file
+    Content: - piece of [[Peach]]
+    Linked: [[Peach]]
+  Line 3: unlinked_ingredient
+    Content: - juice of a quarter [[Limette]]
+    Potential unlinked: juice of a quarter
+  Line 3: missing_file
+    Content: - juice of a quarter [[Limette]]
+    Linked: [[Limette]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 6: missing_file
+    Content: - 1/4 [[Peach Brandy]]
+    Linked: [[Peach Brandy]]
+
+Pelican.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Pepe.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Triple Sec]]
+    Potential unlinked: dash
+
+Pepinos Café.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Kahlua]]
+    Potential unlinked: /-/
+  Line 3: missing_file
+    Content: - 1/4-3/4 [[Kahlua]]
+    Linked: [[Kahlua]]
+  Line 4: unlinked_ingredient
+    Content: - 1 barspoon brown [[Sugar]]
+    Potential unlinked: brown
+  Line 4: missing_file
+    Content: - 1 barspoon brown [[Sugar]]
+    Linked: [[Sugar]]
+  Line 5: unlinked_ingredient
+    Content: - 1 cup strong hot [[Espresso]]
+    Potential unlinked: cup strong hot
+  Line 6: unlinked_ingredient
+    Content: - lightly whipped [[Heavy Cream]]
+    Potential unlinked: lightly whipped
+
+Perfect Cocktail.md:
+  Line 5: missing_file
+    Content: - [[Orangenzeste]]
+    Linked: [[Orangenzeste]]
+
+Periodista.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 7: missing_file
+    Content: - [[Limettenzeste]]
+    Linked: [[Limettenzeste]]
+
+Perroquet.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Peppermint Syrup]]
+    Potential unlinked: dashes
+  Line 3: missing_file
+    Content: - dashes [[Peppermint Syrup]]
+    Linked: [[Peppermint Syrup]]
+
+Picasso.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Lemon Juice]]
+    Potential unlinked: dash
+  Line 3: missing_file
+    Content: - 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+  Line 5: missing_file
+    Content: - [[Zitrone]]
+    Linked: [[Zitrone]]
+  Line 6: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+
+Pick-Me-Up.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Simple Syrup]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Pimm's No. 1.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 1/4-1 3/4 [[Pimm's No. 1]]
+    Potential unlinked: /-/
+  Line 2: missing_file
+    Content: - 1 1/4-1 3/4 [[Pimm's No. 1]]
+    Linked: [[Pimm's No. 1]]
+  Line 3: missing_file
+    Content: - [[Seven-Up]]
+    Linked: [[Seven-Up]]
+  Line 4: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+  Line 5: unlinked_ingredient
+    Content: - [[Cucumber]] peel
+    Potential unlinked: peel
+
+Pimm's Rangoon.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 1/4-1 3/4 [[Pimm's No. 1]]
+    Potential unlinked: /-/
+  Line 2: missing_file
+    Content: - 1 1/4-1 3/4 [[Pimm's No. 1]]
+    Linked: [[Pimm's No. 1]]
+  Line 4: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+  Line 5: unlinked_ingredient
+    Content: - [[Cucumber]] peel
+    Potential unlinked: peel
+
+Pimm's Royal.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 1/4-1 3/4 [[Pimm's No. 1]]
+    Potential unlinked: /-/
+  Line 2: missing_file
+    Content: - 1 1/4-1 3/4 [[Pimm's No. 1]]
+    Linked: [[Pimm's No. 1]]
+  Line 4: missing_file
+    Content: - [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+  Line 5: unlinked_ingredient
+    Content: - [[Cucumber]] peel
+    Potential unlinked: peel
+
+Pina Colada.md:
+  Line 3: missing_file
+    Content: - 2 [[Rican Rum]]
+    Linked: [[Rican Rum]]
+  Line 4: missing_file
+    Content: - 1 [[Coconut Creme]]
+    Linked: [[Coconut Creme]]
+
+Pineapple Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - [[Pineapple]] slice
+    Potential unlinked: slice
+  Line 2: missing_file
+    Content: - [[Pineapple]] slice
+    Linked: [[Pineapple]]
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Pineapple Syrup]]
+    Potential unlinked: dashes
+  Line 3: missing_file
+    Content: - dashes [[Pineapple Syrup]]
+    Linked: [[Pineapple Syrup]]
+  Line 4: unlinked_ingredient
+    Content: - juice of a quarter [[Limette]]
+    Potential unlinked: juice of a quarter
+  Line 4: missing_file
+    Content: - juice of a quarter [[Limette]]
+    Linked: [[Limette]]
+  Line 5: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Pinerito.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 4: missing_file
+    Content: - 2 barspoons [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Pink Creole.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Lemon Juice]]
+    Potential unlinked: dashes
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Pink Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 2 barspoons [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+
+Pink Gin.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+
+Pinky Colada.md:
+  Line 4: missing_file
+    Content: - 1 1/4 [[Milk]]
+    Linked: [[Milk]]
+  Line 6: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+  Line 8: unlinked_ingredient
+    Content: - amarelle [[Cherry]]
+    Potential unlinked: amarelle
+
+Pipeline.md:
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 5: missing_file
+    Content: - 1 1/2 [[Bacardi Rum]]
+    Linked: [[Bacardi Rum]]
+
+Pisco Sour.md:
+  Line 7: unlinked_ingredient
+    Content: - Egg [[White]]
+    Potential unlinked: Egg
+  Line 7: missing_file
+    Content: - Egg [[White]]
+    Linked: [[White]]
+
+Piña Colada Schumann's.md:
+  Line 7: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 7: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+  Line 8: unlinked_ingredient
+    Content: - amarelle [[Cherry]]
+    Potential unlinked: amarelle
+
+Piña Colada Schumann.md:
+  Line 7: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 7: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+  Line 8: unlinked_ingredient
+    Content: - amarelle [[Cherry]]
+    Potential unlinked: amarelle
+
+Planter's Punch (Don the Beachcomber).md:
+  Line 3: missing_file
+    Content: - 1 [[Gold Virgin Islands Rum]]
+    Linked: [[Gold Virgin Islands Rum]]
+  Line 5: missing_file
+    Content: - 1/2 [[Gold Jamaican Rum]]
+    Linked: [[Gold Jamaican Rum]]
+  Line 6: missing_file
+    Content: - 1 [[Barspoon Velvet Falernum]]
+    Linked: [[Barspoon Velvet Falernum]]
+  Line 9: missing_file
+    Content: - 1 [[Barspoon Grendaine]]
+    Linked: [[Barspoon Grendaine]]
+  Line 10: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+
+Planter's Punch Schumann.md:
+  Line 6: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+  Line 7: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+  Line 8: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Planter's Punch.md:
+  Line 4: missing_file
+    Content: - 2 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 6: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+  Line 7: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+  Line 8: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Polish Maid.md:
+  Line 3: missing_file
+    Content: - 8 [[mint leaves]]
+    Linked: [[mint leaves]]
+  Line 4: missing_file
+    Content: - 2 [[cucumber slices]]
+    Linked: [[cucumber slices]]
+
+Pornstar Martini.md:
+  Line 4: missing_file
+    Content: - 0.5 [[Maracujalikör]]
+    Linked: [[Maracujalikör]]
+  Line 5: missing_file
+    Content: - 0.5 [[Vanillesirup]]
+    Linked: [[Vanillesirup]]
+
+Porto Flip.md:
+  Line 4: missing_file
+    Content: - 3 [[Roter Portwein]]
+    Linked: [[Roter Portwein]]
+  Line 5: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+
+Prairie Oyster.md:
+  Line 2: unlinked_ingredient
+    Content: - olive oil
+    Potential unlinked: olive oil
+  Line 3: unlinked_ingredient
+    Content: - 1-2 tablespoons [[Tomato Ketchup]]
+    Potential unlinked: tablespoons
+  Line 3: missing_file
+    Content: - 1-2 tablespoons [[Tomato Ketchup]]
+    Linked: [[Tomato Ketchup]]
+  Line 4: missing_file
+    Content: - 1 [[Eigelb]]
+    Linked: [[Eigelb]]
+  Line 5: unlinked_ingredient
+    Content: - salt, pepper
+    Potential unlinked: salt, pepper
+  Line 6: missing_file
+    Content: - [[Tabasco]]
+    Linked: [[Tabasco]]
+  Line 7: missing_file
+    Content: - [[Worcestershire Sauce]]
+    Linked: [[Worcestershire Sauce]]
+  Line 8: unlinked_ingredient
+    Content: - vinegar or [[Lemon Juice]]
+    Potential unlinked: vinegar or
+
+Presbytarian.md:
+  Line 3: missing_file
+    Content: - 2 [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 5: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Prescription Julep.md:
+  Line 4: missing_file
+    Content: - 1 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 4: missing_file
+    Content: - 1 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 6: missing_file
+    Content: - 1 [[Zuckerwürfel]]
+    Linked: [[Zuckerwürfel]]
+
+Presidente.md:
+  Line 5: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Prince of Wales.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+  Line 5: missing_file
+    Content: - [[Orange]]
+    Linked: [[Orange]]
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Princeton.md:
+  Line 2: missing_file
+    Content: - 3/4 [[White Port]]
+    Linked: [[White Port]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+
+Punch à la Washington Hotel.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - passion fruit (or 2 3/4 [[Passion Fruit Juice]])
+    Potential unlinked: passion fruit (or /)
+
+Pupule.md:
+  Line 9: unlinked_ingredient
+    Content: -   1 Dash [[Aromatic Bitters]]
+    Potential unlinked: Dash
+  Line 9: missing_file
+    Content: -   1 Dash [[Aromatic Bitters]]
+    Linked: [[Aromatic Bitters]]
+
+Pussy Foot.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 4: missing_file
+    Content: - 1 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Quaker's.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Cranberry Syrup]]
+    Potential unlinked: dash
+  Line 4: missing_file
+    Content: - dash [[Cranberry Syrup]]
+    Linked: [[Cranberry Syrup]]
+
+Quarter Deck.md:
+  Line 2: missing_file
+    Content: - 1/2 [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 3/4 [[Cream Sherry]]
+    Linked: [[Cream Sherry]]
+
+Quatresse.md:
+  Line 3: unlinked_ingredient
+    Content: -   2 Medium Fresh [[Sage Leaves]]
+    Potential unlinked: Medium Fresh
+  Line 3: missing_file
+    Content: -   2 Medium Fresh [[Sage Leaves]]
+    Linked: [[Sage Leaves]]
+  Line 4: missing_file
+    Content: -   2 oz [[Salers]] or [[Suze]]
+    Linked: [[Salers]]
+  Line 4: missing_file
+    Content: -   2 oz [[Salers]] or [[Suze]]
+    Linked: [[Suze]]
+  Line 5: unlinked_ingredient
+    Content: -   1 oz Freshly Squeezed [[Lemon Juice]]
+    Potential unlinked: Freshly Squeezed
+  Line 7: missing_file
+    Content: -   [[Single-Malt Scotch]]
+    Linked: [[Single-Malt Scotch]]
+
+Queens Park Hotel Super Cocktail.md:
+  Line 7: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Queens Park Swizzle.md:
+  Line 7: unlinked_ingredient
+    Content: - 6-8 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Ramos Gin Fizz.md:
+  Line 9: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+  Line 10: missing_file
+    Content: - 2 [[Orangenblütenwasser]]
+    Linked: [[Orangenblütenwasser]]
+
+Rattlesnake.md:
+  Line 3: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 7: unlinked_ingredient
+    Content: - dash [[Pernod]]
+    Potential unlinked: dash
+
+Reconstructed Surfer on Acid.md:
+  Line 3: missing_file
+    Content: - 1 [[Jagermeister]]
+    Linked: [[Jagermeister]]
+  Line 6: missing_file
+    Content: - 1/2 [[Orgeat (almond syrup)]]
+    Linked: [[Orgeat (almond syrup)]]
+
+Red Lion.md:
+  Line 2: missing_file
+    Content: - 1 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - 3/4 [[Grand Marnier]]
+    Linked: [[Grand Marnier]]
+
+Red Mouth.md:
+  Line 2: missing_file
+    Content: - 1 1/4 [[Milk]]
+    Linked: [[Milk]]
+
+Red Seal of Shimoda.md:
+  Line 2: missing_file
+    Content: - [[Suntory Toki Whisky]]
+    Linked: [[Suntory Toki Whisky]]
+  Line 3: missing_file
+    Content: - [[Pomegranate Juice]]
+    Linked: [[Pomegranate Juice]]
+  Line 4: missing_file
+    Content: - [[Ruby Port]]
+    Linked: [[Ruby Port]]
+  Line 6: missing_file
+    Content: - [[Honey]]
+    Linked: [[Honey]]
+  Line 7: missing_file
+    Content: - [[Matcha Green Tea Salt]] (for rimming)
+    Linked: [[Matcha Green Tea Salt]]
+
+Red Snapper.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Remember the Maine.md:
+  Line 3: missing_file
+    Content: - 2 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 3: missing_file
+    Content: - 2 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 6: missing_file
+    Content: - 1 [[Absinth]]
+    Linked: [[Absinth]]
+  Line 7: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Repossession Cocktail.md:
+  Line 6: missing_file
+    Content: - 0.25 oz [[Cane Syrup]] (or Rich Simple Syrup)
+    Linked: [[Cane Syrup]]
+  Line 7: unlinked_ingredient
+    Content: - 6 Sprays [[Mezcal]] (from an atomizer)
+    Potential unlinked: Sprays  (from an atomizer)
+
+Resucitador.md:
+  Line 7: unlinked_ingredient
+    Content: - 1 bar spoon [[Mezcal]]
+    Potential unlinked: bar spoon
+
+Ritz.md:
+  Line 2: missing_file
+    Content: - 3/4 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Rob Roy.md:
+  Line 5: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Robinson.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of a quarter [[Limette]]
+    Potential unlinked: juice of a quarter
+  Line 2: missing_file
+    Content: - juice of a quarter [[Limette]]
+    Linked: [[Limette]]
+  Line 3: unlinked_ingredient
+    Content: - [[Papaya]] fruit
+    Potential unlinked: fruit
+  Line 3: missing_file
+    Content: - [[Papaya]] fruit
+    Linked: [[Papaya]]
+  Line 4: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+
+Roku Koori Negroni.md:
+  Line 2: missing_file
+    Content: - 1.5 oz [[Roku Gin]]
+    Linked: [[Roku Gin]]
+  Line 3: missing_file
+    Content: - 0.75 oz [[Ice Wine]]
+    Linked: [[Ice Wine]]
+  Line 4: missing_file
+    Content: - 0.5 oz [[Bitter Bianco]]
+    Linked: [[Bitter Bianco]]
+  Line 5: missing_file
+    Content: - 0.25 oz [[Red Wine Vinegar]]
+    Linked: [[Red Wine Vinegar]]
+
+Rolls-Royce.md:
+  Line 5: unlinked_ingredient
+    Content: - dash [[Benedictine]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Rory O'More.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+
+Rosalita.md:
+  Line 3: missing_file
+    Content: - 2 [[Tequila]]
+    Linked: [[Tequila]]
+
+Rose English.md:
+  Line 3: unlinked_ingredient
+    Content: - dash [[Apricot Liqueur]]
+    Potential unlinked: dash
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Rose French.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4 [[Eau-de-vie de Cerises]] (Kirschwasser)
+    Potential unlinked: /(Kirschwasser)
+  Line 3: missing_file
+    Content: - 1/4 [[Eau-de-vie de Cerises]] (Kirschwasser)
+    Linked: [[Eau-de-vie de Cerises]]
+  Line 5: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Rosemary Sunset Spritz.md:
+  Line 4: missing_file
+    Content: - 0.5 oz [[Rosemary Simple Syrup]]
+    Linked: [[Rosemary Simple Syrup]]
+  Line 5: missing_file
+    Content: - 3 oz [[Prosecco]] or [[Cava]]
+    Linked: [[Cava]]
+  Line 6: unlinked_ingredient
+    Content: - Splash of [[Soda Water]]
+    Potential unlinked: Splash of
+
+Royal Gin Fizz.md:
+  Line 3: missing_file
+    Content: - 1 [[Egg]]
+    Linked: [[Egg]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Ruby Fizz.md:
+  Line 3: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 7: missing_file
+    Content: - 3/4 [[Sloe Gin]]
+    Linked: [[Sloe Gin]]
+
+Rum Alexander.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Creme de Cacao Brown]]
+    Linked: [[Creme de Cacao Brown]]
+  Line 5: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Rum Eggnog.md:
+  Line 2: missing_file
+    Content: - 1 [[Eiweiß]]
+    Linked: [[Eiweiß]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 5: missing_file
+    Content: - 3 1/2 [[Milk]]
+    Linked: [[Milk]]
+  Line 9: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Rum Fizz.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+
+Rum Gimlet.md:
+  Line 3: missing_file
+    Content: - 1 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+
+Rum Highball.md:
+  Line 3: unlinked_ingredient
+    Content: - [[Ginger Ale]], [[Soda Water]], or [[Seven-Up]]
+    Potential unlinked: , , or
+  Line 3: missing_file
+    Content: - [[Ginger Ale]], [[Soda Water]], or [[Seven-Up]]
+    Linked: [[Seven-Up]]
+  Line 4: unlinked_ingredient
+    Content: - spiral [[Zitronenzeste]]
+    Potential unlinked: spiral
+  Line 4: missing_file
+    Content: - spiral [[Zitronenzeste]]
+    Linked: [[Zitronenzeste]]
+
+Rum Old Fashioned.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+  Line 4: missing_file
+    Content: - [[Zitrone]], [[Orange]]
+    Linked: [[Zitrone]]
+  Line 4: missing_file
+    Content: - [[Zitrone]], [[Orange]]
+    Linked: [[Orange]]
+  Line 6: unlinked_ingredient
+    Content: - water or [[Soda Water]]
+    Potential unlinked: water or
+
+Rum Runner.md:
+  Line 2: unlinked_ingredient
+    Content: - juice of half a [[Limette]]
+    Potential unlinked: juice of half a
+  Line 2: missing_file
+    Content: - juice of half a [[Limette]]
+    Linked: [[Limette]]
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]] (or 1/4 [[Simple Syrup]])
+    Linked: [[Puderzucker]]
+  Line 7: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+  Line 8: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Rum Sazerac.md:
+  Line 2: unlinked_ingredient
+    Content: - 1 sugar cube
+    Potential unlinked: sugar cube
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+  Line 5: unlinked_ingredient
+    Content: - dashes [[Pernod]]
+    Potential unlinked: dashes
+
+Rum Screwdriver.md:
+  Line 2: missing_file
+    Content: - 3 1/2 [[Orangensaft]]
+    Linked: [[Orangensaft]]
+
+Rum Sour.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+  Line 4: unlinked_ingredient
+    Content: - dashes [[Dark Rum]]
+    Potential unlinked: dashes
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Russian Bear.md:
+  Line 4: missing_file
+    Content: - 1/4 [[Creme de Cacao Brown]]
+    Linked: [[Creme de Cacao Brown]]
+  Line 5: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+
+Russian Spring Punch.md:
+  Line 6: unlinked_ingredient
+    Content: - 0.75 Simple Syrup
+    Potential unlinked: Simple Syrup
+
+Rye Buck.md:
+  Line 3: missing_file
+    Content: - 2 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 3: missing_file
+    Content: - 2 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 5: missing_file
+    Content: - 0.75 [[Ingwersirup]]
+    Linked: [[Ingwersirup]]
+  Line 6: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Rye Sling.md:
+  Line 7: unlinked_ingredient
+    Content: - cocktail [[Cherry]]
+    Potential unlinked: cocktail
+
+Rye Sour.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]] (or 1 barspoon [[Sugar]])
+    Potential unlinked: /-/(or  )
+  Line 3: missing_file
+    Content: - 1/4-3/4 [[Simple Syrup]] (or 1 barspoon [[Sugar]])
+    Linked: [[Sugar]]
+  Line 5: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Satans Whiskers.md:
+  Line 6: missing_file
+    Content: - 0.5 [[Grand Marnier]]
+    Linked: [[Grand Marnier]]
+
+Sazerac.md:
+  Line 3: unlinked_ingredient
+    Content: - 6 Dash [[Peychaud's Bitters]]
+    Potential unlinked: Dash
+  Line 4: missing_file
+    Content: - 1 [[Sugar Cube]]
+    Linked: [[Sugar Cube]]
+
+Schumann's Gimlet.md:
+  Line 3: missing_file
+    Content: - 1 1/4 [[Rose's Lime Juice]]
+    Linked: [[Rose's Lime Juice]]
+
+Scofflow.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 3: missing_file
+    Content: - 1.5 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Scorpion.md:
+  Line 3: missing_file
+    Content: - 1 [[light rum (Puerto Rican / Cuban)]]
+    Linked: [[light rum (Puerto Rican / Cuban)]]
+
+Sea Breeze.md:
+  Line 5: missing_file
+    Content: - 0.25 [[Mandelsirup]]
+    Linked: [[Mandelsirup]]
+  Line 6: missing_file
+    Content: - 2 [[Grapefruitsaft]]
+    Linked: [[Grapefruitsaft]]
+
+September Morn.md:
+  Line 4: missing_file
+    Content: - 2 barspoons [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 5: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Sex on the Beach.md:
+  Line 4: missing_file
+    Content: - 1 [[Pfirsichlikör]]
+    Linked: [[Pfirsichlikör]]
+
+Shanghai.md:
+  Line 3: missing_file
+    Content: - 2 barspoons [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 5: unlinked_ingredient
+    Content: - dash [[Anisette]]
+    Potential unlinked: dash
+  Line 5: missing_file
+    Content: - dash [[Anisette]]
+    Linked: [[Anisette]]
+
+Shirley Temple.md:
+  Line 2: missing_file
+    Content: - 4 [[Seven-Up]]
+    Linked: [[Seven-Up]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Siesta.md:
+  Line 6: missing_file
+    Content: - 0.5 [[Grapefruitsaft]]
+    Linked: [[Grapefruitsaft]]
+  Line 8: unlinked_ingredient
+    Content: - 2 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Silver Fizz.md:
+  Line 7: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Silver Monk.md:
+  Line 7: missing_file
+    Content: - 2 [[Gurkenscheiben]]
+    Linked: [[Gurkenscheiben]]
+
+Singapore Sling.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Gin London Dry]]
+    Linked: [[Gin London Dry]]
+  Line 10: missing_file
+    Content: - 1 [[dash Angostura]]
+    Linked: [[dash Angostura]]
+  Line 11: unlinked_ingredient
+    Content: - Top [[Soda Water]]
+    Potential unlinked: Top
+
+Sir Walter.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Sloppy Joe.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Triple Sec]]
+    Potential unlinked: dashes
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Smoke and Mirrors.md:
+  Line 3: missing_file
+    Content: - 2 [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 7: missing_file
+    Content: - 1 [[Absinth]]
+    Linked: [[Absinth]]
+
+Smoked Old Fashioned with Maple & Pecan Bitters.md:
+  Line 3: missing_file
+    Content: - 0.25 oz [[Maple Syrup]] (Grade A Dark, Robust Taste)
+    Linked: [[Maple Syrup]]
+  Line 4: unlinked_ingredient
+    Content: - 2 dashes [[Pecan Bitters]] (or [[Angostura Bitters]] if unavailable)
+    Potential unlinked: es  (or  if unavailable)
+  Line 4: missing_file
+    Content: - 2 dashes [[Pecan Bitters]] (or [[Angostura Bitters]] if unavailable)
+    Linked: [[Pecan Bitters]]
+  Line 5: unlinked_ingredient
+    Content: - Large [[Ice Cube]]
+    Potential unlinked: Large
+  Line 5: missing_file
+    Content: - Large [[Ice Cube]]
+    Linked: [[Ice Cube]]
+
+Snoopy.md:
+  Line 3: missing_file
+    Content: -   0.75 oz [[Bourbon Whiskey]]
+    Linked: [[Bourbon Whiskey]]
+  Line 4: missing_file
+    Content: -   0.75 oz [[Grand Marnier]]
+    Linked: [[Grand Marnier]]
+  Line 5: missing_file
+    Content: -   0.5 oz [[Galliano L'Autentico]]
+    Linked: [[Galliano L'Autentico]]
+  Line 6: missing_file
+    Content: -   0.5 oz [[Bittersweet Orange-Red Aperitivo]]
+    Linked: [[Bittersweet Orange-Red Aperitivo]]
+
+Southern Comfort Sour.md:
+  Line 4: missing_file
+    Content: - 1 1/2 [[Southern Comfort]]
+    Linked: [[Southern Comfort]]
+  Line 5: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Spiced Pear Collins.md:
+  Line 2: missing_file
+    Content: - 2 oz [[Aviation Gin]]
+    Linked: [[Aviation Gin]]
+  Line 3: missing_file
+    Content: - 1 oz [[St. George Spiced Pear Liqueur]]
+    Linked: [[St. George Spiced Pear Liqueur]]
+  Line 4: missing_file
+    Content: - 1 oz [[Pear Juice]]
+    Linked: [[Pear Juice]]
+  Line 5: missing_file
+    Content: - 0.75 oz [[Savidge Kitchen Gingersnap Syrup]]
+    Linked: [[Savidge Kitchen Gingersnap Syrup]]
+
+Spicy Fifty.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Vanille Vodka]]
+    Linked: [[Vanille Vodka]]
+  Line 7: unlinked_ingredient
+    Content: - 2 dünne Scheiben [[rote Chilli]]
+    Potential unlinked: dünne Scheiben
+  Line 7: missing_file
+    Content: - 2 dünne Scheiben [[rote Chilli]]
+    Linked: [[rote Chilli]]
+
+Spring Fever.md:
+  Line 5: missing_file
+    Content: - 2 [[Blood Orange Juice]]
+    Linked: [[Blood Orange Juice]]
+
+Spritzer.md:
+  Line 2: missing_file
+    Content: - 4 [[White Wine]]
+    Linked: [[White Wine]]
+
+Storm King.md:
+  Line 3: missing_file
+    Content: - 2 [[Blended]] [[Scotch]] [[Whiskey]]
+    Linked: [[Blended]]
+  Line 3: missing_file
+    Content: - 2 [[Blended]] [[Scotch]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 4: missing_file
+    Content: - 0.5 [[Wallnusslikör]]
+    Linked: [[Wallnusslikör]]
+  Line 6: unlinked_ingredient
+    Content: - 3 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Strawberry Daiquiri.md:
+  Line 2: unlinked_ingredient
+    Content: - 2 large [[Strawberry]]
+    Potential unlinked: large
+  Line 2: missing_file
+    Content: - 2 large [[Strawberry]]
+    Linked: [[Strawberry]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 6: unlinked_ingredient
+    Content: - dashes [[Strawberry Syrup]]
+    Potential unlinked: dashes
+  Line 6: missing_file
+    Content: - dashes [[Strawberry Syrup]]
+    Linked: [[Strawberry Syrup]]
+
+Strawberry Margarita.md:
+  Line 2: unlinked_ingredient
+    Content: - 2 large [[Strawberry]]
+    Potential unlinked: large
+  Line 2: missing_file
+    Content: - 2 large [[Strawberry]]
+    Linked: [[Strawberry]]
+  Line 4: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 6: unlinked_ingredient
+    Content: - dashes [[Strawberry Syrup]]
+    Potential unlinked: dashes
+  Line 6: missing_file
+    Content: - dashes [[Strawberry Syrup]]
+    Linked: [[Strawberry Syrup]]
+
+Suffering Bastard.md:
+  Line 5: missing_file
+    Content: - 1 [[Rose's Lime Cordial]]
+    Linked: [[Rose's Lime Cordial]]
+  Line 6: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+Summer Cooler.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Angostura Bitters]]
+    Potential unlinked: dashes
+  Line 4: missing_file
+    Content: - [[Seven-Up]]
+    Linked: [[Seven-Up]]
+
+Sweet & Hot.md:
+  Line 2: missing_file
+    Content: - 2 [[Milk]]
+    Linked: [[Milk]]
+  Line 6: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+  Line 7: missing_file
+    Content: - [[Clove]]
+    Linked: [[Clove]]
+
+Sweet Science.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Drambuie]]
+    Potential unlinked: /-/
+
+Swimming Pool.md:
+  Line 8: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+  Line 9: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 9: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+
+Swimmingpool.md:
+  Line 8: unlinked_ingredient
+    Content: - top [[1/2 Blue Curacao]]
+    Potential unlinked: top
+  Line 8: missing_file
+    Content: - top [[1/2 Blue Curacao]]
+    Linked: [[1/2 Blue Curacao]]
+
+TNT.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Pernod]]
+    Potential unlinked: /-/
+
+Tahitian Punch.md:
+  Line 4: missing_file
+    Content: - 1/4 [[Simply Syrup]]
+    Linked: [[Simply Syrup]]
+
+Tarzan.md:
+  Line 8: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+Tequila Matador.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - [[Pineapple]] chunk
+    Potential unlinked: chunk
+  Line 4: missing_file
+    Content: - [[Pineapple]] chunk
+    Linked: [[Pineapple]]
+
+Tequila Sour.md:
+  Line 3: unlinked_ingredient
+    Content: - 1/4-3/4 [[Simple Syrup]]
+    Potential unlinked: /-/
+  Line 5: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Tequini.md:
+  Line 2: unlinked_ingredient
+    Content: - dash [[Angostura Bitters]]
+    Potential unlinked: dash
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Dry Vermouth]]
+    Potential unlinked: dashes
+  Line 5: unlinked_ingredient
+    Content: - [[Olive]] or [[Lemon]] peel
+    Potential unlinked: or  peel
+  Line 5: missing_file
+    Content: - [[Olive]] or [[Lemon]] peel
+    Linked: [[Olive]]
+
+Test Pilot.md:
+  Line 4: missing_file
+    Content: - 3/4 [[Puerto Rican White Rum]]
+    Linked: [[Puerto Rican White Rum]]
+  Line 7: missing_file
+    Content: - 1/2 [[Fresh Lime Juice]]
+    Linked: [[Fresh Lime Juice]]
+  Line 8: missing_file
+    Content: - 2 [[Dashes of Angostura Bitters]]
+    Linked: [[Dashes of Angostura Bitters]]
+  Line 9: missing_file
+    Content: - 6 [[drops of Pernod]]
+    Linked: [[drops of Pernod]]
+
+The Dockside - A Killer Rum Old Fashioned Cocktail.md:
+  Line 2: missing_file
+    Content: - 1 oz [[Banks 7 Rum]]
+    Linked: [[Banks 7 Rum]]
+  Line 3: missing_file
+    Content: - 0.5 oz [[Cruzan Blackstrap Rum]]
+    Linked: [[Cruzan Blackstrap Rum]]
+  Line 4: missing_file
+    Content: - 0.5 oz [[Smith and Cross Jamaican Rum]]
+    Linked: [[Smith and Cross Jamaican Rum]]
+  Line 5: missing_file
+    Content: - 0.25 oz [[Creme de Cacao]]
+    Linked: [[Creme de Cacao]]
+  Line 6: missing_file
+    Content: - 0.5 oz [[Demerara Simple Syrup]]
+    Linked: [[Demerara Simple Syrup]]
+  Line 7: unlinked_ingredient
+    Content: - 2 Dashes [[Orinoco Bitters]]
+    Potential unlinked: Dashes
+  Line 7: missing_file
+    Content: - 2 Dashes [[Orinoco Bitters]]
+    Linked: [[Orinoco Bitters]]
+  Line 8: unlinked_ingredient
+    Content: - 1 Dash [[Bittermans Mole Bitters]]
+    Potential unlinked: Dash
+  Line 8: missing_file
+    Content: - 1 Dash [[Bittermans Mole Bitters]]
+    Linked: [[Bittermans Mole Bitters]]
+
+The Educated Barflys Coffee and Coke Cocktail.md:
+  Line 3: missing_file
+    Content: - 1 oz [[Cold Brew Concentrate]]
+    Linked: [[Cold Brew Concentrate]]
+  Line 5: missing_file
+    Content: - 0.25 oz [[Gran Classico]]
+    Linked: [[Gran Classico]]
+  Line 6: unlinked_ingredient
+    Content: - 1 Dash [[Chocolate Bitters]]
+    Potential unlinked: Dash
+  Line 7: missing_file
+    Content: - [[Coca-Cola]] (to top)
+    Linked: [[Coca-Cola]]
+
+The Slope.md:
+  Line 3: missing_file
+    Content: - 2.5 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 3: missing_file
+    Content: - 2.5 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 6: unlinked_ingredient
+    Content: - 1 Dashes [[Angostura Bitters]]
+    Potential unlinked: Dashes
+
+The Smash (Modern).md:
+  Line 4: unlinked_ingredient
+    Content: -   0.75 oz Fresh [[Lemon Juice]]
+    Potential unlinked: Fresh
+  Line 6: unlinked_ingredient
+    Content: -   4-6 Fresh [[Fresh Mint]]
+    Potential unlinked: Fresh
+
+Tipperary.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Irish]] [[Whiskey]]
+    Linked: [[Irish]]
+  Line 3: missing_file
+    Content: - 1.5 [[Irish]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Tom & Jerry.md:
+  Line 3: missing_file
+    Content: - 1-2 barspoons [[Sugar]]
+    Linked: [[Sugar]]
+  Line 5: unlinked_ingredient
+    Content: - hot [[Milk]]
+    Potential unlinked: hot
+  Line 5: missing_file
+    Content: - hot [[Milk]]
+    Linked: [[Milk]]
+  Line 6: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Tom Collins.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Old Tom]] [[Gin]]
+    Linked: [[Old Tom]]
+
+Tomate.md:
+  Line 2: missing_file
+    Content: - 1 1/2 [[Ricard]]
+    Linked: [[Ricard]]
+  Line 3: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+
+Tommy's Margarita.md:
+  Line 5: missing_file
+    Content: - 0.5 [[Agavendicksaft]]
+    Linked: [[Agavendicksaft]]
+  Line 6: missing_file
+    Content: - 3 [[Tropfen]] [[Salzlösung]]
+    Linked: [[Tropfen]]
+  Line 6: missing_file
+    Content: - 3 [[Tropfen]] [[Salzlösung]]
+    Linked: [[Salzlösung]]
+
+Trader Vic's Grog.md:
+  Line 3: missing_file
+    Content: - 2 [[Dark Jamaica Rum]]
+    Linked: [[Dark Jamaica Rum]]
+  Line 7: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+
+Trader Vics Mai Tai.md:
+  Line 3: missing_file
+    Content: - 1 [[Rhum Agricolee]]
+    Linked: [[Rhum Agricolee]]
+  Line 4: missing_file
+    Content: - 1 [[Appleton Estate Signature]]
+    Linked: [[Appleton Estate Signature]]
+
+Tricontinental.md:
+  Line 3: missing_file
+    Content: - 1/4 [[Creme de Cacao Brown]]
+    Linked: [[Creme de Cacao Brown]]
+
+Trinity.md:
+  Line 5: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+
+Tropical Champagne.md:
+  Line 2: unlinked_ingredient
+    Content: - dashes [[Lemon Juice]]
+    Potential unlinked: dashes
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Passion Fruit Syrup]]
+    Potential unlinked: dashes
+
+Truffle Martini.md:
+  Line 3: missing_file
+    Content: -   60ml [[Truffle Vodka]]
+    Linked: [[Truffle Vodka]]
+  Line 5: missing_file
+    Content: -   10ml [[Olive Brine]]
+    Linked: [[Olive Brine]]
+  Line 6: unlinked_ingredient
+    Content: -   Few drops of [[Truffle Oil]]
+    Potential unlinked: Few drops of
+  Line 6: missing_file
+    Content: -   Few drops of [[Truffle Oil]]
+    Linked: [[Truffle Oil]]
+
+Tuxedo.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Old Tom]] [[Gin]]
+    Linked: [[Old Tom]]
+  Line 6: unlinked_ingredient
+    Content: - 1 bar spoon [[Maraschino Liqueur]]
+    Potential unlinked: bar spoon
+  Line 7: missing_file
+    Content: - 1 [[Absinth]]
+    Linked: [[Absinth]]
+
+Twelfe Mile Limit.md:
+  Line 4: missing_file
+    Content: - 0.5 [[Rye]] [[Whiskey]]
+    Linked: [[Rye]]
+  Line 4: missing_file
+    Content: - 0.5 [[Rye]] [[Whiskey]]
+    Linked: [[Whiskey]]
+
+Ty Cobbler.md:
+  Line 3: missing_file
+    Content: - 3 [[Luxado Cherrys]]
+    Linked: [[Luxado Cherrys]]
+  Line 4: missing_file
+    Content: - 1 [[Sugar Cube]]
+    Linked: [[Sugar Cube]]
+  Line 7: missing_file
+    Content: - 2 [[Dash Bitters]]
+    Linked: [[Dash Bitters]]
+
+Ucello Milano.md:
+  Line 3: missing_file
+    Content: - 1.5 [[Aged Cuban Rum]]
+    Linked: [[Aged Cuban Rum]]
+
+Velvet Hammer.md:
+  Line 3: missing_file
+    Content: - 3/4 [[Creme de Cacao Brown]]
+    Linked: [[Creme de Cacao Brown]]
+
+Vermouth Cassis.md:
+  Line 5: unlinked_ingredient
+    Content: - [[Lemon]] peel
+    Potential unlinked: peel
+
+Vermouth Cocktail.md:
+  Line 4: unlinked_ingredient
+    Content: - dash [[Orange Bitters]]
+    Potential unlinked: dash
+
+Vesper.md:
+  Line 5: missing_file
+    Content: - 0.25 [[Kina]] [[Lillet Blanc]]
+    Linked: [[Kina]]
+
+Vieux Carre.md:
+  Line 6: unlinked_ingredient
+    Content: - Dash [[of Benedictine]]
+    Potential unlinked: Dash
+  Line 6: missing_file
+    Content: - Dash [[of Benedictine]]
+    Linked: [[of Benedictine]]
+  Line 7: missing_file
+    Content: - 2 [[Dashes Angostura Bitters]]
+    Linked: [[Dashes Angostura Bitters]]
+
+Villa Nova.md:
+  Line 3: missing_file
+    Content: -   1 oz [[Cocchi Americano]]
+    Linked: [[Cocchi Americano]]
+  Line 4: missing_file
+    Content: -   0.5 oz [[Bitter Bianco]]
+    Linked: [[Bitter Bianco]]
+  Line 5: missing_file
+    Content: -   0.5 oz [[Meletti Amaro]]
+    Linked: [[Meletti Amaro]]
+
+Virgin Mary.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Lemon Juice]]
+    Potential unlinked: dashes
+  Line 4: missing_file
+    Content: - [[Celery Salt]]
+    Linked: [[Celery Salt]]
+  Line 5: missing_file
+    Content: - [[Worcestershire Sauce]]
+    Linked: [[Worcestershire Sauce]]
+  Line 6: unlinked_ingredient
+    Content: - coarse [[Pepper]]
+    Potential unlinked: coarse
+  Line 6: missing_file
+    Content: - coarse [[Pepper]]
+    Linked: [[Pepper]]
+  Line 7: missing_file
+    Content: - [[Tabasco]]
+    Linked: [[Tabasco]]
+  Line 8: unlinked_ingredient
+    Content: - [[Celery]] stalk
+    Potential unlinked: stalk
+  Line 8: missing_file
+    Content: - [[Celery]] stalk
+    Linked: [[Celery]]
+
+Vodka Sling.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 7: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Volcano.md:
+  Line 5: unlinked_ingredient
+    Content: - [[Orange]] peel
+    Potential unlinked: peel
+  Line 5: missing_file
+    Content: - [[Orange]] peel
+    Linked: [[Orange]]
+
+Volga Volga.md:
+  Line 4: missing_file
+    Content: - [[Tonic Water]]
+    Linked: [[Tonic Water]]
+
+Waldorf-Astoria Eggnog.md:
+  Line 2: missing_file
+    Content: - 2 [[Egg Yolk]]
+    Linked: [[Egg Yolk]]
+  Line 6: missing_file
+    Content: - 3 1/2 [[Milk]]
+    Linked: [[Milk]]
+  Line 8: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Ward Eight.md:
+  Line 3: missing_file
+    Content: - 1 barspoon [[Puderzucker]]
+    Linked: [[Puderzucker]]
+  Line 4: unlinked_ingredient
+    Content: - dash [[Grenadine]]
+    Potential unlinked: dash
+  Line 6: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Watermelon Slice.md:
+  Line 3: missing_file
+    Content: -   3 oz [[Moët & Chandon Imperial Brut]] (or other [[Brut Champagne]]/[[Sparkling Wine]])
+    Linked: [[Moët & Chandon Imperial Brut]]
+  Line 3: missing_file
+    Content: -   3 oz [[Moët & Chandon Imperial Brut]] (or other [[Brut Champagne]]/[[Sparkling Wine]])
+    Linked: [[Brut Champagne]]
+  Line 3: missing_file
+    Content: -   3 oz [[Moët & Chandon Imperial Brut]] (or other [[Brut Champagne]]/[[Sparkling Wine]])
+    Linked: [[Sparkling Wine]]
+  Line 4: unlinked_ingredient
+    Content: -   1.5 oz Fresh [[Watermelon Juice]] (strained)
+    Potential unlinked: Fresh  (strained)
+  Line 4: missing_file
+    Content: -   1.5 oz Fresh [[Watermelon Juice]] (strained)
+    Linked: [[Watermelon Juice]]
+  Line 5: missing_file
+    Content: -   0.5 oz [[Elderflower Liqueur]] ([[St-Germain]])
+    Linked: [[St-Germain]]
+  Line 6: unlinked_ingredient
+    Content: -   0.25-0.5 oz Fresh [[Lime Juice]]
+    Potential unlinked: Fresh
+
+Wedding Bells Cocktail.md:
+  Line 4: missing_file
+    Content: - 3/4 [[Dubonnet]]
+    Linked: [[Dubonnet]]
+
+Wellfare.md:
+  Line 5: missing_file
+    Content: - 2 [[Gurkenscheiben]]
+    Linked: [[Gurkenscheiben]]
+  Line 6: missing_file
+    Content: - 1 [[Rosmarin]]
+    Linked: [[Rosmarin]]
+
+West Indian Punch.md:
+  Line 7: missing_file
+    Content: - [[Nutmeg]]
+    Linked: [[Nutmeg]]
+
+Whiskey Hot Toddy.md:
+  Line 6: missing_file
+    Content: - [[Clove]]
+    Linked: [[Clove]]
+
+Whiskey Smash.md:
+  Line 3: missing_file
+    Content: - 2 [[Whiskey]]
+    Linked: [[Whiskey]]
+  Line 5: missing_file
+    Content: - 4 [[Lemon wedges]]
+    Linked: [[Lemon wedges]]
+  Line 6: missing_file
+    Content: - 1 [[Sugar cube]]
+    Linked: [[Sugar cube]]
+
+Whiskey Sour.md:
+  Line 3: missing_file
+    Content: - 2 [[Whiskey]]
+    Linked: [[Whiskey]]
+
+White Linen.md:
+  Line 7: missing_file
+    Content: - 3 [[Gurkenscheiben]]
+    Linked: [[Gurkenscheiben]]
+  Line 8: unlinked_ingredient
+    Content: - [[Soda Water]] to top
+    Potential unlinked: to top
+
+White Noise.md:
+  Line 3: missing_file
+    Content: -   1.5 oz [[Cocchi Americano Bianco]]
+    Linked: [[Cocchi Americano Bianco]]
+  Line 5: missing_file
+    Content: -   2 oz [[Club Soda]]
+    Linked: [[Club Soda]]
+
+White Russian.md:
+  Line 4: missing_file
+    Content: - 1 [[Coffee Liquor]]
+    Linked: [[Coffee Liquor]]
+
+Wisconsin Royale.md:
+  Line 4: missing_file
+    Content: -   0.25 oz [[Demerara Simple Syrup]]
+    Linked: [[Demerara Simple Syrup]]
+  Line 5: missing_file
+    Content: -   1 [[Cocktail Cherry]]
+    Linked: [[Cocktail Cherry]]
+  Line 6: missing_file
+    Content: -   0.5 [[Orange Wheel]]
+    Linked: [[Orange Wheel]]
+
+Wizard.md:
+  Line 6: missing_file
+    Content: - 0.5 [[Maracujasirup]]
+    Linked: [[Maracujasirup]]
+
+Yellow Bird No 1.md:
+  Line 7: unlinked_ingredient
+    Content: - [[Mint]] sprig
+    Potential unlinked: sprig
+  Line 7: missing_file
+    Content: - [[Mint]] sprig
+    Linked: [[Mint]]
+  Line 8: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Yellow Bird No 2.md:
+  Line 7: unlinked_ingredient
+    Content: - [[Mint]] sprig
+    Potential unlinked: sprig
+  Line 7: missing_file
+    Content: - [[Mint]] sprig
+    Linked: [[Mint]]
+  Line 8: unlinked_ingredient
+    Content: - stemmed [[Cherry]]
+    Potential unlinked: stemmed
+
+Yellow Parrot.md:
+  Line 4: missing_file
+    Content: - 1/4 [[Anisette]]
+    Linked: [[Anisette]]
+
+Zico.md:
+  Line 4: missing_file
+    Content: - 2 [[Papaya Juice]]
+    Linked: [[Papaya Juice]]
+
+Zombie Schumann.md:
+  Line 3: unlinked_ingredient
+    Content: - dashes [[Grenadine]]
+    Potential unlinked: dashes
+  Line 4: missing_file
+    Content: - 3/4 [[Blood Orange Juice]]
+    Linked: [[Blood Orange Juice]]
+  Line 8: missing_file
+    Content: - 3/4 [[Overproof Dark Rum]]
+    Linked: [[Overproof Dark Rum]]
+
+Zombie.md:
+  Line 7: missing_file
+    Content: - 1 [[white grapefruit juice]]
+    Linked: [[white grapefruit juice]]
+  Line 11: missing_file
+    Content: - 1 [[bar spoon]][[Absinthe]]
+    Linked: [[bar spoon]]

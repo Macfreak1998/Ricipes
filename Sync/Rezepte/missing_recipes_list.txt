@@ -1,0 +1,64 @@
+Missing recipes: 61
+================================================================================
+
+Cocktails/Rezepte 1/Alkoholfrei/Erdbeer Caipirinha alkoholfrei.md
+Cocktails/Rezepte 1/Alkoholfrei/Hurricane (alkoholfrei) (Spring Fever).md
+Cocktails/Rezepte 1/Alkoholfrei/Ipanema (Mojito+Caipi alkoholfrei).md
+Cocktails/Rezepte 1/Alkoholfrei/Lemondrive (alkoholfrei).md
+Cocktails/Rezepte 1/Alkoholfrei/Piña colada (alkoholfrei).md
+Cocktails/Rezepte 1/Alkoholfrei/Sex on the Beach (alkoholfrei).md
+Cocktails/Rezepte 1/Alkoholfrei/Touchdown (alkoholfrei).md
+Cocktails/Rezepte 1/Autumn Signatures/Biscoff White Russian.md
+Cocktails/Rezepte 1/Autumn Signatures/Cinnamon Appletini.md
+Cocktails/Rezepte 1/Autumn Signatures/Cranberry Mule.md
+Cocktails/Rezepte 1/Autumn Signatures/Flamed Orange Old Fashioned.md
+Cocktails/Rezepte 1/Autumn Signatures/Pumpkin Spice Martini.md
+Cocktails/Rezepte 1/Autumn Signatures/Vanilla Cherry Iced Tea.md
+Cocktails/Rezepte 1/Empfehlungen/Erdbeer Caipirinha.md
+Cocktails/Rezepte 1/Empfehlungen/Trader Vic’s Grog.md
+Cocktails/Rezepte 1/Longdrinks/Belsazar Rose Tonic.md
+Cocktails/Rezepte 1/Longdrinks/Dark & Stormy.md
+Cocktails/Rezepte 1/Longdrinks/Gin Tonic.md
+Cocktails/Rezepte 1/Longdrinks/La Paloma.md
+Cocktails/Rezepte 1/Longdrinks/Vermouth Tonic.md
+Cocktails/Rezepte 1/Longdrinks/Vodka Bull & Mate.md
+Cocktails/Rezepte 1/Longdrinks/Vodka Cranberry.md
+Cocktails/Rezepte 1/Longdrinks/Vodka Soda.md
+Cocktails/Rezepte 1/Longdrinks/Whiskey Cola.md
+Cocktails/Rezepte 1/Nicht auf Karte/Apfelstrudel Cocktail.md
+Cocktails/Rezepte 1/Nicht auf Karte/Butterbeer.md
+Cocktails/Rezepte 1/Nicht auf Karte/Griffindor.md
+Cocktails/Rezepte 1/Nicht auf Karte/Hufflepuff.md
+Cocktails/Rezepte 1/Nicht auf Karte/Jacky Old Fashioned.md
+Cocktails/Rezepte 1/Nicht auf Karte/Julians Olive Brandy.md
+Cocktails/Rezepte 1/Nicht auf Karte/Lavender Breeze.md
+Cocktails/Rezepte 1/Nicht auf Karte/Ravenclaw.md
+Cocktails/Rezepte 1/Nicht auf Karte/Slitherin.md
+Cocktails/Rezepte 1/Nicht auf Karte/Uccello Milano.md
+Cocktails/Rezepte 1/Nicht auf Karte/Vanilla Martini.md
+Cocktails/Rezepte 1/Nicht auf Karte/Voldemort.md
+Cocktails/Rezepte 1/Shooter - Special/Blue Sky.md
+Cocktails/Rezepte 1/Shooter - Special/Brain Damage.md
+Cocktails/Rezepte 1/Shooter - Special/Lichterfest.md
+Cocktails/Rezepte 1/Shooter - Special/Red Headed Slut.md
+Cocktails/Rezepte 1/Shooter - Special/Woo Woo.md
+Cocktails/Rezepte 1/Shooter/Apfelstrudel.md
+Cocktails/Rezepte 1/Shooter/Blue Kamikaze.md
+Cocktails/Rezepte 1/Shooter/Schüttler.md
+Cocktails/Rezepte 1/Shooter/Solero.md
+Cocktails/Rezepte 1/Sours/Aperol Sour.md
+Cocktails/Rezepte 1/Sours/Passoa Sour.md
+Cocktails/Rezepte 1/Sours/Wodka Sour.md
+Cocktails/Rezepte 1/Spritzes/Bergamotte Spritz.md
+Cocktails/Rezepte 1/Spritzes/Brombeer Spritz.md
+Cocktails/Rezepte 1/Spritzes/Campari Spritz.md
+Cocktails/Rezepte 1/Spritzes/Cassis Spritz.md
+Cocktails/Rezepte 1/Spritzes/Lavendel Spritz.md
+Cocktails/Rezepte 1/Spritzes/Limoncello Spritz.md
+Cocktails/Rezepte 1/Spritzes/Pampelle Spritz.md
+Cocktails/Rezepte 1/Spritzes/Passoa Spritz.md
+Cocktails/Rezepte 1/Spritzes/Sarti Spritz.md
+Cocktails/Rezepte 1/Tequila-Drinks/Tommy’s Margarita.md
+Cocktails/Rezepte 1/Tiki & Rum-Drinks/Piña colada.md
+Cocktails/Rezepte 1/Vodka-Drinks/Kiew Spring Punch.md
+Cocktails/Rezepte 1/Whiskey-Drinks/Peniclin.md

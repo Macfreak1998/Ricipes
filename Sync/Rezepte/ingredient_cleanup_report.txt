@@ -1,0 +1,225 @@
+INGREDIENT CLEANUP REPORT
+================================================================================
+
+Files modified: 66
+Total fixes applied: 86
+
+DETAILS:
+
+Don the Beachcomber Navy Grog.md:
+  - 1 Soda Water → Soda Water
+
+Gentle Suicide.md:
+  - Waldmeistersirup → Woodruff Syrup
+
+The Dockside - A Killer Rum Old Fashioned Cocktail.md:
+  - Banks 7 Rum → Gold Rum
+  - Cruzan Blackstrap Rum → Dark Rum
+  - Smith and Cross Jamaican Rum → Jamaican Rum
+
+Pipeline.md:
+  - Bacardi Rum → White Rum
+
+Swimmingpool.md:
+  - 1/2 Blue Curacao → Blue Curaçao
+
+Cosmopolitan 1934.md:
+  - Himbeersirup → Raspberry Syrup
+
+Porto Flip.md:
+  - Roter Portwein → Red Port Wine
+
+Snoopy.md:
+  - Galliano L'Autentico → Galliano
+
+Love & Murder.md:
+  - Salzlösung → Saline Solution
+
+Death Flip.md:
+  - ganzes Ei → Whole Egg
+
+Lemondrive Mai Tai.md:
+  - Havana → White Rum
+
+Rye Buck.md:
+  - Ingwersirup → Ginger Syrup
+
+Lemondrive Martinez.md:
+  - Dashes Angustrora Bitters → Angostura Bitters
+  - bar Spoon Maraschino Liqueur → Maraschino Liqueur
+
+Cobbler.md:
+  - Curacao → Curaçao
+
+Brandy Flip.md:
+  - ganzes Ei → Whole Egg
+
+Neptuns Wrath.md:
+  - 1/4 Green Chartreuse lit on fire → Green Chartreuse
+
+Bahama Mama.md:
+  - Bananenlikör → Banana Liqueur
+
+Maurice Chevalier.md:
+  - Noilly Prat Dry Vermouth → Dry Vermouth
+
+Pornstar Martini.md:
+  - Vanillesirup → Vanilla Syrup
+  - Maracujalikör → Passion Fruit Liquor
+
+Trader Vics Mai Tai.md:
+  - Appleton Estate Signature → Jamaican Rum
+
+Sex on the Beach.md:
+  - Pfirsichlikör → Peach Liquor
+
+Espresso Martini.md:
+  - Kaffeelikör → Coffee Liqueur
+
+Periodista.md:
+  - Limettenzeste → Lime
+
+Test Pilot.md:
+  - Dashes of Angostura Bitters → Angostura Bitters
+  - drops of Pernod → Pernod
+  - Puerto Rican White Rum → White Rum
+
+Blannibal Sour.md:
+  - Heidelbeersirup → Raspberry Syrup
+
+Passionfruit Paradise Punch.md:
+  - Orgeat Syrup → Orgeat
+
+Honey Deuce.md:
+  - Chambord → Black Raspberry Liqueur
+  - Grey Goose → Vodka
+
+Coffee Margarita.md:
+  - Kahlúa → Coffee Liqueur
+
+Spicy Fifty.md:
+  - rote Chilli → Red Chilli
+  - Vanille Vodka → Vanilla Vodka
+
+Mr Brown.md:
+  - Barspoon Vanilla Syrup → Vanilla Syrup
+
+Florodora Reconstructed.md:
+  - Chambord → Black Raspberry Liqueur
+
+Cobras Fang.md:
+  - Drops Absinthe → Absinthe
+
+Bramble.md:
+  - 1/2 Creme de Mure → Creme de Mure
+
+Spiced Pear Collins.md:
+  - Aviation Gin → Gin
+
+Wellfare.md:
+  - Rosmarin → Rosemary
+
+Parasol.md:
+  - Bananenlikör → Banana Liqueur
+
+Vieux Carre.md:
+  - of Benedictine → Benedictine
+
+Late Mistral.md:
+  - Ricard → Pernod
+
+Eeyore’s Requiem.md:
+  - Dash Orange Bitters → Orange Bitters
+
+Monte Carlo.md:
+  - dashes Angostura Bitters → Angostura Bitters
+
+Bitter Bee.md:
+  - Spoon Brown Sugar → Brown Sugar
+  - Top Angostura Bitters → Angostura Bitters
+  - frischer Lime Juice → Lime Juice
+
+Gimlet.md:
+  - Rose's Lime Cordial → Lime Juice
+
+Paddington.md:
+  - Bar Spoon Orange Marmalade → Orange Marmalade
+
+Ty Cobbler.md:
+  - Dash Bitters → Bitters
+
+Tommy's Margarita.md:
+  - Salzlösung → Saline Solution
+  - Agavendicksaft → Agave Syrup
+
+New York Sour.md:
+  - 1/4 Red Wine → Red Wine
+
+Watermelon Slice.md:
+  - St-Germain → Elderflower Liqueur
+  - Moët & Chandon Imperial Brut → Champagne
+  - Brut Champagne → Champagne
+
+Tomate.md:
+  - Ricard → Pernod
+
+Irish Coffee.md:
+  - 1/4oz (37.5ml) Irish Whiskey → Irish Whiskey
+  - (7.5ml) Cinnamon Syrup → Cinnamon Syrup
+  - 4-5oz (120-150ml) Hot Coffee → Hot Coffee
+
+Lemondrive.md:
+  - Kokosrum → coconut rum
+  - Rose's Lime Cordial → Lime Juice
+
+Ramos Gin Fizz.md:
+  - Orangenblütenwasser → Orange Flower Water
+
+Eclipse.md:
+  - 1/4 mezcal → Mezcal
+
+Planter's Punch (Don the Beachcomber).md:
+  - Barspoon Velvet Falernum → Velvet Falernum
+  - Barspoon Grendaine → Grenadine
+
+Improved Whiskey Cocktail.md:
+  - Bar Spoon Maraschino Liqueur → Maraschino Liqueur
+  - Dash Absinthe → Absinthe
+  - Dash Peychaud's Bitters → Peychaud's Bitters
+
+Corpse Reviver #1.md:
+  - Dashes Angostura bitters → Angostura Bitters
+
+Coconut Kiss.md:
+  - Hard Truth Toasted Coconut Rum → coconut rum
+
+Basil Gimlet.md:
+  - Basilikum Blätter → Basil
+
+Jäger Buck.md:
+  - Ingwersirup → Ginger Syrup
+
+Suffering Bastard.md:
+  - Rose's Lime Cordial → Lime Juice
+
+Don the Beachcomber Planters Punch.md:
+  - Barspoon Velvet Falernum → Velvet Falernum
+  - Barspoon Grendaine → Grenadine
+
+Parisienne.md:
+  - Noilly Prat Dry Vermouth → Dry Vermouth
+
+Lemon on the Beach.md:
+  - Pfirsichlikör → Peach Liquor
+
+John Morris.md:
+  - Kokossirup → Coconut Syrup
+
+Roku Koori Negroni.md:
+  - Roku Gin → Gin
+
+French Colada.md:
+  - Kokosnusscreme → Coconut Cream
+
+French Martini.md:
+  - schwarzer Himbeerlikör → Black Raspberry Liqueur

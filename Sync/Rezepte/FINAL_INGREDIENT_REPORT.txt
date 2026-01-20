@@ -1,0 +1,245 @@
+FINAL INGREDIENT LINKING REPORT
+================================================================================
+
+Total cocktail files: 595
+Files with missing ingredient links: 166
+Files without issues: 429
+Success rate: 72.1%
+
+Unique missing ingredients: 231
+
+================================================================================
+ALL MISSING INGREDIENTS (sorted by frequency)
+================================================================================
+
+Peach Brandy                                       used in   2 recipes
+Maple Syrup                                        used in   2 recipes
+Honey                                              used in   2 recipes
+Sloe Gin                                           used in   2 recipes
+Tropfen                                            used in   2 recipes
+Salzlösung                                         used in   2 recipes
+ganzes Ei                                          used in   2 recipes
+Tequila                                            used in   2 recipes
+Ingwersirup                                        used in   2 recipes
+Zuckerwürfel                                       used in   2 recipes
+Crushed Ice                                        used in   2 recipes
+Egg Yolk                                           used in   2 recipes
+Overproof                                          used in   2 recipes
+Bananenlikör                                       used in   2 recipes
+Noilly Prat Dry Vermouth                           used in   2 recipes
+Orange Flower Water                                used in   2 recipes
+Raspberry Liqueur                                  used in   2 recipes
+Lemonade                                           used in   2 recipes
+Pfirsichlikör                                      used in   2 recipes
+Mint                                               used in   2 recipes
+Chambord                                           used in   2 recipes
+Agave Nectar                                       used in   2 recipes
+Tonic Water                                        used in   2 recipes
+Ricard                                             used in   2 recipes
+Tawny Port                                         used in   2 recipes
+Tabasco                                            used in   2 recipes
+Worcestershire Sauce                               used in   2 recipes
+Fresh Lemon Juice                                  used in   2 recipes
+Coffee Liquor                                      used in   2 recipes
+Advocaat                                           used in   2 recipes
+Rose's Lime Cordial                                used in   2 recipes
+Gold Virgin Islands Rum                            used in   2 recipes
+Gold Jamaican Rum                                  used in   2 recipes
+Barspoon Velvet Falernum                           used in   2 recipes
+Barspoon Grendaine                                 used in   2 recipes
+Vanilla Ice Cream                                  used in   1 recipes
+Gelato                                             used in   1 recipes
+Jamaican Dark Rum                                  used in   1 recipes
+Honey Syrup (2:1)                                  used in   1 recipes
+Fresh Grapefruit Juice                             used in   1 recipes
+1 Soda Water                                       used in   1 recipes
+Ramazotti                                          used in   1 recipes
+Brown Sugar                                        used in   1 recipes
+Cucumber Simple Syrup                              used in   1 recipes
+Greek Yogurt                                       used in   1 recipes
+Cocchi Americano                                   used in   1 recipes
+Meletti Amaro                                      used in   1 recipes
+Waldmeistersirup                                   used in   1 recipes
+Banks 7 Rum                                        used in   1 recipes
+Cruzan Blackstrap Rum                              used in   1 recipes
+Smith and Cross Jamaican Rum                       used in   1 recipes
+Orinoco Bitters                                    used in   1 recipes
+Bittermans Mole Bitters                            used in   1 recipes
+Eau-de-vie de Cerises                              used in   1 recipes
+Bacardi Rum                                        used in   1 recipes
+Peach                                              used in   1 recipes
+Lemon wedges                                       used in   1 recipes
+Sugar cube                                         used in   1 recipes
+1/2 Blue Curacao                                   used in   1 recipes
+Pecan Bitters                                      used in   1 recipes
+Ice Cube                                           used in   1 recipes
+Sage Leaves                                        used in   1 recipes
+Salers                                             used in   1 recipes
+Suze                                               used in   1 recipes
+Single-Malt Scotch                                 used in   1 recipes
+Suntory Toki Whisky                                used in   1 recipes
+Pomegranate Juice                                  used in   1 recipes
+Matcha Green Tea Salt                              used in   1 recipes
+Vodka Citron                                       used in   1 recipes
+Coconut Sparkling Water                            used in   1 recipes
+Himbeersirup                                       used in   1 recipes
+Rican Rum                                          used in   1 recipes
+Coconut Creme                                      used in   1 recipes
+Lime Syrup                                         used in   1 recipes
+Roter Portwein                                     used in   1 recipes
+Galliano L'Autentico                               used in   1 recipes
+Bittersweet Orange-Red Aperitivo                   used in   1 recipes
+Red Wine                                           used in   1 recipes
+Simply Syrup                                       used in   1 recipes
+Havana                                             used in   1 recipes
+Dry Orange                                         used in   1 recipes
+Eis                                                used in   1 recipes
+Chocolate Liqueur                                  used in   1 recipes
+Frozen Banana                                      used in   1 recipes
+Rinse                                              used in   1 recipes
+bar Spoon Maraschino Liqueur                       used in   1 recipes
+Dashes Angustrora Bitters                          used in   1 recipes
+Cordial Campari                                    used in   1 recipes
+Gin (or any other spirit)                          used in   1 recipes
+Curacao                                            used in   1 recipes
+Lemon,Lime and Orange Wedge                        used in   1 recipes
+Cherry (pitted)                                    used in   1 recipes
+White                                              used in   1 recipes
+Gin London Dry                                     used in   1 recipes
+dash Angostura                                     used in   1 recipes
+Basil Leaves                                       used in   1 recipes
+light rum (Puerto Rican / Cuban)                   used in   1 recipes
+Olive                                              used in   1 recipes
+1/4 Green Chartreuse lit on fire                   used in   1 recipes
+Tripple Sec                                        used in   1 recipes
+Rosemary Simple Syrup                              used in   1 recipes
+Cava                                               used in   1 recipes
+Cherry Juice                                       used in   1 recipes
+Cloves                                             used in   1 recipes
+Kina                                               used in   1 recipes
+Maracujalikör                                      used in   1 recipes
+Vanillesirup                                       used in   1 recipes
+Banana                                             used in   1 recipes
+Honeydew Melon Balls                               used in   1 recipes
+Rhum Agricolee                                     used in   1 recipes
+Appleton Estate Signature                          used in   1 recipes
+Cherimoya                                          used in   1 recipes
+White Wine                                         used in   1 recipes
+Kaffeelikör                                        used in   1 recipes
+Cold Brew Concentrate                              used in   1 recipes
+Gran Classico                                      used in   1 recipes
+Coca-Cola                                          used in   1 recipes
+Limettenzeste                                      used in   1 recipes
+Onion                                              used in   1 recipes
+Champage                                           used in   1 recipes
+Puerto Rican White Rum                             used in   1 recipes
+Dashes of Angostura Bitters                        used in   1 recipes
+drops of Pernod                                    used in   1 recipes
+Haitischer                                         used in   1 recipes
+Heidelbeersirup                                    used in   1 recipes
+Passionfruit Puree                                 used in   1 recipes
+Orgeat Syrup                                       used in   1 recipes
+Grey Goose                                         used in   1 recipes
+Pineapple Syrup                                    used in   1 recipes
+Grated Nutmeg                                      used in   1 recipes
+Kahlúa                                             used in   1 recipes
+Cold Brew Coffee                                   used in   1 recipes
+Cream Sherry                                       used in   1 recipes
+Vanille Vodka                                      used in   1 recipes
+rote Chilli                                        used in   1 recipes
+white grapefruit juice                             used in   1 recipes
+bar spoon                                          used in   1 recipes
+Cocktail Cherry                                    used in   1 recipes
+Orange Wheel                                       used in   1 recipes
+Barspoon Vanilla Syrup                             used in   1 recipes
+Dark Jamaica Rum                                   used in   1 recipes
+Lightly Aged Rum                                   used in   1 recipes
+Demerara Syrup                                     used in   1 recipes
+Blackberry Liqueur                                 used in   1 recipes
+Drops Absinthe                                     used in   1 recipes
+Coconut Liqueur                                    used in   1 recipes
+1/2 Creme de Mure                                  used in   1 recipes
+Wildberry                                          used in   1 recipes
+Aviation Gin                                       used in   1 recipes
+St. George Spiced Pear Liqueur                     used in   1 recipes
+Pear Juice                                         used in   1 recipes
+Savidge Kitchen Gingersnap Syrup                   used in   1 recipes
+Rosmarin                                           used in   1 recipes
+Clam Juice                                         used in   1 recipes
+of Benedictine                                     used in   1 recipes
+Irish                                              used in   1 recipes
+Truffle Vodka                                      used in   1 recipes
+Olive Brine                                        used in   1 recipes
+Truffle Oil                                        used in   1 recipes
+Dash Orange Bitters                                used in   1 recipes
+dashes Angostura Bitters                           used in   1 recipes
+Spoon Brown Sugar                                  used in   1 recipes
+frischer Lime Juice                                used in   1 recipes
+Top Angostura Bitters                              used in   1 recipes
+Orgeat (almond syrup)                              used in   1 recipes
+Tomato Ketchup                                     used in   1 recipes
+Cucumber Juice                                     used in   1 recipes
+Basil Simple Syrup                                 used in   1 recipes
+Fresh Orange Juice                                 used in   1 recipes
+Agricole rhum                                      used in   1 recipes
+3:1 Honey syrup                                    used in   1 recipes
+Aged Cuban Rum                                     used in   1 recipes
+Bar Spoon Orange Marmalade                         used in   1 recipes
+Luxado Cherrys                                     used in   1 recipes
+Dash Bitters                                       used in   1 recipes
+Agavendicksaft                                     used in   1 recipes
+Cane Syrup                                         used in   1 recipes
+1/4 Red Wine                                       used in   1 recipes
+Celery Salt                                        used in   1 recipes
+Pepper                                             used in   1 recipes
+Celery                                             used in   1 recipes
+Overproof Jamaican Rum                             used in   1 recipes
+Egg                                                used in   1 recipes
+Moët & Chandon Imperial Brut                       used in   1 recipes
+Brut Champagne                                     used in   1 recipes
+Sparkling Wine                                     used in   1 recipes
+Watermelon Juice                                   used in   1 recipes
+St-Germain                                         used in   1 recipes
+1/4oz (37.5ml) Irish Whiskey                       used in   1 recipes
+(7.5ml) Cinnamon Syrup                             used in   1 recipes
+4-5oz (120-150ml) Hot Coffee                       used in   1 recipes
+Cold Heavy Cream                                   used in   1 recipes
+Agricole                                           used in   1 recipes
+Aromatic Bitters                                   used in   1 recipes
+bourbon whiskey                                    used in   1 recipes
+Cocchi Americano Bianco                            used in   1 recipes
+Club Soda                                          used in   1 recipes
+Simple Sirup                                       used in   1 recipes
+Kokosrum                                           used in   1 recipes
+Orangenblütenwasser                                used in   1 recipes
+1/4 mezcal                                         used in   1 recipes
+Bar Spoon Maraschino Liqueur                       used in   1 recipes
+Dash Absinthe                                      used in   1 recipes
+Dash Peychaud's Bitters                            used in   1 recipes
+Blended                                            used in   1 recipes
+Wallnusslikör                                      used in   1 recipes
+French Vermouth                                    used in   1 recipes
+Dashes Angostura bitters                           used in   1 recipes
+Hard Truth Toasted Coconut Rum                     used in   1 recipes
+Italian Red Bitter Liqueur                         used in   1 recipes
+Basilikum Blätter                                  used in   1 recipes
+Water                                              used in   1 recipes
+Black Tea                                          used in   1 recipes
+Blackberries                                       used in   1 recipes
+Cranberry Syrup                                    used in   1 recipes
+Papaya Juice                                       used in   1 recipes
+Green Tea Syrup                                    used in   1 recipes
+Kokossirup                                         used in   1 recipes
+Roku Gin                                           used in   1 recipes
+Ice Wine                                           used in   1 recipes
+Red Wine Vinegar                                   used in   1 recipes
+Papaya                                             used in   1 recipes
+Green Curacao                                      used in   1 recipes
+White Creme de Cacao                               used in   1 recipes
+Hazelnut Liqueur                                   used in   1 recipes
+Matcha Powder                                      used in   1 recipes
+Vanilla Simple Syrup                               used in   1 recipes
+Kokosnusscreme                                     used in   1 recipes
+White Port                                         used in   1 recipes
+schwarzer Himbeerlikör                             used in   1 recipes
+Jalapeño                                           used in   1 recipes

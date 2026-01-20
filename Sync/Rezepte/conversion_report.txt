@@ -1,0 +1,17 @@
+GERMAN TO ENGLISH CONVERSION REPORT
+================================================================================
+
+Date: 1763313142.2785
+Total files processed: 874
+Total files modified: 727
+Total replacements made: 5435
+
+Replacements by category:
+--------------------------------------------------------------------------------
+Common Words: 2874
+Section Labels: 1707
+Ice Types: 279
+Other: 205
+Juice Names: 132
+Glass Types: 119
+Garnish Names: 119

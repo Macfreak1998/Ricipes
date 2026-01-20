@@ -1,0 +1,4867 @@
+GERMAN TEXT DETECTION REPORT
+================================================================================
+
+Total cocktail files with German: 635
+Total ingredient files with German: 134
+
+COCKTAIL RECIPES WITH GERMAN TEXT:
+--------------------------------------------------------------------------------
+
+1-3.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - Orangenscheibe → Orange Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+1-UP Mushroom.md:
+  - Highball → Highball Glass
+
+20th Century.md:
+  - Zitrone → Lemon
+  - Glas → Glass
+  - Eis → Ice
+
+3 Dots and a Dash.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+
+3-10 to Yuzu Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Adios Motherfucker.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenscheibe → Lemon Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Affogato Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Agave Julep.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Agent Orange.md:
+  - Orange → Orange
+
+Airmail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Sektglas → Champagne Flute
+
+Aka Nui.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Aku Aku.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Alexander.md:
+  - Sahne → Heavy Cream
+  - Glas → Glass
+  - Eis → Ice
+
+Alligator.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Amaretto Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Americano.md:
+  - Orange → Orange
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ancient Mariner.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Anejo Highball.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Orangenscheibe → Orange Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Angel Face.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Ante Up.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Aperol Sour.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Aperol Spritz.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Highball → Highball Glass
+
+Aperolitan.md:
+  - Orange → Orange
+  - Cranberrysaft → Cranberry Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Apfelstrudel Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Apfelstrudel.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - gerührt → Stir
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Appeltini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Appletini.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Argentina.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Artlantic.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Au Revoir MH.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenscheibe → Lemon Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Aviation.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bahama Mama.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Orangenscheibe → Orange Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bamboo.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Banana Cow.md:
+  - Highball → Highball Glass
+
+Banana Pineapple Daiquiri.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Bananavardier.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Barracuda.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Basil Gimlet.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Batida de Côco.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Batida de Limão.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Batida de Manga.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Batida de Maracujá.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Batida de Mel.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Batman.md:
+  - Orange → Orange
+
+Beachcomber.md:
+  - Orange → Orange
+
+Bebbo.md:
+  - Orange → Orange
+
+Bee's Knees.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Bellini.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Sektglas → Champagne Flute
+
+Belsazar Rose Tonic.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bergamotte Spritz.md:
+  - Zitrone → Lemon
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Zitronenscheibe → Lemon Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bijou.md:
+  - Orange → Orange
+
+Biscoff White Russian.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bitter Bee.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - frischer → fresh
+
+Black Manhattan.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+
+Black Russian.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Blackberry Smash.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Blannibal Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Blood and Sand.md:
+  - Orange → Orange
+
+Bloody Mary.md:
+  - Highball → Highball Glass
+
+Blue Hawaii.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Blue Kamikaze.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - gerührt → Stir
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Blue Lagoon.md:
+  - Highball → Highball Glass
+
+Blue Sky.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bobsled.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Boston Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Boulevardier.md:
+  - Orange → Orange
+
+Brain Damage.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bramble.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Brandy Crusta.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Brandy Flip.md:
+  - Sahne → Heavy Cream
+  - Glas → Glass
+  - Eis → Ice
+
+Brandy Julep.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Brombeer Spritz.md:
+  - Limette → Lime
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Limettenscheibe → Lime Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Bronx.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Brown Derby.md:
+  - Orange → Orange
+  - Grapefruitsaft → Grapefruit Juice
+  - Glas → Glass
+  - Eis → Ice
+
+Butterbeer.md:
+  - Sahne → Heavy Cream
+  - mit → with
+  - und → and
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Caipirinha.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Campari Shakerato.md:
+  - Limettensaft → Lime Juice
+  - oder → or
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Zitronenzeste → Lemon Twist
+
+Campari Spritz.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Orangenscheibe → Orange Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Canchanchara.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Cannonball.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Carabinieri.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Cardinal.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Carl Josef.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Caruso.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Casablanca.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Casino.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Cassis Spritz.md:
+  - Limette → Lime
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Limettenscheibe → Lime Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Champagne Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Sektglas → Champagne Flute
+
+Champs-Elysees.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Chartreuse Swizzle.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Minzblatt → Mint Leaf
+
+Cherry Fizz.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Cherry Flip.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Chi Chi.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Chicago Fizz.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Choco Colada.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Cinnamon Appletini.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Clamato Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Claridge.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Clover Club.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Cobbler.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Cobras Fang.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Coco Choco.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Coconut Banana.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Coconut Dream.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Coconut Kiss.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Coffee Margarita.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Corpse Reviver #1.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Corpse Reviver #2.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Cosmopolitan 1934.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Cosmopolitan.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Cranberry Cooler.md:
+  - Orange → Orange
+  - Cranberrysaft → Cranberry Juice
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Cranberry Mule.md:
+  - und → and
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Cruel Summer.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Cuba Libre.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Cuban Special.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Cucumber Basil Gimlet.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Cucumber Greek Yogurt Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Cynar Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Daiquiri Natural.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Daiquiri.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Daisy.md:
+  - Orange → Orange
+  - oder → or
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - Zitronenzeste → Lemon Twist
+
+Dark & Stormy.md:
+  - Limettensaft → Lime Juice
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dark 'n' Stormy.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dead Mans Handle.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Death Flip.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Deauville.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Deep South.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Deep-Sea Diver.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Delmonico.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Derby Daiquiri.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Derby.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Desk Job.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Devil.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Diplomat.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dirty Mother.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dirty White Mother.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Division Bell.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Don Lockwood.md:
+  - Orange → Orange
+
+Don the Beachcomber Navy Grog.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Don the Beachcomber Planters Punch.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Don's Own Grog.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Dry Daiquiri.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Dubonnet Cassis.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dubonnet Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dubonnet Fizz.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Dubonnet Highball.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Due Campari.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Duke of Marlboro.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Orangenzeste → Orange Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Eclipse.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Eeyore’s Requiem.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+El Burro.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+El Diablo.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+El Pepino.md:
+  - Glas → Glass
+  - Eis → Ice
+
+El Presidente.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Erdbeer Caipirinha alkoholfrei.md:
+  - Limette → Lime
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Erdbeer Caipirinha.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Espresso Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Fernandito.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ferrari.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Fiesta.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Fifth Avenue.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Fino Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Fireman's Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Fish House Punch No 1.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Fish House Punch No 2.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Flamed Orange Old Fashioned.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - Orangenscheibe → Orange Slice
+  - gerührt → Stir
+  - voll → full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Flamingo.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Flight of Passion.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Florida Daiquiri.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Florida Sling.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Florodora Reconstructed.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Fog Cutter.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+French 68.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+French 75.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Sektglas → Champagne Flute
+  - Zitronenzeste → Lemon Twist
+
+French Colada.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+
+French Connection.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+French Daiquiri.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+French Manhattan.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+French Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+French Pearl.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Minzblatt → Mint Leaf
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gas Reagans Ultimate Negroni.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gauguin.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Gene Tunney.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gentle Suicide.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gibson.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gimlet Marlowe.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gimlet.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Gin & Bitters.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Gin & It.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gin & Sin.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Orangenscheibe → Orange Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gin Basil Smash.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gin Fix.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Gin Fizz.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Gin Rickey.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gin Sour.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Gin Tonic.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+God's Child.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Godfather.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Godmother.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Gold Rush.md:
+  - Orange → Orange
+
+Golden Cadillac.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Golden Colada.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+
+Golden Dream.md:
+  - Orange → Orange
+  - Sahne → Heavy Cream
+  - Glas → Glass
+  - Eis → Ice
+
+Golden Fizz.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Golden Nail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Golden Rye Fizz.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Grasshopper.md:
+  - Sahne → Heavy Cream
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Green Banana.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Green Spider.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Greenback.md:
+  - Limette → Lime
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Greyhound.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Habana Libre.md:
+  - Limette → Lime
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Hanky Panky.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Happy New Year.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Harvard.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Harvey Wallbanger.md:
+  - Orange → Orange
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Orangenscheibe → Orange Slice
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Havana Sidecar.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Havana Special.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Hazelnut Chocolate Matcha Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Heavy Stir.md:
+  - Orange → Orange
+
+Hemingway Special.md:
+  - Grapefruitsaft → Grapefruit Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Hemingway.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Hole in the Cup.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Honey & Smoke.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Honey Bee.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Honey Deuce Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Honey Deuce.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Honeysuckle.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Honolulu Juicer.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Hoop La.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Horse's Neck.md:
+  - Orange → Orange
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Hot Buttered Rum.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Hot Frenchman.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - Orangenzeste → Orange Twist
+
+Hot Jamaican.md:
+  - Limette → Lime
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Hot M.M.M..md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - Orangenzeste → Orange Twist
+
+Hot MMM.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Hot Marie.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Hotel Nacional Special.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Hufflepuff.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Hurricane (alkoholfrei) (Spring Fever).md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Hurricane.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+I like em fucked up.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+I.B.F..md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+I.B.U..md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Iced Tea.md:
+  - Limette → Lime
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Illegal.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Imperial.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Improved Whiskey Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Income Tax Cocktail.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Industry Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Infante.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Intro To Aperol.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Ipanema (Mojito+Caipi alkoholfrei).md:
+  - Limette → Lime
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Irish Coffee.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Isle of Pines.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Italian Coffee.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Italian Colada.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+
+Jack Rose.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Jacky Old Fashioned.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - Orangenscheibe → Orange Slice
+  - gerührt → Stir
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Jade.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Jamaica Fever.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+James Bond.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Japanese Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Jasmin.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Jean Gabin.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Jean Lafitte.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Jogging Flip.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+
+John Collins - Tom Collins.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+John Morris.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenscheibe → Lemon Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Journalist.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Julians Olive Brandy.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - Tumbler → Tumbler
+  - gerührt → Stir
+  - Schluck → splash
+  - voll → full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Jungle Bird.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Jäger Buck.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Jägerita.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Kamikaze.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Kentucky Maid.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Kiew Spring Punch.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Kill Devil.md:
+  - Glas → Glass
+  - Eis → Ice
+
+King's Breakfast.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Kingston Negroni.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Kir Royal.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Kir.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Sektglas → Champagne Flute
+
+Knickerbocker Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Knockout Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+La Floridita Cocktail.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+La Floridita Daiquiri.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+
+La Otra Palabra.md:
+  - Glas → Glass
+  - Eis → Ice
+
+La Paloma.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ladies Sidecar.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Last Man Standing.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Last Word.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Late Mistral.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Latin Lover.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Lavendel Spritz.md:
+  - Limette → Lime
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Limettenscheibe → Lime Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lavender Breeze.md:
+  - mit → with
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Tumbler → Tumbler
+  - Schluck → splash
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Leap Year.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Leave It to Me.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Left Hand.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Lemon Squash.md:
+  - Zitrone → Lemon
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Lemon on the Beach.md:
+  - Orange → Orange
+  - Cranberrysaft → Cranberry Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lemonade Golden.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lemonade.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lemondrive (alkoholfrei).md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lemondrive Julep.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lemondrive Mai Tai.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Lemondrive Martinez.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Lemondrive Zombie.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+
+Lemondrive.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lemondrop.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Liberty Cocktail.md:
+  - Limette → Lime
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lichterfest.md:
+  - Zitrone → Lemon
+  - mit → with
+  - oder → or
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Limoncello Spritz.md:
+  - Zitrone → Lemon
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Zitronenscheibe → Lemon Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Little Wing.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Loftus Special.md:
+  - Limette → Lime
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+London Maid.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Lone Tree.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Long Beach Iced Tea.md:
+  - Cranberrysaft → Cranberry Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenscheibe → Lemon Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Long Distance Runner.md:
+  - Limettensaft → Lime Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Long Island Iced Tea.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenscheibe → Lemon Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Love & Murder.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Lynchburg Lemonade.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Macaroni.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Macunaima.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Mai Tai.md:
+  - Limette → Lime
+  - Orange → Orange
+  - Limettensaft → Lime Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Malcolm Lowry.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mandeville.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Manhattan Dry.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Manhattan Perfect.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Manhattan Sweet.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Manhattan.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+
+Maradona.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Margarita.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Martin's Rum-Orange Punch.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - Orangenzeste → Orange Twist
+
+Martinez Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Martinez.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Mary Pickford.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Maurice Chevalier.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Merry Widow No 1.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Merry Widow No 2.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Merry Widow No. 1.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Merry Widow No. 2.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mexican Coffee.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Mexican Colada.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Highball → Highball Glass
+
+Mexican Firing Squad Special.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mexicana.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Midnight Stinger.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Midori Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Millionaire.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mimosa.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Mint Daiquiri.md:
+  - Orange → Orange
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+
+Mint Julep Georgia Style.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Mint Julep.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mojito.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Monkey Gland.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Montana.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Monte Carlo Imperial.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Monte Carlo.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Monte Cassino.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Morning Glory Fizz.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Moscow Mule.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mr Brown.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Mr. Bali Hai.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Muddy River.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Mulata.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+
+Naked and Famous.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Negroni.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Neptuns Wrath.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+New Orleans Fizz.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+New Orleans Sazerac.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+New York Flip.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+New York Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+New Yorker.md:
+  - Limette → Lime
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ohio.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Old Cuban.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Minzblatt → Mint Leaf
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Old Fashioned.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Olympic.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Opal.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Opera.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Orange Blossom.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Orangeade.md:
+  - Zitrone → Lemon
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Ordinary Seaman.md:
+  - Limette → Lime
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Outlander.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Paddington.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Painkiller.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Palmer.md:
+  - Zitrone → Lemon
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Paloma.md:
+  - Highball → Highball Glass
+
+Pampelle Spritz.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Orangenscheibe → Orange Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Paperplane.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Paradise.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Parasol.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Parisienne.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Park Avenue.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Park Lane.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Passionfruit Paradise Punch.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Passoa Sour.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Passoa Spritz.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Peach Daiquiri.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+
+Pelican.md:
+  - Limettensaft → Lime Juice
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pencil thin Mustache.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Penicillin.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Peniclin.md:
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pepe.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Pepinos Café.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Perfect Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Orangenzeste → Orange Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Periodista.md:
+  - Orange → Orange
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Limettenzeste → Lime Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Perroquet.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Picasso.md:
+  - Zitrone → Lemon
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - Orangenzeste → Orange Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pick-Me-Up.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pimm's No. 1.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pimm's Rangoon.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pimm's Royal.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pina Colada.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Pineapple Daiquiri.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+
+Pinerito.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Pink Creole.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pink Daiquiri.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pink Gin.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Pink Lady.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Pinky Colada.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Pipeline.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pisco Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Piña Colada Schumann's.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Piña Colada Schumann.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Piña colada (alkoholfrei).md:
+  - Sahne → Heavy Cream
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Piña colada.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Planter's Punch (Don the Beachcomber).md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Planter's Punch Schumann.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Planter's Punch.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Poet's Dream.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Polar Bear.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Polish Maid.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Pornstar Martini.md:
+  - Maracujasaft → Passion Fruit Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Porto Flip.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Prairie Oyster.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Presbytarian.md:
+  - Orange → Orange
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Prescription Julep.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Presidente.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Prince of Wales.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Princeton.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Pumpkin Spice Martini.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - garnieren → garnish
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Punch à la Washington Hotel.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Pupule.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Pussy Foot.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Quaker's.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Quarter Deck.md:
+  - Limette → Lime
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Quatresse.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Queens Park Hotel Super Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Queens Park Swizzle.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ramos Gin Fizz.md:
+  - Orange → Orange
+  - Sahne → Heavy Cream
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rattlesnake.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ravenclaw.md:
+  - mit → with
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Reconstructed Surfer on Acid.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Red Headed Slut.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Red Lion.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Red Mouth.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Red Russian.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Red Seal of Shimoda.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Red Snapper.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Remember the Maine.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Repossession Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Resucitador.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Ritz.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rob Roy.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Robinson.md:
+  - Limettensaft → Lime Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Roku Koori Negroni.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Rolls-Royce.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rory O'More.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rosalita.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Rose English.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rose French.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rosemary Sunset Spritz.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Rosita.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Royal Bermuda Yacht Club.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Royal Gin Fizz.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ruby Fizz.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Alexander.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Eggnog.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Fizz.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Gimlet.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Highball.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Old Fashioned.md:
+  - Zitrone → Lemon
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Runner.md:
+  - Limettensaft → Lime Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Rum Sazerac.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Screwdriver.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Sour.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rum Stinger.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Russian Bear.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Russian Cadillac.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Russian Spring Punch.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rusty Nail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Rye Buck.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rye Sling.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Rye Sour.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Salty Dog.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Saoco.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Sarti Spritz.md:
+  - Limette → Lime
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Weinglas → Wine Glass
+  - Limettenscheibe → Lime Slice
+  - Schluck → splash
+  - halbvoll → half full
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Satans Whiskers.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Sazerac.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Schumann's Gimlet 1983.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Schumann's Gimlet.md:
+  - Zitronensaft → Lemon Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Schüttler.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Scofflow.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Scorpion.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Sea Breeze.md:
+  - Grapefruitsaft → Grapefruit Juice
+  - Cranberrysaft → Cranberry Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+September Morn.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Sex on the Beach (alkoholfrei).md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Sex on the Beach.md:
+  - Orange → Orange
+  - Cranberrysaft → Cranberry Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Shanghai.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Shirley Temple.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Sidecar.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Sidewinders Fang.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Siesta.md:
+  - Orange → Orange
+  - Grapefruitsaft → Grapefruit Juice
+  - Glas → Glass
+  - Eis → Ice
+
+Silver Fizz.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Silver Jubilee.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Silver Monk.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Singapore Sling.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Sir Walter.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Slitherin.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - Gurkenscheibe → Cucumber Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Sloppy Joe.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Smoke and Bitters.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Smoke and Mirrors.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Minzblatt → Mint Leaf
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Smoked Old Fashioned with Maple & Pecan Bitters.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Snoopy.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Solero.md:
+  - Maracujasaft → Passion Fruit Juice
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Sombrero.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+South Slope.md:
+  - Glas → Glass
+  - Eis → Ice
+
+South of the Border.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Southern Comfort Sour.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Spiced Castle.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Spiced Pear Collins.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Spicy Fifty.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Spring Fever.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Spritzer.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Stinger.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Storm King.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Stormy Weather.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Strawberry Daiquiri.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Strawberry Margarita.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Suffering Bastard.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Summer Cooler.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Sweet & Hot.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Sweet Science.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Swimming Pool.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Swimmingpool.md:
+  - Glas → Glass
+  - Eis → Ice
+
+TNT.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tahitian Punch.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Tarzan.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tequila Gimlet.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tequila Matador.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Tequila Mockingbird.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Tequila Sour.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tequila Sunrise.md:
+  - Orange → Orange
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - im Glas → Build
+
+Tequini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Test Pilot.md:
+  - Glas → Glass
+
+The Dockside - A Killer Rum Old Fashioned Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+
+The Educated Barflys Coffee and Coke Cocktail.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+The Overachiever (Vanilla Coffee Old Fashioned).md:
+  - Orange → Orange
+
+The Slope.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+
+The Smash (Modern).md:
+  - Glas → Glass
+  - Eis → Ice
+
+Tia Mia.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Tipperary.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Tokio Tea.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenscheibe → Lemon Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tom & Jerry.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Tom Collins.md:
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - im Glas → Build
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tomate.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tommy's Margarita.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tommy’s Margarita.md:
+  - und → and
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Touchdown (alkoholfrei).md:
+  - Maracujasaft → Passion Fruit Juice
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Touchdown.md:
+  - Maracujasaft → Passion Fruit Juice
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Trader Vic's Grog.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Trader Vics Mai Tai.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+Trader Vic’s Grog.md:
+  - mit → with
+  - und → and
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Highball → Highball Glass
+  - Minzblatt → Mint Leaf
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tricontinental.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Trindidad Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+
+Trinity.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tropical Champagne.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Tropical Coffee Margarita.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Tropical Fluff.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Truffle Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Tuxedo.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Twelfe Mile Limit.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Ty Cobbler.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Uccello Milano.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ucello Milano.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Vanilla Cherry Iced Tea.md:
+  - mit → with
+  - auf → on
+  - Glas → Glass
+  - Eis → Ice
+  - auffüllen → top up
+  - shaken → shake
+  - Highball → Highball Glass
+  - Schluck → splash
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vanilla Martini.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Velvet Hammer.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vermouth Cassis.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vermouth Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vermouth Tonic.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vesper.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Vieux Carre.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Villa Nova.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Virgin Mary.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Bull & Mate.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Cranberry.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Gimlet Original.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Gimlet Schumann.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Martini.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+
+Vodka Sling.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Soda.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Vodka Stinger.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Volcano.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Voldemort.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Volga Volga.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Waldorf-Astoria Eggnog.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Ward Eight.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Watermelon Slice.md:
+  - Glas → Glass
+  - Eis → Ice
+
+Wedding Bells Cocktail.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Wellfare.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Gurkenscheibe → Cucumber Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+West Indian Punch.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Whiskey Cola.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Whiskey Hot Toddy.md:
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Whiskey Smash.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Whiskey Sour.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+White Cloud.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+White Lady.md:
+  - Glas → Glass
+  - Eis → Ice
+
+White Linen.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - Gurkenscheibe → Cucumber Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+White Negroni.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+White Noise.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+White Russian.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Tumbler → Tumbler
+
+Wisconsin Royale.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+
+Wizard.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Wodka Sour.md:
+  - mit → with
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+  - Tumbler → Tumbler
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Woo Woo.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Yellow Bird No 1.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Yellow Bird No 2.md:
+  - Orange → Orange
+  - mit → with
+  - Glas → Glass
+  - Eis → Ice
+
+Yellow Bird.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Maraschino Kirsche → Maraschino Cherry
+
+Yellow Boxer.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Yellow Fever.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Yellow Parrot.md:
+  - Glas → Glass
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zico.md:
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Zombie Schumann.md:
+  - Orange → Orange
+  - Glas → Glass
+  - Eis → Ice
+  - Highball → Highball Glass
+
+Zombie.md:
+  - Glas → Glass
+  - Eis → Ice
+  - shaken → shake
+
+
+INGREDIENT FILES WITH GERMAN TEXT:
+--------------------------------------------------------------------------------
+
+Zutaten/Filler/Agave Nectar.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Filler/Egg Yolk.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Filler/Lemonade.md:
+  - Zitronensaft → Lemon Juice
+  - und → and
+  - oder → or
+  - auf → on
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Filler/Mint.md:
+  - Minze → Mint
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Filler/Strawberry Jam.md:
+  - shaken → shake
+
+Zutaten/Filler/Tabasco.md:
+  - mit → with
+  - und → and
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Filler/Tonic Water.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Filler/Worcestershire Sauce.md:
+  - mit → with
+  - und → and
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Sirups/Honey.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Sirups/Maple Syrup.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Absinthe.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Aged Rum.md:
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Allspice Dram.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Amaretto.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Amaro Montenegro.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Amaro Nonino.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Amontillado Sherry.md:
+  - und → and
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Angostura 1919 Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - Orangenzeste → Orange Twist
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Angostura Bitters.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - Spritzer → dash
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Aperol.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Applejack.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Apricot Liqueur.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Armagnac.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Añejo Tequila.md:
+  - Orange → Orange
+  - Limettensaft → Lime Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - Orangenscheibe → Orange Slice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Bacardi 8 year rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Banana Liqueur.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Benedictine.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Bitters.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Black Blended Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Black Raspberry Liqueur.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Blanc Vermouth.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Blended Aged Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Blended Scotch.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Blue Curaçao.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Bonded Bourbon.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Bourbon.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Brandy.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cachaça.md:
+  - mit → with
+  - und → and
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Calvados.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Campari.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - Schluck → splash
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Champagne.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cherry Brandy.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cherry Heering.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Chocolate Bitters.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Coconut Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Coffee Liqueur.md:
+  - Sahne → Heavy Cream
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cognac VSOP.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cognac.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cognag.md:
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cointreau.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Creme De Violette.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Creme de Cacao White.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Creme de Cassis.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Creme de Menthe Green.md:
+  - Minze → Mint
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Creme de Menthe White.md:
+  - Minze → Mint
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Creme de Mure.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Curaçao.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Cynar.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Dark Jamaican Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Dark Rum.md:
+  - Limette → Lime
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Demerara Rum 151 75,5 %.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Demerara Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Drambuie.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Dry Curaçao.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Dry Vermouth.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Elderflower Liqueur.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Falernum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Fernet Branca.md:
+  - Minze → Mint
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Fernet.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - Glas → Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Fino Sherry.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Galliano.md:
+  - Sahne → Heavy Cream
+  - Orangensaft → Orange Juice
+  - mit → with
+  - und → and
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Gin.md:
+  - Zitrone → Lemon
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Ginger Ale.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Ginger Beer.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Ginger Syrup.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Gold Rum.md:
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Gosling's Black Seal Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - Highball → Highball Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Grappa.md:
+  - mit → with
+  - und → and
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Green Chartreuse.md:
+  - Limettensaft → Lime Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Green Chartruse.md:
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Haitian Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Heering cherry liqueur.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Glas → Glass
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Irish Whiskey.md:
+  - Sahne → Heavy Cream
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Italicus.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Jamaican Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Jägermeister.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Kina Lillet.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Lillet Blanc.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - Orangenscheibe → Orange Slice
+  - frischer → fresh
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Maraschino Liqueur.md:
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Martinique Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Mezcal.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Midori.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Navy Strength Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Old Tom Gin.md:
+  - Sahne → Heavy Cream
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Orange Bitters.md:
+  - Orange → Orange
+  - Orangensaft → Orange Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Schluck → splash
+  - Spritzer → dash
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Orange Curaçao.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Orange Liqueur.md:
+  - Zitrone → Lemon
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Overproof Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Passion Fruit Liquor.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Peach Brandy.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Peach Liquor.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Pernod.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Peychaud's Bitters.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Pimento Dram.md:
+  - mit → with
+  - und → and
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Pisco.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Plantation Pineapple Rum.md:
+  - Limettensaft → Lime Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Prosecco.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - mixen → mix
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Puerto Rican Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Punt e Mes.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - Orangenzeste → Orange Twist
+
+Zutaten/Spirituosen/Ramazzotti.md:
+  - Minze → Mint
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - Eis → Ice
+  - Orangenzeste → Orange Twist
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Raspberry Liqueur.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Red Port Wine.md:
+  - Orange → Orange
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Schluck → splash
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Reposado Tequila.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Rhum Agricole Blanc.md:
+  - Limette → Lime
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+
+Zutaten/Spirituosen/Rhum Agricole.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Rye Whiskey.md:
+  - Minze → Mint
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Scotch.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Sloe Gin.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Smith & Cross Jamaican Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/St Germain.md:
+  - mit → with
+  - und → and
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Suze Gentian Liqueur.md:
+  - Grapefruitsaft → Grapefruit Juice
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - Eis → Ice
+  - Zitronenzeste → Lemon Twist
+  - Tropfen → drops
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Sweet Vermouth.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Tawny Port.md:
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Tequila Blanco.md:
+  - Limette → Lime
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Triple Sec.md:
+  - Orange → Orange
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Tullamore Dew Whiskey.md:
+  - Limette → Lime
+  - Sahne → Heavy Cream
+  - Zitronensaft → Lemon Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Vanilla Spiced Rum.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Vanilla Vodka.md:
+  - Sahne → Heavy Cream
+  - Ananassaft → Pineapple Juice
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Velvet Falernum.md:
+  - Zitrone → Lemon
+  - Limette → Lime
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Vermouth Blanco.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - auf → on
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Vermouth Rose.md:
+  - mit → with
+  - und → and
+  - oder → or
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Vodka.md:
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/White Rum.md:
+  - Limette → Lime
+  - Minze → Mint
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts
+
+Zutaten/Spirituosen/Yellow Chartreuse.md:
+  - Orange → Orange
+  - mit → with
+  - und → and
+  - oder → or
+  - im → in
+  - UMLAUT_DETECTED → Contains German umlauts

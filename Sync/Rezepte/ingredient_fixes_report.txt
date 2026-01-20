@@ -1,0 +1,785 @@
+INGREDIENT FIXES REPORT
+================================================================================
+
+Total cocktail files processed: 595
+Files modified: 165
+
+Fixes applied by type:
+  - case_fix: 19
+  - mapped_ingredient: 140
+  - removed_non_ingredient: 50
+  - whitespace_fix: 11
+
+================================================================================
+DETAILED FIXES BY FILE
+================================================================================
+
+3 Dots and a Dash.md:
+  Line 3: mapped_ingredient
+    [[Martinique]] -> [[Martinique Rum]]
+  Line 3: mapped_ingredient
+    [[Rum]] -> [[White Rum]]
+  Line 4: mapped_ingredient
+    [[Demerara]] -> [[Demerara Rum]]
+  Line 4: mapped_ingredient
+    [[Rum]] -> [[White Rum]]
+
+Adios Motherfucker.md:
+  Line 4: whitespace_fix
+    [[ White Rum]] -> [[White Rum]]
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+  Line 10: removed_non_ingredient
+    Removed: [[Top]]
+  Line 10: mapped_ingredient
+    [[Zitronenlimonade]] -> [[Sprite]]
+
+Affogato Martini.md:
+  Line 4: mapped_ingredient
+    [[Rum]] -> [[White Rum]]
+
+Agave Julep.md:
+  Line 3: mapped_ingredient
+    [[Represado Tequila]] -> [[Reposado Tequila]]
+  Line 6: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+Airmail.md:
+  Line 3: mapped_ingredient
+    [[Champagner]] -> [[Champagne]]
+
+Aka Nui.md:
+  Line 12: removed_non_ingredient
+    Removed: [[Top]]
+
+Aku Aku.md:
+  Line 3: mapped_ingredient
+    [[Light Rum]] -> [[White Rum]]
+  Line 4: mapped_ingredient
+    [[Peach Liqueur]] -> [[Peach Liquor]]
+  Line 7: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+Alexander.md:
+  Line 5: mapped_ingredient
+    [[Sahne]] -> [[Heavy Cream]]
+
+Ancient Mariner.md:
+  Line 3: mapped_ingredient
+    [[Jamaica Rum]] -> [[Jamaican Rum]]
+
+Anejo Highball.md:
+  Line 3: mapped_ingredient
+    [[Goldener Rum]] -> [[Gold Rum]]
+  Line 6: removed_non_ingredient
+    Removed: [[Top]]
+
+Angel Face.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Ante Up.md:
+  Line 6: mapped_ingredient
+    [[Crème de Menthe]] -> [[Creme de Menthe White]]
+
+Aperolitan.md:
+  Line 6: mapped_ingredient
+    [[Cranberrysaft]] -> [[Cranberry Juice]]
+
+Appeltini.md:
+  Line 6: mapped_ingredient
+    [[Grüner Apfelsaft]] -> [[Green Apple Juice]]
+
+Argentina.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Artlantic.md:
+  Line 7: mapped_ingredient
+    [[Apfelsaft]] -> [[Apple Juice]]
+
+Au Revoir MH.md:
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+  Line 10: removed_non_ingredient
+    Removed: [[Top]]
+
+Aviation.md:
+  Line 6: mapped_ingredient
+    [[Creme de Violette]] -> [[Creme De Violette]]
+
+Bahama Mama.md:
+  Line 3: mapped_ingredient
+    [[Rum]] -> [[White Rum]]
+  Line 4: mapped_ingredient
+    [[Rum]] -> [[White Rum]]
+
+Bamboo.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Banana Pineapple Daiquiri.md:
+  Line 3: mapped_ingredient
+    [[Light Rum]] -> [[White Rum]]
+
+Barracuda.md:
+  Line 3: mapped_ingredient
+    [[Goldener Rum]] -> [[Gold Rum]]
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+
+Bitter Bee.md:
+  Line 3: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+Black Manhattan.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Blackberry Smash.md:
+  Line 7: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+Brandy Flip.md:
+  Line 4: mapped_ingredient
+    [[Sahne]] -> [[Heavy Cream]]
+
+Campari Shakerato.md:
+  Line 2: mapped_ingredient
+    [[Limettensaft]] -> [[Lime Juice]]
+
+Canchanchara.md:
+  Line 3: whitespace_fix
+    [[ Havana Club 3 Years old]] -> [[Havana Club 3 Years old]]
+  Line 6: case_fix
+    [[Lime juice]] -> [[Lime Juice]]
+
+Cannonball.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Carabinieri.md:
+  Line 2: mapped_ingredient
+    [[Limettensaft]] -> [[Lime Juice]]
+
+Casablanca.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Chicago Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Coco Choco.md:
+  Line 3: case_fix
+    [[Coconut Rum]] -> [[coconut rum]]
+
+Cranberry Cooler.md:
+  Line 4: mapped_ingredient
+    [[Cranberrysaft]] -> [[Cranberry Juice]]
+
+Cuba Libre.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Top]]
+
+Dark 'n' Stormy.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Top]]
+
+Dead Mans Handle.md:
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Death Flip.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Delmonico.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Desk Job.md:
+  Line 5: mapped_ingredient
+    [[Jamaica Rum]] -> [[Jamaican Rum]]
+
+Devil.md:
+  Line 4: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Dry Daiquiri.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Dubonnet Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Due Campari.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Eclipse.md:
+  Line 3: whitespace_fix
+    [[ añejo tequila]] -> [[añejo tequila]]
+  Line 3: case_fix
+    [[añejo tequila]] -> [[Añejo Tequila]]
+  Line 4: whitespace_fix
+    [[ Aperol]] -> [[Aperol]]
+  Line 5: whitespace_fix
+    [[ Heering cherry liqueur]] -> [[Heering cherry liqueur]]
+  Line 6: whitespace_fix
+    [[ lemon juice]] -> [[lemon juice]]
+  Line 6: case_fix
+    [[lemon juice]] -> [[Lemon Juice]]
+
+El Diablo.md:
+  Line 8: removed_non_ingredient
+    Removed: [[Top]]
+
+Fernandito.md:
+  Line 4: removed_non_ingredient
+    Removed: [[Top]]
+
+French 68.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+French 75.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+  Line 7: mapped_ingredient
+    [[Champagner]] -> [[Champagne]]
+
+French Pearl.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Gin Sour.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Golden Dream.md:
+  Line 6: mapped_ingredient
+    [[Sahne]] -> [[Heavy Cream]]
+
+Golden Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Golden Rye Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Grasshopper.md:
+  Line 5: mapped_ingredient
+    [[Sahne]] -> [[Heavy Cream]]
+
+Havana Sidecar.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Hole in the Cup.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Honey & Smoke.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Top]]
+
+Honolulu Juicer.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Horse's Neck.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Dash]]
+  Line 6: removed_non_ingredient
+    Removed: [[Top]]
+
+Hot Frenchman.md:
+  Line 6: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Hotel Nacional Special.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+I like em fucked up.md:
+  Line 6: mapped_ingredient
+    [[Light Rum]] -> [[White Rum]]
+
+I.B.U..md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Infante.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Jade.md:
+  Line 2: mapped_ingredient
+    [[Limettensaft]] -> [[Lime Juice]]
+
+Jamaica Fever.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Jean Lafitte.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+John Morris.md:
+  Line 4: whitespace_fix
+    [[ White Rum]] -> [[White Rum]]
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Journalist.md:
+  Line 5: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Jäger Buck.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Top]]
+
+Kentucky Maid.md:
+  Line 6: case_fix
+    [[lime juice]] -> [[Lime Juice]]
+  Line 7: case_fix
+    [[simple syrup]] -> [[Simple Syrup]]
+
+Ladies Sidecar.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Latin Lover.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Leap Year.md:
+  Line 5: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Leave It to Me.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+  Line 6: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Left Hand.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Lemon on the Beach.md:
+  Line 9: mapped_ingredient
+    [[Cranberrysaft]] -> [[Cranberry Juice]]
+
+Lemonade Golden.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Lemonade.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Lemondrive Mai Tai.md:
+  Line 6: case_fix
+    [[lemon Juice]] -> [[Lemon Juice]]
+
+Lemondrive Zombie.md:
+  Line 3: mapped_ingredient
+    [[Light Rum]] -> [[White Rum]]
+  Line 4: case_fix
+    [[Dark RUm]] -> [[Dark Rum]]
+
+Loftus Special.md:
+  Line 6: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+London Maid.md:
+  Line 6: case_fix
+    [[lime juice]] -> [[Lime Juice]]
+  Line 7: case_fix
+    [[simple syrup]] -> [[Simple Syrup]]
+
+Long Beach Iced Tea.md:
+  Line 4: whitespace_fix
+    [[ White Rum]] -> [[White Rum]]
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+  Line 10: removed_non_ingredient
+    Removed: [[Top]]
+  Line 10: mapped_ingredient
+    [[Cranberrysaft]] -> [[Cranberry Juice]]
+
+Long Island Iced Tea.md:
+  Line 4: whitespace_fix
+    [[ White Rum]] -> [[White Rum]]
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+  Line 10: removed_non_ingredient
+    Removed: [[Top]]
+
+Lynchburg Lemonade.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+  Line 7: mapped_ingredient
+    [[Zitronenlimonade]] -> [[Sprite]]
+
+Mai Tai.md:
+  Line 5: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Malcolm Lowry.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Mandeville.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Martin's Rum-Orange Punch.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Martinez.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Mexican Firing Squad Special.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Mexicana.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Millionaire.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Monkey Gland.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Monte Carlo Imperial.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Morning Glory Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Moscow Mule.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Top]]
+
+New Orleans Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Old Cuban.md:
+  Line 8: removed_non_ingredient
+    Removed: [[Top]]
+  Line 8: mapped_ingredient
+    [[Champagner]] -> [[Champagne]]
+
+Olympic.md:
+  Line 5: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Ordinary Seaman.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Paddington.md:
+  Line 3: mapped_ingredient
+    [[Light Rum]] -> [[White Rum]]
+
+Palmer.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Paradise.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Park Lane.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+  Line 5: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Pelican.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+  Line 4: mapped_ingredient
+    [[Limettensaft]] -> [[Lime Juice]]
+
+Pencil thin Mustache.md:
+  Line 8: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+Pepe.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Periodista.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Picasso.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Pick-Me-Up.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Pink Creole.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Pipeline.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+  Line 3: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Planter's Punch.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Poet's Dream.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Polish Maid.md:
+  Line 6: case_fix
+    [[lime juice]] -> [[Lime Juice]]
+  Line 7: case_fix
+    [[simple syrup]] -> [[Simple Syrup]]
+
+Prairie Oyster.md:
+  Line 8: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Pussy Foot.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Quaker's.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Queens Park Swizzle.md:
+  Line 3: mapped_ingredient
+    [[Demerara]] -> [[Demerara Rum]]
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+
+Ramos Gin Fizz.md:
+  Line 7: mapped_ingredient
+    [[Sahne]] -> [[Heavy Cream]]
+  Line 10: removed_non_ingredient
+    Removed: [[Top]]
+  Line 10: removed_non_ingredient
+    Removed: [[Dash]]
+
+Rattlesnake.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Red Lion.md:
+  Line 3: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Remember the Maine.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Resucitador.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Rose English.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+  Line 3: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Royal Bermuda Yacht Club.md:
+  Line 3: mapped_ingredient
+    [[Demerara]] -> [[Demerara Rum]]
+
+Royal Gin Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Ruby Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Rum Fizz.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Rum Gimlet.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Rum Sour.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Russian Spring Punch.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+  Line 7: mapped_ingredient
+    [[Champagner]] -> [[Champagne]]
+
+Rye Sling.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Rye Sour.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Satans Whiskers.md:
+  Line 8: removed_non_ingredient
+    Removed: [[Dash]]
+
+Schumann's Gimlet.md:
+  Line 2: mapped_ingredient
+    [[Zitronensaft]] -> [[Lemon Juice]]
+
+Scofflow.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Scorpion.md:
+  Line 4: whitespace_fix
+    [[ cognac]] -> [[cognac]]
+  Line 4: case_fix
+    [[cognac]] -> [[Cognac]]
+  Line 5: case_fix
+    [[orange juice]] -> [[Orange Juice]]
+  Line 6: case_fix
+    [[lemon juice]] -> [[Lemon Juice]]
+  Line 7: case_fix
+    [[simple syrup]] -> [[Simple Syrup]]
+
+Sea Breeze.md:
+  Line 7: mapped_ingredient
+    [[Cranberrysaft]] -> [[Cranberry Juice]]
+
+Sex on the Beach.md:
+  Line 6: mapped_ingredient
+    [[Cranberrysaft]] -> [[Cranberry Juice]]
+
+Siesta.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Silver Monk.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Smoke and Mirrors.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Suffering Bastard.md:
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+
+Swimmingpool.md:
+  Line 4: mapped_ingredient
+    [[Light Rum]] -> [[White Rum]]
+
+Tequila Sunrise.md:
+  Line 3: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+The Slope.md:
+  Line 5: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+The Smash (Modern).md:
+  Line 6: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+Tipperary.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Dash]]
+
+Tokio Tea.md:
+  Line 4: whitespace_fix
+    [[ White Rum]] -> [[White Rum]]
+  Line 6: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+  Line 10: removed_non_ingredient
+    Removed: [[Top]]
+
+Tom Collins.md:
+  Line 6: removed_non_ingredient
+    Removed: [[Top]]
+
+Touchdown.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Tropical Coffee Margarita.md:
+  Line 2: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Tuxedo.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Dash]]
+  Line 7: removed_non_ingredient
+    Removed: [[Dash]]
+
+Ty Cobbler.md:
+  Line 5: mapped_ingredient
+    [[Blanco Tequila]] -> [[Tequila Blanco]]
+
+Vodka Martini.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Dash]]
+
+Wellfare.md:
+  Line 4: removed_non_ingredient
+    Removed: [[Dash]]
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+
+Whiskey Smash.md:
+  Line 7: mapped_ingredient
+    [[Mint Leaves]] -> [[Fresh Mint]]
+
+White Russian.md:
+  Line 5: removed_non_ingredient
+    Removed: [[Top]]
+
+Wizard.md:
+  Line 4: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+  Line 7: removed_non_ingredient
+    Removed: [[Top]]
+
+Yellow Parrot.md:
+  Line 3: mapped_ingredient
+    [[Apricot Brandy]] -> [[Apricot Liqueur]]
+
+Zombie.md:
+  Line 8: case_fix
+    [[lime juice]] -> [[Lime Juice]]
+  Line 9: case_fix
+    [[cinnamon syrup]] -> [[Cinnamon Syrup]]
+  Line 10: case_fix
+    [[grenadine]] -> [[Grenadine]]
+  Line 12: removed_non_ingredient
+    Removed: [[Dash]]

@@ -1,0 +1,472 @@
+# Other Spirits Cocktails
+
+Collection of 466 cocktails featuring Other Spirits as the base spirit.
+
+## Cocktails
+
+- [[Ancient Mariner]] - The "Ancient Mariner" cocktail is a tiki drink created by Jeff "Beachbum" Berry and Annene Kaye.
+- [[Ancient Mariner (Jeff Berry)]] - The "Ancient Mariner" cocktail is a tiki drink created by Jeff "Beachbum" Berry and Annene Kaye.
+- [[Anejo Highball]] - The "Añejo Highball" is a sophisticated cocktail with a relatively modern origin, credited to the renowned bartender Dal
+- [[Ante Up]] - The "Ante Up" cocktail is a modern creation by bartender Nicholas Jarrett.
+- [[Aperol Sour]] - The Aperol Sour is a modern cocktail that puts a twist on the classic "sour" formula.
+- [[Aperolitan]] - The "Aperolitan" cocktail is a modern variation of the classic Cosmopolitan, replacing vodka with Aperol.
+- [[Apfelstrudel]] - The Apfelstrudel shot is a modern invention, created to taste like the famous Austrian dessert, the Apfelstrudel.
+- [[Apfelstrudel Cocktail]] - The Apfelstrudel Cocktail is a modern creation inspired by the traditional Austrian pastry, the Apfelstrudel.
+- [[Apple Martini]] - The "Apple Martini," often shortened to "Appletini," is a popular cocktail known for its sweet and tangy flavor.
+- [[Artichoke Hold]] - The "Artichoke Hold" cocktail was created in 2019 by Jeremy Oertel at Donna Bar in Brooklyn, New York City.
+- [[Artlantic]] - The "Artlantic" cocktail is a sea-green drink that originated at the Atlantic Bar & Grill in London, England.
+- [[Aviation (Improved)]] - The "Aviation" cocktail is a classic gin-based drink with a rich history rooted in the early 20th century.
+- [[Awesome Sour]] - The "Awesome Sour" is a modern take on the classic "Sour" cocktail, a category renowned for its refreshing balance of sw
+- [[Bahama Mama]] - The "Bahama Mama" is a popular tropical rum cocktail with a somewhat debated history, though it is generally believed to
+- [[Bamboo]] - The "Bamboo" cocktail is a classic, low-ABV drink primarily composed of sherry, vermouth, and bitters, notable for its a
+- [[Banana Cow]] - The "Banana Cow" cocktail was created by Victor J.
+- [[Banana Pineapple Daiquiri]] - The "Banana Pineapple Daiquiri" is a tropical twist on the classic Daiquiri, a cocktail with a rich history rooted in Cu
+- [[Bananavardier]] - The "Bananavardier" cocktail is a modern twist on the classic "Boulevardier," a drink with roots in 1920s Paris.
+- [[Barracuda]] - The "Barracuda" cocktail is a vibrant, tropical drink with a rich history rooted in Italian bartending and cruise ship c
+- [[Batman]] - The "Batman" cocktail is a themed drink inspired by the iconic DC Comics character, the Dark Knight.
+- [[Beachcomber]] - The "Beachcomber" cocktail is a classic drink with a somewhat debated origin, deeply intertwined with the rise of Tiki c
+- [[Bebbo]] - The "Bebbo" cocktail is an obscure drink believed to be a descendant of the 1920s classic, the Bee's Knees.
+- [[Bee's Knees (Improved)]] - The "Bee's Knees" cocktail originated during the Prohibition era in the United States in the 1920s.
+- [[Belsazar Rose Tonic]] - The Belsazar Rosé & Tonic is a simple and refreshing long drink that highlights the flavors of Belsazar Rosé vermouth.
+- [[Bergamotte Spritz]] - The Bergamotte Spritz is a modern variation of the classic Italian Spritz.
+- [[Between the Sheets]] - The "Between the Sheets" cocktail is a classic pre-Prohibition era drink with a debated origin, a rich history of recipe
+- [[Bijou]] - The "Bijou" cocktail, whose name means "jewel" in French, was created by Harry Johnson, often referred to as "the father
+- [[Biscoff White Russian]] - The Biscoff White Russian is a modern twist on the classic White Russian cocktail.
+- [[Bitter Bee]] - The "Bitter Bee" cocktail originated at the renowned Milk & Honey bar in New York City, with its creation estimated to b
+- [[Blackberry Smash]] - The "Blackberry Smash" is a refreshing cocktail belonging to the "smash" family of drinks, characterized by muddled frui
+- [[Blood and Sand]] - The "Blood and Sand" cocktail is a classic drink with a name directly inspired by popular culture of its time.
+- [[Bloody Mary]] - The "Bloody Mary" cocktail boasts a rich and somewhat contested history, with its origins generally traced back to the 1
+- [[Blue Hawaiian]] - The "Blue Hawaiian" cocktail is often confused with the "Blue Hawaii," its predecessor, due to their similar names and b
+- [[Blue Kamikaze]] - The Blue Kamikaze is a popular variation of the Kamikaze cocktail.
+- [[Blue Lagoon]] - The "Blue Lagoon" cocktail is believed to have been created by Andy MacElhone, the son of the famous bartender Harry Mac
+- [[Blue Sky]] - The "Blue Sky" is a name given to a variety of cocktails that are blue in color, typically due to the use of blue curaça
+- [[Bobsled]] - The "Bobsled" cocktail, as presented in this recipe, is a tropical drink that combines Jamaican rum, Fernet, pineapple j
+- [[Boulevardier]] - The "Boulevardier" cocktail originated in Paris in the late 1920s and is attributed to Erskine Gwynne, an American write
+- [[Brain Damage]] - The Brain Damage is a layered shot that gets its name from its unusual and slightly unsettling appearance.
+- [[Brandy Alexander]] - The "Brandy Alexander" is a classic, sweet, and creamy dessert cocktail with a history tracing back to the early 20th ce
+- [[Brombeer Spritz]] - The Brombeer Spritz, or Blackberry Spritz, is a modern twist on the classic Italian Spritz.
+- [[Butterbeer]] - Butterbeer is a drink made famous by the *Harry Potter* series of books and films.
+- [[Campari Shakerato]] - The "Campari Shakerato" is a simple yet elegant Italian aperitivo consisting solely of Campari and ice, vigorously shake
+- [[Campari Spritz]] - The Campari Spritz is a classic Italian aperitif with a history that dates back to the 19th century.
+- [[Carabinieri]] - The "Carabinieri" cocktail is a drink inspired by and named after Italy's national police force, the Carabinieri.
+- [[Cardinal]] - The "Cardinal" cocktail, also known as Cardinale, is a classic aperitif with a rich history rooted in 1950s Rome.
+- [[Carl Josef]] - The "Carl Josef" cocktail is a drink with a German origin, reportedly named after a renowned German bartender who crafte
+- [[Caruso]] - The "Caruso" cocktail is a classic drink named in homage to Enrico Caruso, the celebrated Neapolitan tenor who was promi
+- [[Casablanca]] - The "Casablanca" cocktail is named after the iconic 1942 romantic drama film starring Humphrey Bogart and Ingrid Bergmac
+- [[Cassis Spritz]] - The Cassis Spritz is a modern cocktail that combines the French classic, Crème de Cassis, with the Italian classic, the 
+- [[Champagne Cocktail]] - The "Champagne Cocktail" is a classic alcoholic drink with a rich history, originating in the mid-19th century during th
+- [[Chartreuse Swizzle]] - The "Chartreuse Swizzle" is a modern classic tiki cocktail created by American bartender Marcovaldo Dionysos in San Fran
+- [[Cherry Fizz]] - The "Cherry Fizz" cocktail is a refreshing, bubbly drink that belongs to the broader "fizz" family of cocktails.
+- [[Cherry Flip]] - The "Cherry Flip" is a historical cocktail that belongs to a broader category of mixed drinks known as "flips.
+- [[Chi Chi]] - The "Chi Chi" cocktail is a tropical drink that emerged in the early 1970s, often associated with American tiki culture 
+- [[Chicago Fizz]] - The "Chicago Fizz" is a classic cocktail with a history rooted in the early 20th century in Chicago.
+- [[Choco Colada]] - The "Choco Colada" is a modern, chocolate-flavored variation of the classic Piña Colada.
+- [[Cinnamon Appletini]] - The Cinnamon Appletini is a modern variation of the Appletini, a popular cocktail that emerged in the 1990s.
+- [[Clamato Cocktail]] - The "Clamato Cocktail" as presented here is essentially a variation of the "Caesar" cocktail, often referred to as Canad
+- [[Claridge]] - The "Claridge" cocktail, a classic from the "Golden Age of cocktails," has a rich history and a somewhat debated origin.
+- [[Sync/Rezepte/Cocktails/Cobbler]] - The "Cobbler" cocktail is a classic American drink with a rich history, believed to have originated in the early 19th ce
+- [[Cobras Fang]] - The "Cobra's Fang" is a classic tiki cocktail with a rich history, originating in the late 1930s at Don the Beachcomber'
+- [[Coco Choco]] - The "Coco Choco" cocktail is a modern, descriptive name for a drink combining the popular flavors of chocolate and cocon
+- [[Coconut Banana]] - The "Coconut Banana" is not a single, universally recognized cocktail, but rather a popular flavor combination appearing
+- [[Coconut Dream]] - The "Coconut Dream" is a creamy, sweet cocktail primarily characterized by its distinct coconut flavor.
+- [[Coconut Kiss]]
+- [[Coffee Margarita]] - The "Coffee Margarita" is a contemporary twist on the classic Margarita cocktail, incorporating coffee flavors to create
+- [[Corpse Reviver #2]] - The "Corpse Reviver #2" is a classic cocktail with a rich history, primarily known for its intended purpose as a "pick-m
+- [[Cosmopolitan]] - The "Cosmopolitan" (often informally called "Cosmo") is a widely recognized modern classic cocktail.
+- [[Cranberry Mule]] - The Cranberry Mule is a modern, festive twist on the classic Moscow Mule.
+- [[Cruel Summer]]
+- [[Cuban Special]] - The "Cuban Special" cocktail does not have a widely documented historical origin or a single, definitive creator.
+- [[Cucumber Basil Gimlet]] - The "Cucumber Basil Gimlet" is a modern twist on the classic Gimlet cocktail.
+- [[Cucumber Greek Yogurt Cocktail]] - The "Cucumber Greek Yogurt Cocktail" is a modern, creative cocktail that does not have a widely documented historical or
+- [[Cynar Cocktail]] - The "Cynar Cocktail" is a simple yet elegant drink that highlights Cynar, an Italian bitter liqueur (amaro) whose name d
+- [[Daiquiri Natural]] - The "Daiquiri Natural" refers to the classic and original form of the Daiquiri cocktail, a drink with a fascinating hist
+- [[Dark & Stormy]] - The Dark & Stormy is a classic highball cocktail with a history that is as dramatic as its name.
+- [[Dead Mans Handle]] - The "Dead Man's Handle" cocktail was created by Tiffany Kirk at the Miss Carousel bar in Houston, USA, around 2019.
+- [[Deauville]] - The "Deauville" cocktail is a classic drink believed to have originated before Prohibition, with its first written appea
+- [[Deep South]] - The "Deep South" cocktail is a name applied to various drinks, often inspired by the flavors and cultural essence of the
+- [[Deep-Sea Diver]] - The "Deep-Sea Diver" cocktail has a rich history rooted in the golden age of tiki drinks, evolving from earlier creation
+- [[Derby]] - The "Derby" cocktail is a name associated with several distinct drinks, often evoking a sense of classic elegance or a c
+- [[Derby Daiquiri]] - The "Derby Daiquiri" is a specific variation of the classic Daiquiri cocktail, notable for its origin and association wi
+- [[Desk Job]] - The "Desk Job" cocktail is a spirit-forward drink created by Donny Clutterbuck of The Cure in Rochester, New York.
+- [[Devil]] - The "Devil" cocktail, as presented in this recipe, does not have a widely documented historical origin or a single, defi
+- [[Diplomat]] - The "Diplomat" cocktail, a low-alcohol aperitif, has a history dating back to at least 1922, when it was first published
+- [[Dirty Mother]] - The "Dirty Mother" cocktail is an American drink that originated in the 1970s.
+- [[Dirty White Mother]] - The "Dirty White Mother" cocktail is a variation of the "Dirty Mother" cocktail, which is an American drink that origina
+- [[Don Lockwood]] - The "Don Lockwood" cocktail was created around 2012 by Abraham Hawkins at the Dutch Kills bar in New York.
+- [[Don the Beachcomber Planters Punch]] - The "Don the Beachcomber Planters Punch" is a classic tiki cocktail with a rich history, though Donn Beach's version is 
+- [[Don's Own Grog]] - The "Don's Own Grog" cocktail is a classic tiki drink created by the legendary Donn Beach (also known as Don the Beachco
+- [[Dubonnet Cassis]] - The "Dubonnet Cassis" refers to a drink combining Dubonnet, a French aromatized wine, with Crème de Cassis, a sweet, dar
+- [[Dubonnet Cocktail]] - The "Dubonnet Cocktail" is a classic drink primarily known for its unique blend and its association with royalty.
+- [[Dubonnet Fizz]] - The "Dubonnet Fizz" is a cocktail that combines Dubonnet, a French aromatized wine, with the effervescence of a "fizz" s
+- [[Dubonnet Highball]] - The "Dubonnet Highball" is a refreshing long drink that combines Dubonnet, a French aromatized wine, with a carbonated m
+- [[Due Campari]] - The "Due Campari" cocktail is a modern creation that prominently features Campari, an iconic Italian bitter aperitif.
+- [[Duke of Marlboro]]
+- [[East 8 Hold Up]] - The "East 8 Hold Up" cocktail was created in 2010 by bartender Kevin Armstrong at Milk & Honey in London.
+- [[Eastside]] - The "Eastside" cocktail is a refreshing gin-based drink known for its bright and herbaceous flavors, incorporating cucum
+- [[Eclipse]] - There are two prominent cocktails known as the "Eclipse Cocktail," each with a distinct origin and meaning.
+- [[Eeyore’s Requiem]] - The "Eeyore's Requiem" is a notable cocktail with a distinct history, origin, and a name that cleverly reflects its char
+- [[El Pepino]] - The "El Pepino" cocktail, whose name means "the cucumber" in Spanish, is a refreshing, often spicy, twist on the classic
+- [[Erdbeer Caipirinha]] - The Strawberry Caipirinha is a popular and fruity variation of the classic Caipirinha, the national cocktail of Brazil.
+- [[Erdbeer Caipirinha alkoholfrei]] - The non-alcoholic Strawberry Caipirinha is a modern mocktail that captures the flavors of the classic Brazilian Caipirin
+- [[Fernandito]] - The "Fernandito" cocktail, a popular Argentine drink, has a rich history rooted in the country's unique palate and socia
+- [[Ferrari]]
+- [[Fiesta]] - The "Fiesta" cocktail is a name applied to various drinks, often named to evoke a celebratory or festive atmosphere, dra
+- [[Fifth Avenue]] - The "Fifth Avenue cocktail" is a classic drink that dates back to the early 20th century, notably appearing in "The Savo
+- [[Fino Martini]] - The "Fino Martini" is a sophisticated variation of the classic Martini cocktail, where Fino Sherry is used in place of d
+- [[Fireman's Sour]] - The "Fireman's Sour" is a refreshing cocktail with a history dating back to the early 20th century.
+- [[Fish House Punch No 1]] - "Fish House Punch" is a historic and potent rum-based cocktail with a rich history rooted in colonial America.
+- [[Fish House Punch No 2]] - "Fish House Punch" is a historic and potent alcoholic beverage with a rich history rooted in colonial America.
+- [[Flamed Orange Old Fashioned]] - The Flamed Orange Old Fashioned is a modern and theatrical twist on the classic Old Fashioned, one of the oldest and mos
+- [[Flamingo]] - The "Flamingo" cocktail has a few attributed origins, and its name is primarily linked to its distinctive color and, in 
+- [[Florida Daiquiri]]
+- [[Florida Sling]] - The "Florida Sling" cocktail is a modern interpretation of the classic "Sling" cocktail, likely named to evoke the sunny
+- [[Florodora Reconstructed]] - The Florodora cocktail is a classic gin-based drink named after a popular Broadway musical that premiered in 1899 in Lon
+- [[French 68]] - The "French 68" cocktail is a variation of the more widely known "French 75" cocktail, often featuring an apple aroma or
+- [[French Daiquiri]] - The "French Daiquiri" is a modern twist on the classic Daiquiri cocktail, often incorporating French ingredients.
+- [[French Manhattan]]
+- [[Gauguin]] - The "Gauguin cocktail" is a fruity, tropical drink inspired by the French post-Impressionist artist Eugène Henri Paul Ga
+- [[Gene Tunney]] - The "Gene Tunney cocktail" is named after Gene Tunney, the American professional boxer who held the world heavyweight ch
+- [[Gibson]] - The "Gibson" cocktail is a classic mixed drink closely related to the Martini, primarily distinguished by its unique gar
+- [[Gimlet Marlowe]] - The "Gimlet Marlowe" refers to the classic Gimlet cocktail as famously depicted and popularized in Raymond Chandler's 19
+- [[Gin & Bitters]] - The "Gin & Bitters" cocktail, more commonly known as "Pink Gin," has a rich history, originating in the 19th century wit
+- [[Gin & It]] - The "Gin & It" cocktail boasts a rich history, originating in the late 1800s as the "Sweet Martini" in New York.
+- [[Gin Sour]] - The "Gin Sour" is a classic cocktail with a rich history, originating in the mid-19th century during a period of flouris
+- [[Gin Tonic]] - The Gin and Tonic is a classic highball cocktail with a history that is deeply rooted in the British Empire.
+- [[God's Child]] - The "God's Child" cocktail, as presented in this recipe, is a creamy, sweet drink that closely resembles a "Godchild" co
+- [[Gold Rush]] - The "Gold Rush" cocktail originated in the early 2000s at the renowned Milk & Honey bar in New York City.
+- [[Golden Cadillac]] - The "Golden Cadillac" cocktail was created in 1952 by bartender Frank Klein (sometimes referred to as Frank Cline) at Po
+- [[Golden Colada]]
+- [[Golden Dream]] - The "Golden Dream" cocktail originated in the 1960s at the Old King Bar in Miami, where it was created by bartender Raim
+- [[Golden Fizz]] - The "Golden Fizz" cocktail is a classic drink with roots in the late 19th century, emerging as a variation of the popula
+- [[Golden Nail]] - The "Golden Nail" cocktail is a name applied to various drinks, with one notable version being a variation of the classi
+- [[Golden Rye Fizz]] - The "Golden Rye Fizz" is a cocktail that combines elements of the classic "Fizz" cocktail family with the distinct flavo
+- [[Grasshopper]] - The "Grasshopper" cocktail is a sweet, mint-flavored, after-dinner alcoholic drink, easily recognized by its vibrant gre
+- [[Green Banana]] - The "Green Banana" cocktail is primarily characterized by its use of green banana liqueur, a spirit made from unripe ban
+- [[Green Eyes]] - The "Green Eyes" cocktail has at least two distinct origins and recipes.
+- [[Green Spider]] - The "Green Spider" cocktail is a vibrant green drink primarily known for its simple composition and striking color.
+- [[Greenback]] - The "Greenback cocktail" is a classic American drink with a name that refers to the green color of American paper curren
+- [[Greyhound]] - The "Greyhound" cocktail, a simple yet refreshing drink, has a history rooted in mid-20th century America.
+- [[Habana Libre]] - The "Habana Libre" cocktail, as presented in this recipe, is a unique interpretation that draws inspiration from the spi
+- [[Happy New Year]] - The "Happy New Year" cocktail, as presented in this recipe, is a modern creation designed to evoke the festive spirit of
+- [[Harvard]] - The "Harvard" cocktail is a classic drink with a history dating back to 1895, first documented in George J.
+- [[Havana Sidecar]] - The "Havana Sidecar" is a variation of the classic Sidecar cocktail, with its name signifying a Cuban-inspired twist on 
+- [[Havana Special]] - The "Havana Special" cocktail has its roots in Havana, Cuba, specifically at the renowned El Floridita bar.
+- [[Hazelnut Chocolate Matcha Cocktail]] - The "Hazelnut Chocolate Matcha Cocktail" is a modern beverage creation, with its inspiration dating back to around 2017.
+- [[Heavy Stir]] - The term "Heavy Stir" in cocktail nomenclature refers to the technique of thoroughly stirring a cocktail, particularly t
+- [[Hemingway]] - The cocktail in this recipe, featuring Pernod and Champagne, is a direct reference to Ernest Hemingway's "Death in the A
+- [[Honey Bee]] - The "Honey Bee" cocktail is a delightful variation of the classic "Bee's Knees" cocktail, which has a rich history roote
+- [[Honey Deuce]] - The "Honey Deuce" is the signature cocktail of the US Open tennis tournament.
+- [[Honey Deuce Cocktail]] - The "Honey Deuce" cocktail, the signature drink of the US Open tennis tournament, has a distinct history, origin, and me
+- [[Honolulu Juicer]] - The "Honolulu Juicer cocktail" has a history rooted in the late 1930s, attributed to the renowned tiki bartender Trader 
+- [[Hoop La]] - The "Hoop La" cocktail is a classic drink first documented in Harry Craddock's influential 1930 *The Savoy Cocktail Book
+- [[Hot Buttered Rum]] - The "Hot Buttered Rum" cocktail has a rich history, originating in Colonial America as far back as the 1600s, evolving f
+- [[Hot Frenchman]] - The "Hot Frenchman" cocktail is a classic warm drink originating from France, traditionally enjoyed for centuries to com
+- [[Hot Jamaican]] - The "Hot Jamaican" cocktail, as presented in this recipe, is a warm, spiced rum drink designed to evoke the flavors and 
+- [[Hot M.M.M.]] - The "Hot M.
+- [[Hot MMM]] - The "Hot MMM cocktail," as presented in this recipe, is a warm, milk-based drink featuring dark rum, Tia Maria coffee li
+- [[Hot Marie]] - The "Hot Marie" cocktail, as presented in this recipe, is a warm, coffee-based drink featuring Brandy, Dark Rum, Tia Mar
+- [[Hufflepuff]] - The Hufflepuff cocktail is a modern creation inspired by the world of Harry Potter.
+- [[Hurricane (alkoholfrei) (Spring Fever)]] - The non-alcoholic Hurricane, sometimes called a "Virgin Hurricane," is a modern mocktail that captures the tropical flav
+- [[I like em fucked up]] - The "I like em fucked up" cocktail is a modern and unconventional drink that does not have a widely documented historica
+- [[I.B.F.]] - The "I.
+- [[I.B.U.]] - The "I.
+- [[Iced Tea]] - The "Iced Tea" cocktail, as presented in this recipe, is a unique and complex variation of the classic Long Island Iced 
+- [[Imperial]] - The "Imperial Cocktail" is a classic, Martini-style drink with a history dating back to the early 20th century.
+- [[Income Tax Cocktail]] - The "Income Tax Cocktail" is a classic drink with a history rooted in the 1920s, largely considered a variation of the p
+- [[Intro To Aperol]] - The "Intro To Aperol" cocktail is a modern creation, likely designed to introduce drinkers to the unique flavor profile 
+- [[Ipanema (Mojito+Caipi alkoholfrei)]] - The Ipanema is a popular non-alcoholic cocktail that originated in Brazil.
+- [[Isle of Pines]] - The "Isle of Pines cocktail," also known as "Isla de Pinos cocktail," is a classic Cuban drink named after the Cuban isl
+- [[Italian Coffee]] - The "Italian Coffee" cocktail, as presented in this recipe, is a warm, coffee-based drink featuring Brandy, Amaretto, ho
+- [[Italian Colada]] - The "Italian Colada" is a sophisticated variation of the classic "Piña Colada," blending traditional Caribbean flavors w
+- [[Jack Rose]] - The "Jack Rose" cocktail is a classic American drink with a rich, albeit somewhat debated, history, primarily known for 
+- [[Jacky Old Fashioned]] - The "Jacky Old Fashioned" is a specific variation of the classic Old Fashioned cocktail, made with Jack Daniel's Tenness
+- [[Jade]] - The "Jade cocktail" is a vibrant, often green-hued drink named after the gemstone jade.
+- [[Jamaica Fever]] - The "Jamaica Fever cocktail" is a vibrant, fruity alcoholic drink known for its tropical flavors.
+- [[James Bond]]
+- [[Jean Gabin]] - The "Jean Gabin cocktail" is a warm, comforting drink named after the renowned French actor Jean Gabin, a prominent figu
+- [[Jean Lafitte]]
+- [[Jogging Flip]] - The "Jogging Flip" cocktail is a modern and creative drink that does not have a widely documented historical origin.
+- [[John Collins - Tom Collins]] - The "John Collins" and "Tom Collins" are classic cocktails with intertwined histories, both characterized as refreshing,
+- [[Journalist]] - The "Journalist cocktail" is a classic gin-based drink with a history dating back to at least the 1920s.
+- [[Julians Olive Brandy]] - "Julians Olive Brandy" appears to be a personal or specialty cocktail recipe, as there is no record of a widely known co
+- [[Jungle Bird]] - The "Jungle Bird" cocktail originated on July 6, 1973, at the Aviary Bar in the Hilton Hotel in Kuala Lumpur, Malaysia.
+- [[Jäger Buck]] - The "Jäger Buck cocktail" is a modern twist on the classic "Buck cocktail" formula, incorporating Jägermeister as its ba
+- [[Jägerita]] - The "Jägerita" cocktail is a modern variation that combines elements of the classic Margarita with Jägermeister.
+- [[Kentucky Maid]] - The "Kentucky Maid" cocktail was created in 2005 by acclaimed New York bartender Sam Ross, known for other modern classi
+- [[Kiew Spring Punch]] - The Kiew Spring Punch is a modern renaming of the classic cocktail, the Russian Spring Punch.
+- [[Kill Devil]] - The "Kill Devil cocktail" is a modern classic with a name rooted in the historical origins of rum.
+- [[King's Breakfast]] - The "King's Breakfast cocktail" is a modern mixology creation by Steve the Bartender, drawing inspiration from the class
+- [[Kingston Negroni]] - The "Kingston Negroni" is a contemporary variation of the classic Negroni cocktail, distinguished by its use of Jamaican
+- [[Kir Royal]] - The "Kir Royal" cocktail boasts a rich history rooted in wartime resistance and French ingenuity.
+- [[Knickerbocker Cocktail]] - The "Knickerbocker Cocktail" is a name applied to various drinks, with a classic American version having roots in the mi
+- [[Knockout Cocktail]] - The "Knockout Cocktail" refers to at least two distinct drink recipes, both deriving their name from the potent effect o
+- [[La Floridita Cocktail]]
+- [[La Floridita Daiquiri]]
+- [[La Otra Palabra]] - The cocktail "La Otra Palabra" is a modern variation, or "riff," on the classic "The Last Word" cocktail.
+- [[La Paloma]] - The La Paloma, which means "the dove" in Spanish, is one of Mexico's most popular cocktails.
+- [[Ladies Sidecar]] - The "Ladies Sidecar" cocktail is a modern interpretation of the classic "Sidecar" cocktail, likely named to evoke a ligh
+- [[Late Mistral]] - The "Late Mistral" cocktail is a refreshing and sophisticated drink with French origins.
+- [[Latin Lover]] - The "Latin Lover cocktail" does not appear to have a single, universally recognized historical origin or a definitive me
+- [[Lavendel Spritz]] - The Lavender Spritz is a modern and aromatic twist on the classic Italian Spritz.
+- [[Lavender Breeze]] - The "Lavender Breeze" cocktail does not appear to have a single, definitive historical origin.
+- [[Leap Year]] - The "Leap Year" cocktail was created by Harry Craddock, a renowned English-American bartender at the Savoy Hotel in Lond
+- [[Leave It to Me]] - The "Leave It to Me" cocktail is a classic drink with a history rooted in early 20th-century mixology.
+- [[Lemon Squash]] - Lemon squash is a refreshing non-alcoholic drink, essentially a concentrated lemon syrup diluted with water.
+- [[Sync/Rezepte/Cocktails/Lemonade]] - Lemonade, a refreshing drink made primarily from lemon juice, water, and a sweetener, boasts a history stretching back o
+- [[Lemonade Golden]] - The "Lemonade Golden" cocktail is a modern and creative drink that combines elements of the classic "Fizz" cocktail fami
+- [[Lemondrive (alkoholfrei)]] - The "Lemondrive (alkoholfrei)" appears to be a unique, non-alcoholic creation, rather than a historically documented coc
+- [[Lemondrive Julep]] - The "Lemondrive Julep" cocktail is a modern and creative drink that does not have a widely documented historical origin.
+- [[Lemondrive Martinez]] - The "Lemondrive Martinez" cocktail is a classic drink that is essentially a rendition of the historic "Martinez cocktail
+- [[Liberty Cocktail]] - The "Liberty Cocktail" is a name associated with drinks that evoke a sense of American independence and freedom, often d
+- [[Lichterfest]] - The "Lichterfest" (German for "Festival of Lights") cocktail is not a historically documented drink with a specific orig
+- [[Limoncello Spritz]] - The Limoncello Spritz is a modern and refreshing Italian cocktail that combines the vibrant lemon liqueur, Limoncello, w
+- [[Little Italy]] - The "Little Italy" cocktail was created in 2005 by American mixologist Audrey Saunders at the Pegu Club in New York City
+- [[Loftus Special]] - The "Loftus Special" is a classic cocktail with a somewhat mysterious origin, believed to have emerged in the early 20th
+- [[London Maid]] - The "London Maid" cocktail is part of a family of drinks known as "Maid" cocktails, which were originated by acclaimed N
+- [[Lone Tree]] - The "Lone Tree cocktail," a classic gin-based drink often considered a variation of the Martini, originated in the early
+- [[Long Distance Runner]] - The "Long Distance Runner" cocktail, as presented in this recipe, is a modern and creative drink that does not have a wi
+- [[Love & Murder]] - The "Love & Murder" cocktail is a modern drink created by bartender Nick Bennett at Porchlight in New York City in 2021.
+- [[Macaroni]] - The "Macaroni cocktail" appears to be a less common drink with a few different recipes rather than a widely recognized c
+- [[Macunaima]] - The "Macunaíma cocktail," a uniquely Brazilian drink, was created in 2014 by bartender Arnaldo Hirai at the Boca de Ouro
+- [[Mai Tai]] - The "Mai Tai" is a classic cocktail deeply intertwined with Tiki culture, known for its tropical flavors and disputed or
+- [[Malcolm Lowry]] - The "Malcolm Lowry cocktail" was created by drinks author David Broom.
+- [[Mandeville]] - The "Mandeville cocktail" is a rum-based drink that often includes light rum, dark rum, lemon juice, grenadine, absinthe
+- [[Manhattan Dry]] - The "Manhattan Dry" cocktail is a variation of the classic Manhattan cocktail, distinguished by its use of dry vermouth 
+- [[Manhattan Perfect]] - The "Manhattan Perfect" cocktail is a variation of the classic Manhattan cocktail, distinguished by its use of equal pro
+- [[Manhattan Sweet]] - The "Manhattan Sweet" cocktail refers to the traditional preparation of the classic Manhattan cocktail, which specifical
+- [[Maradona]] - The "Maradona" cocktail, as presented in this recipe, is a modern and creative drink that does not have a widely documen
+- [[Martin's Rum-Orange Punch]] - The "Martin's Rum-Orange Punch," as presented in this recipe, is a modern and creative drink that does not have a widely
+- [[Martinez]] - The "Martinez" cocktail is a classic drink widely considered the direct precursor to the modern Martini, representing a 
+- [[Martinez Cocktail]] - The "Martinez cocktail" is a classic drink widely considered the direct precursor to the modern Martini, representing a 
+- [[Maurice Chevalier]] - The "Maurice Chevalier cocktail" is a classic and sophisticated drink that originated in France.
+- [[Maximillian Affair]] - The "Maximillian Affair cocktail" was created around 2008 by Boston-based bartender Misty Kalkofen, initially at Green S
+- [[Merry Widow No 1]] - The "Merry Widow No 1" cocktail, often simply called the Merry Widow Cocktail, has a rich history tied to a popular thea
+- [[Merry Widow No 2]] - The "Merry Widow No 2" cocktail, as presented in this recipe, is a modern and unique interpretation that draws its name 
+- [[Merry Widow No. 1]] - The "Merry Widow No.
+- [[Merry Widow No. 2]] - The "Merry Widow No.
+- [[Mexican Coffee]] - The "Mexican Coffee" cocktail, as it became known in many restaurants and cocktail books, was reportedly invented in 197
+- [[Mexican Colada]] - The "Mexican Colada" is a sophisticated variation of the classic "Piña Colada," blending traditional Caribbean flavors w
+- [[Mexicana]] - The "Mexicana" cocktail, as presented in this recipe, is a modern and creative drink that does not have a widely documen
+- [[Millionaire]]
+- [[Mimosa]] - The "Mimosa" cocktail is a popular drink known for its vibrant color and refreshing taste, typically made with champagne
+- [[Mint Daiquiri]] - The "Mint Daiquiri" cocktail is a refreshing variation of the classic Daiquiri, distinguished by the addition of fresh m
+- [[Mint Julep Georgia Style]] - The "Mint Julep Georgia Style" is a historical variation of the classic Mint Julep cocktail, distinguished by its use of
+- [[Montana]] - The "Montana" cocktail does not refer to a single, universally recognized drink with a singular history or origin.
+- [[Monte Carlo]] - The "Monte Carlo cocktail" is a classic drink whose exact origin remains largely unknown, though its recipe first appear
+- [[Monte Carlo Imperial]] - The "Monte Carlo Imperial cocktail" is an elegant and refreshing drink that is an adaptation of a recipe found in Harry 
+- [[Monte Cassino]] - The "Monte Cassino" cocktail was created in 2010 by bartender Damon Dyer at the Louis 649 bar in New York City.
+- [[Morning Glory Fizz]] - The "Morning Glory Fizz" cocktail emerged in the 1880s as a popular "eye-opener" or "pick-me-up" drink, intended for mor
+- [[Mr. Bali Hai]] - The "Mr.
+- [[Muddy River]] - The "Muddy River" cocktail, as presented in this recipe, is a modern and creative drink that does not have a widely docu
+- [[Mulata]] - The "Mulata" cocktail is a Cuban drink with a history rooted in the mid-20th century, often described as an aged-rum cho
+- [[New Orleans Fizz]] - The "New Orleans Fizz," also famously known as the "Ramos Fizz," is an iconic cocktail with a rich history deeply intert
+- [[New Orleans Sazerac]] - The "New Orleans Sazerac" cocktail, often simply called the Sazerac, is a drink with deep Creole roots, originating in N
+- [[New York Flip]] - The "New York Flip cocktail" is a specific variation within the classic "Flip" cocktail family.
+- [[New Yorker]] - The "New Yorker" cocktail, as presented in this recipe, is a modern and creative drink that does not have a widely docum
+- [[Ohio]] - The "Ohio" cocktail, also known as "The Ohio Cocktail," is a historical drink of German origin, dating back to the late 
+- [[Olympic]] - The "Olympic Cocktail" is a classic drink with a history rooted in the early 20th century, primarily known through Harry
+- [[Opal]] - The "Opal cocktail" refers to at least two distinct drink recipes.
+- [[Opera]] - The "Opera cocktail" is a classic drink with a history dating back to the early 20th century, featuring two primary vers
+- [[Orange Blossom]] - The "Orange Blossom" cocktail originated during the Prohibition era in the 1900s, primarily to mask the strong taste and
+- [[Orangeade]] - Orangeade is a refreshing beverage typically made from orange juice, sweetened water, and sometimes carbonated.
+- [[Ordinary Seaman]]
+- [[Outlander]] - There are two prominent cocktails known as "Outlander.
+- [[Palmer]] - The "Palmer" cocktail, as presented in this recipe, is a modern and creative alcoholic drink that does not have a widely
+- [[Paloma]] - The "Paloma" cocktail, a popular drink in Mexico, derives its name from the Spanish word "Paloma," meaning "the dove.
+- [[Pampelle Spritz]] - The Pampelle Spritz is a modern and refreshing take on the classic Italian Spritz.
+- [[Paperplane]] - The "Paperplane" cocktail, a modern classic, was created in 2008 by bartender Sam Ross.
+- [[Parisienne]] - The "Parisienne cocktail," a classic drink with roots in the vibrant Parisian cocktail scene of the 1920s and 1930s, has
+- [[Park Avenue]] - The "Park Avenue cocktail" is a vintage drink with a somewhat mysterious origin, believed to date back to around the 194
+- [[Park Lane]] - The "Park Lane cocktail" is a name applied to various drinks, with its name likely evoking the upscale connotations of "
+- [[Parmesan Espresso Martini]] - The "Parmesan Espresso Martini" is a recent and unconventional twist on the classic Espresso Martini, with distinct orig
+- [[Passionfruit Paradise Punch]] - The "Passionfruit Paradise Punch" is a modern tropical punch that draws upon the long tradition of punch-making and the 
+- [[Passoa Sour]] - The Passoa Sour is a modern adaptation of the classic "sour" cocktail formula, which typically combines a spirit, citrus
+- [[Passoa Spritz]] - The Passoa Spritz is a modern cocktail that was developed by the Passoa brand to capitalize on the global popularity of 
+- [[Peach Daiquiri]] - The "Peach Daiquiri" is a modern variation of the classic Daiquiri cocktail, incorporating peach as the primary fruit fl
+- [[Pelican]] - The "Pelican cocktail," as presented in this recipe, is a modern and creative drink that does not have a widely document
+- [[Pencil thin Mustache]] - The "Pencil Thin Mustache" cocktail was created by Dustin Olson of Forrest Point in Brooklyn, NY.
+- [[Peniclin]]
+- [[Pepe]] - The "Pepe cocktail" is a name associated with several distinct cocktails, often referencing a person named Pepe or incor
+- [[Pepinos Café]] - The "Pepinos Café cocktail" is a warm, coffee-based alcoholic drink.
+- [[Perfect Cocktail]] - The "Perfect Cocktail" is a classic drink whose name signifies a specific mixing convention rather than an assessment of
+- [[Periodista]] - The "Periodista cocktail" is a drink with Cuban origins, and its name means "journalist" in Spanish.
+- [[Perroquet]] - The "Perroquet cocktail" is a traditional French mixed drink, particularly popular throughout France and a classic in Ma
+- [[Picasso]] - The "Picasso" cocktail, as presented in this recipe, is a modern and creative drink that does not have a widely document
+- [[Pick-Me-Up]] - The "Pick-Me-Up" cocktail refers to a drink, often alcoholic, intended to restore energy, improve mood, or alleviate the
+- [[Pimm's No. 1]] - The "Pimm's No.
+- [[Pimm's Rangoon]] - The "Pimm's Rangoon" cocktail is a modern and creative drink that does not have a widely documented historical origin.
+- [[Pimm's Royal]] - The "Pimm's Royal" cocktail is a sophisticated variation of the classic "Pimm's Cup," distinguished by its use of Champa
+- [[Pineapple Daiquiri]] - The "Pineapple Daiquiri" is a refreshing variation of the classic Daiquiri cocktail, distinguished by the addition of pi
+- [[Pinerito]] - The "Pinerito cocktail," as presented in this recipe, is a modern and creative drink that does not have a widely documen
+- [[Pink Creole]] - The "Pink Creole cocktail," as presented in this recipe, is a modern and creative drink that does not have a singular, w
+- [[Pink Daiquiri]] - The "Pink Daiquiri" cocktail is a refreshing variation of the classic Daiquiri, distinguished by its pink hue, typically
+- [[Pink Gin]] - The "Pink Gin" has a rich history, originating in the mid-19th century with the British Royal Navy.
+- [[Pinky Colada]] - The "Pinky Colada" is a vibrant and fruity variation of the classic Piña Colada.
+- [[Pipeline]] - The "Pipeline" cocktail is a name that has been applied to at least two distinct drinks.
+- [[Piña Colada Schumann]] - The "Piña Colada Schumann" is a unique interpretation of the classic "Piña Colada," a popular cocktail made with rum, cr
+- [[Piña Colada Schumann's]] - The "Piña Colada Schumann's" is a unique interpretation of the classic "Piña Colada," a popular cocktail made with rum, 
+- [[Piña colada]] - The Piña Colada, a world-renowned tropical cocktail, is widely believed to have been created in Puerto Rico.
+- [[Piña colada (alkoholfrei)]] - The non-alcoholic Piña Colada, often referred to as a Virgin Piña Colada, is a direct adaptation of the classic alcoholi
+- [[Planter's Punch]] - The Planter's Punch is a classic rum cocktail with a rich and somewhat mysterious history, largely attributed to Jamaica
+- [[Planter's Punch (Don the Beachcomber)]] - The Planter's Punch is a classic rum cocktail with a history rooted in the West Indies, likely originating in Jamaica be
+- [[Planter's Punch Schumann]] - The Planter's Punch is a classic rum cocktail with a history rooted in the West Indies, particularly Jamaica, dating bac
+- [[Polar Bear]] - The "Polar Bear" is a name given to several distinct cocktails, rather than a single historically continuous drink.
+- [[Polish Maid]] - The Polish Maid cocktail is a modern creation that belongs to a family of drinks known as "Maids.
+- [[Prairie Oyster]] - The Prairie Oyster is a traditional beverage often touted as a hangover remedy, believed to have originated in New Engla
+- [[Presidente]] - The Presidente cocktail is a classic Cuban drink with a rich history, tracing its origins back to Havana around 1913 or 
+- [[Prince of Wales]] - The Prince of Wales cocktail was created by Albert Edward, Prince of Wales, who later became King Edward VII.
+- [[Princeton]] - The Princeton Cocktail is a classic drink with a history dating back to the late 19th century.
+- [[Pumpkin Spice Martini]]
+- [[Punch à la Washington Hotel]] - The "Punch à la Washington Hotel" is a cocktail that, despite its classic-sounding name, appears to be a more modern cre
+- [[Pupule]] - The "Pupule" cocktail is a classic Tiki drink with a rich history, originating from the legendary Don the Beachcomber in
+- [[Pussy Foot]] - The Pussyfoot cocktail, a classic non-alcoholic drink, was created in 1920 by Robert Vermeire at the Embassy Club in Lon
+- [[Quaker's]] - The Quaker's Cocktail is a relatively modern alcoholic beverage, with its first known publication dating back to 1923.
+- [[Quarter Deck]] - The Quarter Deck cocktail is a classic rum-based drink, often considered a member of the Rum Daiquiri family.
+- [[Quatresse]] - The "Quatresse" is the signature cocktail of Combat bar in Paris, created by its owner, Margot Lecarpentier.
+- [[Queens Park Swizzle]] - The Queens Park Swizzle is a classic rum cocktail that originated in Trinidad, specifically at the Queen's Park Hotel in
+- [[Rattlesnake]] - The Rattlesnake cocktail's history traces back to Harry Craddock's 1930 publication, *The Savoy Cocktail Book*.
+- [[Ravenclaw]] - The Ravenclaw cocktail is a modern, fan-created drink inspired by the Ravenclaw house from the Harry Potter series.
+- [[Reconstructed Surfer on Acid]] - The "Reconstructed Surfer on Acid" is a modern and refined take on the popular "Surfer on Acid" shot.
+- [[Red Headed Slut]] - The Red Headed Slut shot is a popular cocktail believed to have originated in Ohio at O'Grady's Pub in 2000.
+- [[Red Lion]] - The Red Lion cocktail was invented by Arthur Tarling, the head bartender at London's Café Royal, in 1933.
+- [[Red Mouth]] - The "Red Mouth" cocktail appears to be a unique or obscure recipe, as there is no widely documented historical informati
+- [[Red Russian]] - The Red Russian cocktail is generally considered a vibrant, fruity variation of the classic White Russian cocktail.
+- [[Red Seal of Shimoda]] - The Red Seal of Shimoda cocktail draws its name and inspiration from the Japanese port city of Shimoda, which holds hist
+- [[Red Snapper]] - The name "Red Snapper" typically refers to a gin-based variation of the classic Bloody Mary cocktail.
+- [[Repossession Cocktail]] - The Repossession Cocktail was created by Leo Robitschek, a renowned mixologist, initially for the Eleven Madison Park re
+- [[Ritz]] - The "Ritz" cocktail, as described in this recipe, is most closely associated with the "Ritz Cocktail" created in the mid
+- [[Rob Roy]] - The Rob Roy cocktail was first created in 1894 by a bartender at the Waldorf Astoria hotel in Manhattan, New York City.
+- [[Robinson]] - The "Robinson" cocktail appears to be a unique or obscure recipe, as there is no widely documented historical informatio
+- [[Roku Koori Negroni]] - The "Roku Koori Negroni" is a modern variation of the classic Negroni cocktail, distinguished by its use of Roku Japanes
+- [[Rolls-Royce]] - The Rolls-Royce cocktail emerged in the early 20th century, a period when cocktails gained popularity within high societ
+- [[Rory O'More]] - The Rory O'More cocktail is an Irish-whiskey-based variant of the Manhattan, closely related to the Rob Roy, which uses 
+- [[Rosalita]] - The Rosalita cocktail is a modern creation, developed in 2015 by Dylan O'Brien at his bar, Prizefighter, in Emeryville, 
+- [[Rose English]] - The "Rose English" cocktail, often referred to as the "English Rose," is a classic drink with a history that is somewhat
+- [[Rose French]] - The "Rose French" cocktail is a variation of the classic "Rose" cocktail, a French drink that gained popularity in Paris
+- [[Rosemary Sunset Spritz]] - The Rosemary Sunset Spritz is a modern variation built upon the foundational "Spritz" cocktail, incorporating specific f
+- [[Rosita]] - The Rosita cocktail, a tequila-based drink often likened to a Negroni, has a somewhat mysterious and evolving history.
+- [[Royal Bermuda Yacht Club]] - The Royal Bermuda Yacht Club cocktail, though bearing the name of the prestigious club established in Bermuda in 1844, d
+- [[Royal Gin Fizz]] - The Royal Gin Fizz is a member of the "Fizz" cocktail family, characterized by its refreshing and bubbly nature.
+- [[Ruby Fizz]] - The Ruby Fizz cocktail is a relatively modern addition to the "Fizz" cocktail family, which itself dates back to the 19t
+- [[Rum Alexander]] - The Rum Alexander cocktail is a variation of the classic Alexander cocktail, which originated in the early 20th century.
+- [[Rum Eggnog]] - The history of rum eggnog traces back to a medieval British drink called "posset," a warm, milky beverage often curdled 
+- [[Rum Fizz]] - The "Fizz" cocktail family, which includes rum-based variations, gained widespread popularity in America between 1900 an
+- [[Rum Gimlet]] - The history of the Rum Gimlet cocktail is closely tied to the British Royal Navy's efforts to combat scurvy and the evol
+- [[Rum Highball]] - The history of the Rum Highball is closely tied to the broader history of the Highball cocktail.
+- [[Rum Old Fashioned]] - The Rum Old Fashioned is a variation of the classic Old Fashioned cocktail, which has a history dating back to the early
+- [[Rum Runner]] - The Rum Runner cocktail originated in the Florida Keys, specifically at the Holiday Isle Tiki Bar (now the Postcard Inn)
+- [[Rum Sazerac]] - The Rum Sazerac is a variation of the classic Sazerac cocktail, which has a rich and storied history rooted in New Orlea
+- [[Rum Screwdriver]] - The "Screwdriver" cocktail is traditionally made with vodka and orange juice.
+- [[Rum Sour]] - The Rum Sour cocktail, a classic in mixology, boasts a history deeply intertwined with the evolution of rum itself and t
+- [[Rum Stinger]] - The Stinger cocktail, traditionally made with brandy (often Cognac) and crème de menthe, originated around the 1890s in 
+- [[Russian Bear]] - The Russian Bear cocktail is a creamy, sweet, and potent "Russian Dessert drink" typically made with vodka, dark crème d
+- [[Russian Cadillac]] - The "Russian Cadillac" cocktail appears to be a modern variation within the family of creamy, vodka-based "Russian" cock
+- [[Rye Sling]] - The Rye Sling cocktail is rooted in the broader history of "slings," a category of drinks popular in America during the 
+- [[Rye Sour]] - The history of the Rye Sour cocktail is deeply intertwined with the broader history of sour cocktails and, more specific
+- [[Salty Dog]] - The Salty Dog cocktail is a classic drink that originated as a variation of the Greyhound, a simpler concoction of gin (
+- [[Saoco]] - The Saoco cocktail is a refreshing Cuban drink with a history stretching back to the 19th century.
+- [[Sarti Spritz]] - The Sarti Spritz is a modern cocktail that gained significant popularity in the summer of 2023, particularly in Finland 
+- [[Schumann's Gimlet]] - The "Schumann's Gimlet" is a notable variation of the classic Gimlet cocktail, created in 1983 by the renowned German ba
+- [[Schumann's Gimlet 1983]] - The "Schumann's Gimlet" is a variation of the classic Gimlet cocktail, created in 1983 by the renowned German bartender 
+- [[Schüttler]] - The "Schüttler" is not a traditional cocktail with a widely documented historical origin.
+- [[September Morn]] - The September Morn cocktail is believed to have been named after Paul Chabas's 1912 painting of the same name.
+- [[Sex on the Beach (alkoholfrei)]] - The "Sex on the Beach" cocktail is widely believed to have originated in 1987 in Fort Lauderdale, Florida, during Spring
+- [[Shanghai]] - The earliest known recipe for a "Shanghai Cocktail" was published in Harry Craddock's *The Savoy Cocktail Book* in 1930.
+- [[Shirley Temple]] - The Shirley Temple is a non-alcoholic mixed drink, or "mocktail," named after the famous child actress Shirley Temple.
+- [[Sidewinders Fang]] - The Sidewinder's Fang is a classic tiki cocktail that originated in the 1960s at the Lanai Restaurant in San Mateo, Cali
+- [[Silver Jubilee]] - The "Silver Jubilee" cocktail, as described in this recipe, is a creamy, gin-based drink that typically includes gin, ba
+- [[Singapore Sling]] - The Singapore Sling is a gin-based cocktail with a rich and somewhat debated history, widely recognized as originating i
+- [[Sir Walter]] - The Sir Walter cocktail, also known as the "Swalter," has its origins in the pre-Prohibition era and was first documente
+- [[Slitherin]] - The "Slitherin" cocktail does not have a long, traditional history like classic cocktails.
+- [[Sloppy Joe]] - The Sloppy Joe cocktail is intrinsically linked to the famous Sloppy Joe's Bar in Havana, Cuba, which was a popular esta
+- [[Smoke and Bitters]]
+- [[Smoked Old Fashioned with Maple & Pecan Bitters]] - The "Smoked Old Fashioned with Maple & Pecan Bitters" is a modern interpretation of the classic Old Fashioned cocktail, 
+- [[Snoopy]] - The "Snoopy" cocktail is a fruity variation of a classic Boulevardier or an Old Fashioned, named in honor of the imagina
+- [[Solero]] - The Solero cocktail was created around 2003 by Ross Simon while he was bartending at the LAB bar in Soho, London, Englan
+- [[Sombrero]] - The name "Sombrero" cocktail is typically associated with a drink made from coffee liqueur (most commonly Kahlúa) and cr
+- [[South of the Border]] - The "South of the Border" cocktail does not appear to have a single, definitive historical origin or inventor.
+- [[Southern Comfort Sour]] - The Southern Comfort Sour is a variation of the classic Whiskey Sour, with its history intertwined with the creation and
+- [[Southside]] - The exact origin of the Southside cocktail is debated, with several theories pointing to its creation in different locat
+- [[Spiced Castle]] - The "Spiced Castle" cocktail does not appear to have a widely documented historical origin as a classic cocktail.
+- [[Spiced Pear Collins]] - The Spiced Pear Collins is a contemporary, autumnal twist on the classic Tom Collins cocktail.
+- [[Spicy Fifty]] - The Spicy Fifty cocktail was created by the renowned mixologist Salvatore Calabrese in the early 2000s, specifically aro
+- [[Spicy Sauvignon Blanc]] - The "Spicy Sauvignon Blanc" is a very recent development in the world of beverages, largely emerging as a social media t
+- [[Spring Fever]] - The "Spring Fever" cocktail does not have a singular, long-standing historical origin.
+- [[Spritzer]] - The Spritzer cocktail, commonly known as the Spritz, has a rich history rooted in the Veneto region of Italy during the 
+- [[Storm King]] - The Storm King cocktail was created by bartender Damon Boelte at his Grand Army bar and restaurant in Brooklyn, New York
+- [[Stormy Weather]] - The "Stormy Weather" cocktail, as a distinct historical entity, is not as widely documented as its close relative, the "
+- [[Strawberry Daiquiri]] - The Strawberry Daiquiri, a popular and vibrant cocktail, evolved from the classic Daiquiri, which originated in the late
+- [[Strawberry Margarita]] - The Strawberry Margarita is a popular fruit-flavored variation of the classic Margarita cocktail.
+- [[Summer Cooler]]
+- [[Sweet & Hot]] - The "Sweet & Hot" cocktail does not have a single, historically documented origin as a classic cocktail.
+- [[Sweet Science]] - The "Sweet Science" cocktail does not appear to have a single, widely documented historical origin as a classic cocktail
+- [[Swimming Pool]] - The "Swimming Pool" cocktail was created in 1979 by the renowned German bartender Charles Schumann.
+- [[Swimmingpool]] - The "Swimmingpool" cocktail, also known as the "Swimming Pool," was created in 1979 by the renowned German bartender Cha
+- [[TNT]] - The "TNT cocktail" refers to at least two distinct drinks with different origins.
+- [[Tahitian Punch]] - The history of Tahitian Punch is intertwined with the broader evolution of rum punches in the Caribbean and the specific
+- [[Tequila Gimlet]] - The Tequila Gimlet is a modern adaptation of the classic Gimlet cocktail, where tequila replaces gin as the base spirit.
+- [[Tequila Matador]] - The history of the Tequila Matador cocktail is marked by two distinct recipes bearing the same name.
+- [[Tequila Mockingbird]] - The Tequila Mockingbird cocktail is believed to have been created sometime in the 1960s.
+- [[Tequila Sour]] - The Tequila Sour is a modern interpretation of the classic "sour" cocktail family, which has roots dating back to the 18
+- [[Tequini]] - The Tequini cocktail is a variation of the classic Martini, believed to have originated in the 1960s.
+- [[The Dockside - A Killer Rum Old Fashioned Cocktail]] - "The Dockside: A Killer Rum Old Fashioned Cocktail" is a modern creation, not a historical cocktail with a long lineage.
+- [[The Educated Barflys Coffee and Coke Cocktail]] - "The Educated Barfly's Coffee and Coke Cocktail" is a modern creation.
+- [[The Overachiever (Vanilla Coffee Old Fashioned)]] - "The Overachiever (Vanilla Coffee Old Fashioned)" is a modern variation of the classic Old Fashioned cocktail, which its
+- [[The Smash (Modern)]] - The "Smash" cocktail first appeared in the mid-1840s and gained popularity in the 1850s, with the Brandy Smash being a f
+- [[Tipperary]] - The Tipperary cocktail, a classic with Irish roots, emerged in the early 20th century.
+- [[Tom & Jerry]] - The Tom & Jerry cocktail, a traditional Christmas-time drink in the United States, is widely attributed to British journ
+- [[Tom Collins]] - The history of the Tom Collins cocktail is debated, with two primary theories regarding its origin.
+- [[Tomate]] - The "Tomate" cocktail, also known as Pastis Grenadine, originated in the south of France as a way to diversify the consu
+- [[Tommy’s Margarita]] - The Tommy's Margarita cocktail was created by Julio Bermejo in the early 1990s (some sources indicate 1987) at his famil
+- [[Touchdown (alkoholfrei)]] - There isn't a single, universally recognized "Touchdown cocktail" with a clear historical origin.
+- [[Trader Vic's Grog]] - The Trader Vic's Grog is a classic cocktail deeply rooted in the history of Tiki culture, a movement largely popularized
+- [[Trader Vic’s Grog]] - The Trader Vic's Grog cocktail is deeply rooted in the history of Tiki culture, a movement largely popularized by Victor
+- [[Tricontinental]] - The "Tricontinental cocktail" is a layered drink typically made with gold rum, brown crème de cacao, and grenadine syrup
+- [[Trinity]] - The "Trinity cocktail" refers to several distinct drink recipes, often named for their three primary ingredients or a th
+- [[Tropical Champagne]] - The "Tropical Champagne" cocktail, as a specific named drink, originated in 1980, attributed to the renowned German bart
+- [[Tropical Coffee Margarita]] - The Tropical Coffee Margarita was invented at the Maybe Sammy bar in Sydney, Australia.
+- [[Tropical Fluff]] - The "Tropical Fluff" cocktail was created by New York City bartender Fanny Chu for Donna, a bar in Brooklyn.
+- [[Truffle Martini]] - The "Truffle Martini" is a modern and decadent variation of the classic Martini cocktail, distinguished by the infusion 
+- [[Tuxedo]] - The Tuxedo cocktail, a classic gin-based drink, traces its origins back to the late 19th century, specifically to the Tu
+- [[Ty Cobbler]] - The Ty Cobbler is a modern cocktail that originated as a "riff" on the classic cobbler style.
+- [[Uccello Milano]]
+- [[Ucello Milano]]
+- [[Vanilla Cherry Iced Tea]] - The "Vanilla Cherry Iced Tea cocktail" does not appear to have a specific, documented historical origin as a classic coc
+- [[Vanilla Martini]] - The Vanilla Martini cocktail is believed to have originated in the United States in the early 2000s.
+- [[Velvet Hammer]] - The Velvet Hammer cocktail is believed to have originated in the late 1960s, 1970s, or early 1980s, a period when creamy
+- [[Vermouth Cassis]] - The Vermouth Cassis cocktail, a popular wine-based drink in France, dates back to at least the early 1880s, with mention
+- [[Vermouth Cocktail]] - The "Vermouth Cocktail" first appeared around 1868 or 1869, typically consisting of chilled vermouth, a twist of lemon p
+- [[Vermouth Tonic]] - The Vermouth Tonic cocktail, while seemingly a modern trend, has roots deeply intertwined with the history of vermouth i
+- [[Villa Nova]] - The "Villa Nova" cocktail is a modern creation, with its recipe published by "The Educated Barfly.
+- [[Virgin Mary]] - The Virgin Mary cocktail is essentially a non-alcoholic version of the popular Bloody Mary.
+- [[Vodka Bull & Mate]] - The "Vodka Bull" and "Vodka Mate" cocktails have distinct histories, both emerging from the trend of mixing vodka with p
+- [[Vodka Cranberry]] - The Vodka Cranberry cocktail, often referred to as the Cape Codder, originated in the 1940s as a marketing initiative by
+- [[Vodka Gimlet Original]] - The Vodka Gimlet is a modern adaptation of the classic Gin Gimlet, a cocktail with roots in the 19th-century British Roy
+- [[Vodka Gimlet Schumann]] - This "Vodka Gimlet Schumann" is a specific version of the Vodka Gimlet, likely created or popularized by the renowned Ge
+- [[Vodka Sling]] - The Vodka Sling is a modern adaptation of a much older cocktail known as the "Sling," which originated in colonial Ameri
+- [[Vodka Soda]] - The Vodka Soda, a seemingly simple two-ingredient cocktail, has a history rooted in the broader practice of mixing spiri
+- [[Vodka Stinger]] - The Vodka Stinger is a modern twist on the classic Stinger cocktail, which has a history dating back to the late 19th ce
+- [[Volcano]]
+- [[Voldemort]] - The "Voldemort cocktail" does not refer to a single, historically established drink with a definitive origin.
+- [[Volga Volga]] - The "Volga Volga" cocktail appears to refer to at least two distinct drinks.
+- [[Waldorf-Astoria Eggnog]]
+- [[Ward Eight]] - The Ward Eight cocktail originated in Boston, Massachusetts, in 1898 at the bar of the Locke-Ober restaurant.
+- [[Watermelon Slice]] - The "Watermelon Slice" cocktail is a recent creation, introduced by IHG Hotels & Resorts, a sponsor of the U.
+- [[Wedding Bells Cocktail]] - The "Wedding Bells Cocktail" has a documented origin in Charles Schumann's 1995 book *American Bar*.
+- [[West Indian Punch]] - The history of West Indian Punch is deeply intertwined with the broader history of punch, a beverage that originated in 
+- [[Whiskey Cola]] - The Whiskey Cola cocktail, often referred to as a "Coca-Cola high-ball," first appeared in print in 1907.
+- [[Whiskey Hot Toddy]] - The Whiskey Hot Toddy, a warm and comforting cocktail, boasts a history steeped in both medicinal claims and social cust
+- [[White Cloud]] - The "White Cloud" cocktail does not appear to have a long or well-documented history within classic cocktail literature.
+- [[White Noise]] - The "White Noise" cocktail is a refreshing and slightly sweet, low-alcohol aperitif that originated at the Portland Hunt
+- [[Wibble]] - The Wibble cocktail was created by the renowned British mixologist Dick Bradsell in 1999 at The Player bar in London, En
+- [[Wisconsin Royale]] - The "Wisconsin Royale" is a sparkling variation of the classic "Wisconsin Old Fashioned" cocktail, distinguished by its 
+- [[Wodka Sour]] - The Wodka Sour (Vodka Sour) is a modern adaptation of the classic sour cocktail, which has roots dating back to the mid-
+- [[Woo Woo]] - The Woo Woo cocktail, a sweet and fruity drink made with vodka, peach schnapps, and cranberry juice, emerged in the Unit
+- [[Yellow Bird No 1]] - The Yellow Bird cocktail is a classic tropical drink with origins believed to be in the Caribbean, particularly Jamaica 
+- [[Yellow Bird No 2]] - The Yellow Bird cocktail is a vibrant, tropical drink with a somewhat mysterious origin, believed to have emerged in the
+- [[Yellow Boxer]] - The exact history of the "Yellow Boxer" cocktail, particularly in relation to the year 1981, is not clearly documented i
+- [[Yellow Fever]] - There is no specific historical information linking the "Yellow Fever cocktail" to the year 1982.
+- [[Yellow Parrot]] - The Yellow Parrot cocktail is a classic drink with a history dating back to the early 20th century.
+- [[Zico]] - The "Zico" cocktail, with its tropical ingredients, appears to be a modern creation, and its exact historical origin is 
+- [[Zombie (Donn Beach)]] - The Zombie cocktail was invented in 1934 by Donn Beach (born Ernest Raymond Beaumont-Gantt) at his Hollywood restaurant,
+- [[Zombie Schumann]] - The "Zombie Schumann" cocktail is a specific interpretation of the classic Zombie cocktail, likely created or adapted by
