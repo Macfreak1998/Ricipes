@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sync/Test.md",
+                "file": "Ikea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Ikea"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sync/Test.md",
+                "file": "Ikea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Ikea"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sync/Test.md",
+                "file": "Ikea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from Ikea"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sync/Test.md",
+                "file": "Ikea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Ikea"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "07bc421c6ab6d5ce",
   "lastOpenFiles": [
-    "Lemondrive/Untitled.md",
     "Sync/Test.md",
+    "Lemondrive/Untitled.md",
     "Lemondrive",
     "Ikea.md",
     "Sync"
